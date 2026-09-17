@@ -1,15 +1,15 @@
 {
-  "pnj.mouss.1": { "sounds": ["mouss_1"] },
-  "pnj.mouss.2": { "sounds": ["mouss_2"] },
-  "pnj.mouss.3": { "sounds": ["mouss_3"] },
-  "pnj.cartographe.1": { "sounds": ["cartographe_1"] },
-  "pnj.cartographe.2": { "sounds": ["cartographe_2"] },
-  "pnj.cartographe.3": { "sounds": ["cartographe_3"] },
-  "pnj.vieuxloupdemer.1": { "sounds": ["vieuxloupdemer_1"] },
-  "pnj.vieuxloupdemer.2": { "sounds": ["vieuxloupdemer_2"] },
-  "pnj.vieuxloupdemer.3": { "sounds": ["vieuxloupdemer_3"] },
-  "pnj.passager.1": { "sounds": ["passager_1"] },
-  "pnj.passager.2": { "sounds": ["passager_2"] },
-  "pnj.passager.3": { "sounds": ["passager_3"] },
-  "pnj.matelot.1": { "sounds": ["matelot_1"] }
+  "pnj.mouss.1": { "sounds": ["pnjvoix:mouss_1"] },
+  "pnj.mouss.2": { "sounds": ["pnjvoix:mouss_2"] },
+  "pnj.mouss.3": { "sounds": ["pnjvoix:mouss_3"] },
+  "pnj.cartographe.1": { "sounds": ["pnjvoix:cartographe_1"] },
+  "pnj.cartographe.2": { "sounds": ["pnjvoix:cartographe_2"] },
+  "pnj.cartographe.3": { "sounds": ["pnjvoix:cartographe_3"] },
+  "pnj.vieuxloupdemer.1": { "sounds": ["pnjvoix:vieuxloupdemer_1"] },
+  "pnj.vieuxloupdemer.2": { "sounds": ["pnjvoix:vieuxloupdemer_2"] },
+  "pnj.vieuxloupdemer.3": { "sounds": ["pnjvoix:vieuxloupdemer_3"] },
+  "pnj.passager.1": { "sounds": ["pnjvoix:passager_1"] },
+  "pnj.passager.2": { "sounds": ["pnjvoix:passager_2"] },
+  "pnj.passager.3": { "sounds": ["pnjvoix:passager_3"] },
+  "pnj.matelot.1": { "sounds": ["pnjvoix:matelot_1"] }
 }
