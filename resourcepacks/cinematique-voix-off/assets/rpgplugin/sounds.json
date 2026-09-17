@@ -1,7 +1,7 @@
 {
   "cinematique.intro": {
     "sounds": [
-      "cinematique_intro"
+      "rpgplugin:cinematique_intro"
     ]
   }
 }
