@@ -11,5 +11,6 @@
   "pnj.passager.1": { "sounds": ["pnjvoix:passager_1"] },
   "pnj.passager.2": { "sounds": ["pnjvoix:passager_2"] },
   "pnj.passager.3": { "sounds": ["pnjvoix:passager_3"] },
-  "pnj.matelot.1": { "sounds": ["pnjvoix:matelot_1"] }
+  "pnj.matelot.1": { "sounds": ["pnjvoix:matelot_1"] },
+  "pnj.garde.1": { "sounds": ["pnjvoix:garde_1"] }
 }
