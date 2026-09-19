@@ -13,5 +13,13 @@
   "pnj.passager.3": { "sounds": ["pnjvoix:passager_3"] },
   "pnj.matelot.1": { "sounds": ["pnjvoix:matelot_1"] },
   "pnj.garde.1": { "sounds": ["pnjvoix:garde_1"] },
-  "cinematique.intro": { "sounds": ["pnjvoix:cinematique_intro"] }
+  "cinematique.intro": { "sounds": ["pnjvoix:cinematique_intro"] },
+  "pnj.adele.1": { "sounds": ["pnjvoix:adele_1"] },
+  "pnj.alienor.1": { "sounds": ["pnjvoix:alienor_1"] },
+  "pnj.anselme.1": { "sounds": ["pnjvoix:anselme_1"] },
+  "pnj.armand.1": { "sounds": ["pnjvoix:armand_1"] },
+  "pnj.aubin.1": { "sounds": ["pnjvoix:aubin_1"] },
+  "pnj.baptiste.1": { "sounds": ["pnjvoix:baptiste_1"] },
+  "pnj.basile.1": { "sounds": ["pnjvoix:basile_1"] },
+  "pnj.clovis.1": { "sounds": ["pnjvoix:clovis_1"] }
 }
