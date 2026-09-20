@@ -443,5 +443,50 @@
     "sounds": [
       "pnjvoix:adele_propose"
     ]
+  },
+  "pnj.berthe.propose": {
+    "sounds": [
+      "pnjvoix:berthe_propose"
+    ]
+  },
+  "pnj.agnes.propose": {
+    "sounds": [
+      "pnjvoix:agnes_propose"
+    ]
+  },
+  "pnj.mathilde.propose": {
+    "sounds": [
+      "pnjvoix:mathilde_propose"
+    ]
+  },
+  "pnj.mahaut.propose": {
+    "sounds": [
+      "pnjvoix:mahaut_propose"
+    ]
+  },
+  "pnj.isabeau.propose": {
+    "sounds": [
+      "pnjvoix:isabeau_propose"
+    ]
+  },
+  "pnj.perrine.propose": {
+    "sounds": [
+      "pnjvoix:perrine_propose"
+    ]
+  },
+  "pnj.marguerite.propose": {
+    "sounds": [
+      "pnjvoix:marguerite_propose"
+    ]
+  },
+  "pnj.jeanne.propose": {
+    "sounds": [
+      "pnjvoix:jeanne_propose"
+    ]
+  },
+  "pnj.alienor.propose": {
+    "sounds": [
+      "pnjvoix:alienor_propose"
+    ]
   }
 }
