@@ -493,5 +493,190 @@
     "sounds": [
       "pnjvoix:garde_propose"
     ]
+  },
+  "pnj.basile.recompense": {
+    "sounds": [
+      "pnjvoix:basile_recompense"
+    ]
+  },
+  "pnj.tancrede.recompense": {
+    "sounds": [
+      "pnjvoix:tancrede_recompense"
+    ]
+  },
+  "pnj.godefroy.recompense": {
+    "sounds": [
+      "pnjvoix:godefroy_recompense"
+    ]
+  },
+  "pnj.jehan.recompense": {
+    "sounds": [
+      "pnjvoix:jehan_recompense"
+    ]
+  },
+  "pnj.hugues.recompense": {
+    "sounds": [
+      "pnjvoix:hugues_recompense"
+    ]
+  },
+  "pnj.eudes.recompense": {
+    "sounds": [
+      "pnjvoix:eudes_recompense"
+    ]
+  },
+  "pnj.baptiste.recompense": {
+    "sounds": [
+      "pnjvoix:baptiste_recompense"
+    ]
+  },
+  "pnj.thibault.recompense": {
+    "sounds": [
+      "pnjvoix:thibault_recompense"
+    ]
+  },
+  "pnj.rodrigue.recompense": {
+    "sounds": [
+      "pnjvoix:rodrigue_recompense"
+    ]
+  },
+  "pnj.ferrand.recompense": {
+    "sounds": [
+      "pnjvoix:ferrand_recompense"
+    ]
+  },
+  "pnj.mathieu.recompense": {
+    "sounds": [
+      "pnjvoix:ferrand_recompense"
+    ]
+  },
+  "pnj.anselme.recompense": {
+    "sounds": [
+      "pnjvoix:anselme_recompense"
+    ]
+  },
+  "pnj.gaspard.recompense": {
+    "sounds": [
+      "pnjvoix:gaspard_recompense"
+    ]
+  },
+  "pnj.armand.recompense": {
+    "sounds": [
+      "pnjvoix:gaspard_recompense"
+    ]
+  },
+  "pnj.lucien.recompense": {
+    "sounds": [
+      "pnjvoix:lucien_recompense"
+    ]
+  },
+  "pnj.aubin.recompense": {
+    "sounds": [
+      "pnjvoix:aubin_recompense"
+    ]
+  },
+  "pnj.colette.recompense": {
+    "sounds": [
+      "pnjvoix:colette_recompense"
+    ]
+  },
+  "pnj.rosalie.recompense": {
+    "sounds": [
+      "pnjvoix:rosalie_recompense"
+    ]
+  },
+  "pnj.sibylle.recompense": {
+    "sounds": [
+      "pnjvoix:sibylle_recompense"
+    ]
+  },
+  "pnj.blanche.recompense": {
+    "sounds": [
+      "pnjvoix:blanche_recompense"
+    ]
+  },
+  "pnj.ermengarde.recompense": {
+    "sounds": [
+      "pnjvoix:ermengarde_recompense"
+    ]
+  },
+  "pnj.guillemette.recompense": {
+    "sounds": [
+      "pnjvoix:guillemette_recompense"
+    ]
+  },
+  "pnj.adele.recompense": {
+    "sounds": [
+      "pnjvoix:guillemette_recompense"
+    ]
+  },
+  "pnj.ysabel.recompense": {
+    "sounds": [
+      "pnjvoix:ysabel_recompense"
+    ]
+  },
+  "pnj.berthe.recompense": {
+    "sounds": [
+      "pnjvoix:berthe_recompense"
+    ]
+  },
+  "pnj.mahaut.recompense": {
+    "sounds": [
+      "pnjvoix:berthe_recompense"
+    ]
+  },
+  "pnj.agnes.recompense": {
+    "sounds": [
+      "pnjvoix:agnes_recompense"
+    ]
+  },
+  "pnj.mathilde.recompense": {
+    "sounds": [
+      "pnjvoix:mathilde_recompense"
+    ]
+  },
+  "pnj.isabeau.recompense": {
+    "sounds": [
+      "pnjvoix:isabeau_recompense"
+    ]
+  },
+  "pnj.perrine.recompense": {
+    "sounds": [
+      "pnjvoix:isabeau_recompense"
+    ]
+  },
+  "pnj.marguerite.recompense": {
+    "sounds": [
+      "pnjvoix:isabeau_recompense"
+    ]
+  },
+  "pnj.jeanne.recompense": {
+    "sounds": [
+      "pnjvoix:jeanne_recompense"
+    ]
+  },
+  "pnj.alienor.recompense": {
+    "sounds": [
+      "pnjvoix:alienor_recompense"
+    ]
+  },
+  "pnj.gontran.recompense": {
+    "sounds": [
+      "pnjvoix:gontran_recompense"
+    ]
+  },
+  "pnj.odilon.recompense": {
+    "sounds": [
+      "pnjvoix:gontran_recompense"
+    ]
+  },
+  "pnj.clovis.recompense": {
+    "sounds": [
+      "pnjvoix:clovis_recompense"
+    ]
+  },
+  "pnj.corentin.recompense": {
+    "sounds": [
+      "pnjvoix:corentin_recompense"
+    ]
   }
 }
