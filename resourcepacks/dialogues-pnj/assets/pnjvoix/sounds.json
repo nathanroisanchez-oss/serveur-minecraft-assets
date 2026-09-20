@@ -488,5 +488,10 @@
     "sounds": [
       "pnjvoix:alienor_propose"
     ]
+  },
+  "pnj.garde.propose": {
+    "sounds": [
+      "pnjvoix:garde_propose"
+    ]
   }
 }
