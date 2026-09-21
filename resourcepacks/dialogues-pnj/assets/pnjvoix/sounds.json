@@ -304,39 +304,9 @@
       "pnjvoix:gardien_propose"
     ]
   },
-  "pnj.hugues.propose": {
-    "sounds": [
-      "pnjvoix:hugues_propose"
-    ]
-  },
-  "pnj.lucien.propose": {
-    "sounds": [
-      "pnjvoix:lucien_propose"
-    ]
-  },
-  "pnj.perrine.propose": {
-    "sounds": [
-      "pnjvoix:perrine_propose"
-    ]
-  },
   "pnj.garde.propose": {
     "sounds": [
       "pnjvoix:garde_propose"
-    ]
-  },
-  "pnj.hugues.recompense": {
-    "sounds": [
-      "pnjvoix:hugues_recompense"
-    ]
-  },
-  "pnj.lucien.recompense": {
-    "sounds": [
-      "pnjvoix:lucien_recompense"
-    ]
-  },
-  "pnj.perrine.recompense": {
-    "sounds": [
-      "pnjvoix:isabeau_recompense"
     ]
   }
 }
