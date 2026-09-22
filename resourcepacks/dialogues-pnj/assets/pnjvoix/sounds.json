@@ -289,21 +289,6 @@
       "pnjvoix:bucheron_terminee"
     ]
   },
-  "pnj.cartographe.1": {
-    "sounds": [
-      "pnjvoix:cartographe_1"
-    ]
-  },
-  "pnj.cartographe.2": {
-    "sounds": [
-      "pnjvoix:cartographe_2"
-    ]
-  },
-  "pnj.cartographe.3": {
-    "sounds": [
-      "pnjvoix:cartographe_3"
-    ]
-  },
   "pnj.chef.propose": {
     "sounds": [
       "pnjvoix:chef_propose"
@@ -1044,11 +1029,6 @@
       "pnjvoix:marguerite_terminee"
     ]
   },
-  "pnj.matelot.1": {
-    "sounds": [
-      "pnjvoix:matelot_1"
-    ]
-  },
   "pnj.mathieu.1": {
     "sounds": [
       "pnjvoix:mathieu_1"
@@ -1139,21 +1119,6 @@
       "pnjvoix:mineur_terminee"
     ]
   },
-  "pnj.mouss.1": {
-    "sounds": [
-      "pnjvoix:mouss_1"
-    ]
-  },
-  "pnj.mouss.2": {
-    "sounds": [
-      "pnjvoix:mouss_2"
-    ]
-  },
-  "pnj.mouss.3": {
-    "sounds": [
-      "pnjvoix:mouss_3"
-    ]
-  },
   "pnj.odilon.1": {
     "sounds": [
       "pnjvoix:odilon_1"
@@ -1177,21 +1142,6 @@
   "pnj.odilon.terminee": {
     "sounds": [
       "pnjvoix:odilon_terminee"
-    ]
-  },
-  "pnj.passager.1": {
-    "sounds": [
-      "pnjvoix:passager_1"
-    ]
-  },
-  "pnj.passager.2": {
-    "sounds": [
-      "pnjvoix:passager_2"
-    ]
-  },
-  "pnj.passager.3": {
-    "sounds": [
-      "pnjvoix:passager_3"
     ]
   },
   "pnj.pecheur.bateau_pour_pecheur.propose": {
@@ -1417,21 +1367,6 @@
   "pnj.trapeur.terminee": {
     "sounds": [
       "pnjvoix:trapeur_terminee"
-    ]
-  },
-  "pnj.vieuxloupdemer.1": {
-    "sounds": [
-      "pnjvoix:vieuxloupdemer_1"
-    ]
-  },
-  "pnj.vieuxloupdemer.2": {
-    "sounds": [
-      "pnjvoix:vieuxloupdemer_2"
-    ]
-  },
-  "pnj.vieuxloupdemer.3": {
-    "sounds": [
-      "pnjvoix:vieuxloupdemer_3"
     ]
   },
   "pnj.vigie.propose": {
@@ -1947,6 +1882,71 @@
   "pnj.mage.traduction_billet.terminee": {
     "sounds": [
       "pnjvoix:mage_traduction_billet_terminee"
+    ]
+  },
+  "pnj.fulbert.1": {
+    "sounds": [
+      "pnjvoix:fulbert_1"
+    ]
+  },
+  "pnj.aymeric.1": {
+    "sounds": [
+      "pnjvoix:aymeric_1"
+    ]
+  },
+  "pnj.aymeric.2": {
+    "sounds": [
+      "pnjvoix:aymeric_2"
+    ]
+  },
+  "pnj.aymeric.3": {
+    "sounds": [
+      "pnjvoix:aymeric_3"
+    ]
+  },
+  "pnj.gauthier.1": {
+    "sounds": [
+      "pnjvoix:gauthier_1"
+    ]
+  },
+  "pnj.gauthier.2": {
+    "sounds": [
+      "pnjvoix:gauthier_2"
+    ]
+  },
+  "pnj.gauthier.3": {
+    "sounds": [
+      "pnjvoix:gauthier_3"
+    ]
+  },
+  "pnj.gervais.1": {
+    "sounds": [
+      "pnjvoix:gervais_1"
+    ]
+  },
+  "pnj.gervais.2": {
+    "sounds": [
+      "pnjvoix:gervais_2"
+    ]
+  },
+  "pnj.gervais.3": {
+    "sounds": [
+      "pnjvoix:gervais_3"
+    ]
+  },
+  "pnj.ozanne.1": {
+    "sounds": [
+      "pnjvoix:ozanne_1"
+    ]
+  },
+  "pnj.ozanne.2": {
+    "sounds": [
+      "pnjvoix:ozanne_2"
+    ]
+  },
+  "pnj.ozanne.3": {
+    "sounds": [
+      "pnjvoix:ozanne_3"
     ]
   }
 }
