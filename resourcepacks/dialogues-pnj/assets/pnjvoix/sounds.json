@@ -1,312 +1,7 @@
 {
-  "pnj.mouss.1": {
-    "sounds": [
-      "pnjvoix:mouss_1"
-    ]
-  },
-  "pnj.mouss.2": {
-    "sounds": [
-      "pnjvoix:mouss_2"
-    ]
-  },
-  "pnj.mouss.3": {
-    "sounds": [
-      "pnjvoix:mouss_3"
-    ]
-  },
-  "pnj.cartographe.1": {
-    "sounds": [
-      "pnjvoix:cartographe_1"
-    ]
-  },
-  "pnj.cartographe.2": {
-    "sounds": [
-      "pnjvoix:cartographe_2"
-    ]
-  },
-  "pnj.cartographe.3": {
-    "sounds": [
-      "pnjvoix:cartographe_3"
-    ]
-  },
-  "pnj.vieuxloupdemer.1": {
-    "sounds": [
-      "pnjvoix:vieuxloupdemer_1"
-    ]
-  },
-  "pnj.vieuxloupdemer.2": {
-    "sounds": [
-      "pnjvoix:vieuxloupdemer_2"
-    ]
-  },
-  "pnj.vieuxloupdemer.3": {
-    "sounds": [
-      "pnjvoix:vieuxloupdemer_3"
-    ]
-  },
-  "pnj.passager.1": {
-    "sounds": [
-      "pnjvoix:passager_1"
-    ]
-  },
-  "pnj.passager.2": {
-    "sounds": [
-      "pnjvoix:passager_2"
-    ]
-  },
-  "pnj.passager.3": {
-    "sounds": [
-      "pnjvoix:passager_3"
-    ]
-  },
-  "pnj.matelot.1": {
-    "sounds": [
-      "pnjvoix:matelot_1"
-    ]
-  },
-  "pnj.garde.1": {
-    "sounds": [
-      "pnjvoix:garde_1"
-    ]
-  },
-  "cinematique.intro": {
-    "sounds": [
-      "pnjvoix:cinematique_intro"
-    ]
-  },
   "pnj.adele.1": {
     "sounds": [
       "pnjvoix:adele_1"
-    ]
-  },
-  "pnj.alienor.1": {
-    "sounds": [
-      "pnjvoix:alienor_1"
-    ]
-  },
-  "pnj.anselme.1": {
-    "sounds": [
-      "pnjvoix:anselme_1"
-    ]
-  },
-  "pnj.armand.1": {
-    "sounds": [
-      "pnjvoix:armand_1"
-    ]
-  },
-  "pnj.aubin.1": {
-    "sounds": [
-      "pnjvoix:aubin_1"
-    ]
-  },
-  "pnj.baptiste.1": {
-    "sounds": [
-      "pnjvoix:baptiste_1"
-    ]
-  },
-  "pnj.basile.1": {
-    "sounds": [
-      "pnjvoix:basile_1"
-    ]
-  },
-  "pnj.clovis.1": {
-    "sounds": [
-      "pnjvoix:clovis_1"
-    ]
-  },
-  "pnj.berthe.1": {
-    "sounds": [
-      "pnjvoix:berthe_1"
-    ]
-  },
-  "pnj.blanche.1": {
-    "sounds": [
-      "pnjvoix:blanche_1"
-    ]
-  },
-  "pnj.corentin.1": {
-    "sounds": [
-      "pnjvoix:corentin_1"
-    ]
-  },
-  "pnj.ferrand.1": {
-    "sounds": [
-      "pnjvoix:ferrand_1"
-    ]
-  },
-  "pnj.godefroy.1": {
-    "sounds": [
-      "pnjvoix:godefroy_1"
-    ]
-  },
-  "pnj.guillemette.1": {
-    "sounds": [
-      "pnjvoix:guillemette_1"
-    ]
-  },
-  "pnj.isabeau.1": {
-    "sounds": [
-      "pnjvoix:isabeau_1"
-    ]
-  },
-  "pnj.jeanne.1": {
-    "sounds": [
-      "pnjvoix:jeanne_1"
-    ]
-  },
-  "pnj.mahaut.1": {
-    "sounds": [
-      "pnjvoix:mahaut_1"
-    ]
-  },
-  "pnj.mathilde.1": {
-    "sounds": [
-      "pnjvoix:mathilde_1"
-    ]
-  },
-  "pnj.rosalie.1": {
-    "sounds": [
-      "pnjvoix:rosalie_1"
-    ]
-  },
-  "pnj.sibylle.1": {
-    "sounds": [
-      "pnjvoix:sibylle_1"
-    ]
-  },
-  "pnj.tancrede.1": {
-    "sounds": [
-      "pnjvoix:tancrede_1"
-    ]
-  },
-  "pnj.ysabel.1": {
-    "sounds": [
-      "pnjvoix:ysabel_1"
-    ]
-  },
-  "pnj.gaspard.1": {
-    "sounds": [
-      "pnjvoix:gaspard_1"
-    ]
-  },
-  "pnj.thibault.1": {
-    "sounds": [
-      "pnjvoix:thibault_1"
-    ]
-  },
-  "pnj.gontran.1": {
-    "sounds": [
-      "pnjvoix:gontran_1"
-    ]
-  },
-  "pnj.odilon.1": {
-    "sounds": [
-      "pnjvoix:odilon_1"
-    ]
-  },
-  "pnj.mathieu.1": {
-    "sounds": [
-      "pnjvoix:mathieu_1"
-    ]
-  },
-  "pnj.rodrigue.1": {
-    "sounds": [
-      "pnjvoix:rodrigue_1"
-    ]
-  },
-  "pnj.jehan.1": {
-    "sounds": [
-      "pnjvoix:jehan_1"
-    ]
-  },
-  "pnj.eudes.1": {
-    "sounds": [
-      "pnjvoix:eudes_1"
-    ]
-  },
-  "pnj.colette.1": {
-    "sounds": [
-      "pnjvoix:colette_1"
-    ]
-  },
-  "pnj.agnes.1": {
-    "sounds": [
-      "pnjvoix:agnes_1"
-    ]
-  },
-  "pnj.marguerite.1": {
-    "sounds": [
-      "pnjvoix:marguerite_1"
-    ]
-  },
-  "pnj.ermengarde.1": {
-    "sounds": [
-      "pnjvoix:ermengarde_1"
-    ]
-  },
-  "pnj.bucheron.propose": {
-    "sounds": [
-      "pnjvoix:bucheron_propose"
-    ]
-  },
-  "pnj.mineur.propose": {
-    "sounds": [
-      "pnjvoix:mineur_propose"
-    ]
-  },
-  "pnj.vigie.propose": {
-    "sounds": [
-      "pnjvoix:vigie_propose"
-    ]
-  },
-  "pnj.fermier.propose": {
-    "sounds": [
-      "pnjvoix:fermier_propose"
-    ]
-  },
-  "pnj.chercheur.propose": {
-    "sounds": [
-      "pnjvoix:chercheur_propose"
-    ]
-  },
-  "pnj.weirdo.propose": {
-    "sounds": [
-      "pnjvoix:weirdo_propose"
-    ]
-  },
-  "pnj.luffy.propose": {
-    "sounds": [
-      "pnjvoix:luffy_propose"
-    ]
-  },
-  "pnj.trapeur.propose": {
-    "sounds": [
-      "pnjvoix:trapeur_propose"
-    ]
-  },
-  "pnj.mage.propose": {
-    "sounds": [
-      "pnjvoix:mage_propose"
-    ]
-  },
-  "pnj.fermiere.propose": {
-    "sounds": [
-      "pnjvoix:fermiere_propose"
-    ]
-  },
-  "pnj.pecheur.propose": {
-    "sounds": [
-      "pnjvoix:pecheur_propose"
-    ]
-  },
-  "pnj.gardien.propose": {
-    "sounds": [
-      "pnjvoix:gardien_propose"
-    ]
-  },
-  "pnj.garde.propose": {
-    "sounds": [
-      "pnjvoix:garde_propose"
     ]
   },
   "pnj.adele.propose": {
@@ -329,6 +24,11 @@
       "pnjvoix:adele_terminee"
     ]
   },
+  "pnj.agnes.1": {
+    "sounds": [
+      "pnjvoix:agnes_1"
+    ]
+  },
   "pnj.agnes.propose": {
     "sounds": [
       "pnjvoix:agnes_propose"
@@ -347,6 +47,11 @@
   "pnj.agnes.terminee": {
     "sounds": [
       "pnjvoix:agnes_terminee"
+    ]
+  },
+  "pnj.alienor.1": {
+    "sounds": [
+      "pnjvoix:alienor_1"
     ]
   },
   "pnj.alienor.propose": {
@@ -369,6 +74,11 @@
       "pnjvoix:alienor_terminee"
     ]
   },
+  "pnj.anselme.1": {
+    "sounds": [
+      "pnjvoix:anselme_1"
+    ]
+  },
   "pnj.anselme.propose": {
     "sounds": [
       "pnjvoix:anselme_propose"
@@ -387,6 +97,11 @@
   "pnj.anselme.terminee": {
     "sounds": [
       "pnjvoix:anselme_terminee"
+    ]
+  },
+  "pnj.armand.1": {
+    "sounds": [
+      "pnjvoix:armand_1"
     ]
   },
   "pnj.armand.propose": {
@@ -409,6 +124,11 @@
       "pnjvoix:armand_terminee"
     ]
   },
+  "pnj.aubin.1": {
+    "sounds": [
+      "pnjvoix:aubin_1"
+    ]
+  },
   "pnj.aubin.propose": {
     "sounds": [
       "pnjvoix:aubin_propose"
@@ -427,6 +147,11 @@
   "pnj.aubin.terminee": {
     "sounds": [
       "pnjvoix:aubin_terminee"
+    ]
+  },
+  "pnj.baptiste.1": {
+    "sounds": [
+      "pnjvoix:baptiste_1"
     ]
   },
   "pnj.baptiste.propose": {
@@ -449,6 +174,11 @@
       "pnjvoix:baptiste_terminee"
     ]
   },
+  "pnj.basile.1": {
+    "sounds": [
+      "pnjvoix:basile_1"
+    ]
+  },
   "pnj.basile.propose": {
     "sounds": [
       "pnjvoix:basile_propose"
@@ -469,6 +199,11 @@
       "pnjvoix:basile_terminee"
     ]
   },
+  "pnj.berthe.1": {
+    "sounds": [
+      "pnjvoix:berthe_1"
+    ]
+  },
   "pnj.berthe.propose": {
     "sounds": [
       "pnjvoix:berthe_propose"
@@ -487,6 +222,11 @@
   "pnj.berthe.terminee": {
     "sounds": [
       "pnjvoix:berthe_terminee"
+    ]
+  },
+  "pnj.blanche.1": {
+    "sounds": [
+      "pnjvoix:blanche_1"
     ]
   },
   "pnj.blanche.propose": {
@@ -529,6 +269,11 @@
       "pnjvoix:bucheron_equipement_bucheron_terminee"
     ]
   },
+  "pnj.bucheron.propose": {
+    "sounds": [
+      "pnjvoix:bucheron_propose"
+    ]
+  },
   "pnj.bucheron.rappel": {
     "sounds": [
       "pnjvoix:bucheron_rappel"
@@ -542,6 +287,21 @@
   "pnj.bucheron.terminee": {
     "sounds": [
       "pnjvoix:bucheron_terminee"
+    ]
+  },
+  "pnj.cartographe.1": {
+    "sounds": [
+      "pnjvoix:cartographe_1"
+    ]
+  },
+  "pnj.cartographe.2": {
+    "sounds": [
+      "pnjvoix:cartographe_2"
+    ]
+  },
+  "pnj.cartographe.3": {
+    "sounds": [
+      "pnjvoix:cartographe_3"
     ]
   },
   "pnj.chef.propose": {
@@ -604,6 +364,11 @@
       "pnjvoix:chercheur_fouille_epave_terminee"
     ]
   },
+  "pnj.chercheur.propose": {
+    "sounds": [
+      "pnjvoix:chercheur_propose"
+    ]
+  },
   "pnj.chercheur.rappel": {
     "sounds": [
       "pnjvoix:chercheur_rappel"
@@ -617,6 +382,11 @@
   "pnj.chercheur.terminee": {
     "sounds": [
       "pnjvoix:chercheur_terminee"
+    ]
+  },
+  "pnj.clovis.1": {
+    "sounds": [
+      "pnjvoix:clovis_1"
     ]
   },
   "pnj.clovis.propose": {
@@ -639,6 +409,11 @@
       "pnjvoix:clovis_terminee"
     ]
   },
+  "pnj.colette.1": {
+    "sounds": [
+      "pnjvoix:colette_1"
+    ]
+  },
   "pnj.colette.propose": {
     "sounds": [
       "pnjvoix:colette_propose"
@@ -657,6 +432,11 @@
   "pnj.colette.terminee": {
     "sounds": [
       "pnjvoix:colette_terminee"
+    ]
+  },
+  "pnj.corentin.1": {
+    "sounds": [
+      "pnjvoix:corentin_1"
     ]
   },
   "pnj.corentin.propose": {
@@ -679,6 +459,11 @@
       "pnjvoix:corentin_terminee"
     ]
   },
+  "pnj.ermengarde.1": {
+    "sounds": [
+      "pnjvoix:ermengarde_1"
+    ]
+  },
   "pnj.ermengarde.propose": {
     "sounds": [
       "pnjvoix:ermengarde_propose"
@@ -697,6 +482,11 @@
   "pnj.ermengarde.terminee": {
     "sounds": [
       "pnjvoix:ermengarde_terminee"
+    ]
+  },
+  "pnj.eudes.1": {
+    "sounds": [
+      "pnjvoix:eudes_1"
     ]
   },
   "pnj.eudes.propose": {
@@ -739,6 +529,11 @@
       "pnjvoix:fermier_plantation_fermier_terminee"
     ]
   },
+  "pnj.fermier.propose": {
+    "sounds": [
+      "pnjvoix:fermier_propose"
+    ]
+  },
   "pnj.fermier.rappel": {
     "sounds": [
       "pnjvoix:fermier_rappel"
@@ -754,6 +549,11 @@
       "pnjvoix:fermier_terminee"
     ]
   },
+  "pnj.fermiere.propose": {
+    "sounds": [
+      "pnjvoix:fermiere_propose"
+    ]
+  },
   "pnj.fermiere.rappel": {
     "sounds": [
       "pnjvoix:fermiere_rappel"
@@ -767,6 +567,11 @@
   "pnj.fermiere.terminee": {
     "sounds": [
       "pnjvoix:fermiere_terminee"
+    ]
+  },
+  "pnj.ferrand.1": {
+    "sounds": [
+      "pnjvoix:ferrand_1"
     ]
   },
   "pnj.ferrand.propose": {
@@ -789,6 +594,11 @@
       "pnjvoix:ferrand_terminee"
     ]
   },
+  "pnj.garde.1": {
+    "sounds": [
+      "pnjvoix:garde_1"
+    ]
+  },
   "pnj.garde.avis_du_garde.propose": {
     "sounds": [
       "pnjvoix:garde_avis_du_garde_propose"
@@ -807,6 +617,11 @@
   "pnj.garde.avis_du_garde.terminee": {
     "sounds": [
       "pnjvoix:garde_avis_du_garde_terminee"
+    ]
+  },
+  "pnj.garde.propose": {
+    "sounds": [
+      "pnjvoix:garde_propose"
     ]
   },
   "pnj.garde.rappel": {
@@ -844,6 +659,11 @@
       "pnjvoix:gardien_equipement_gardien_terminee"
     ]
   },
+  "pnj.gardien.propose": {
+    "sounds": [
+      "pnjvoix:gardien_propose"
+    ]
+  },
   "pnj.gardien.rappel": {
     "sounds": [
       "pnjvoix:gardien_rappel"
@@ -857,6 +677,11 @@
   "pnj.gardien.terminee": {
     "sounds": [
       "pnjvoix:gardien_terminee"
+    ]
+  },
+  "pnj.gaspard.1": {
+    "sounds": [
+      "pnjvoix:gaspard_1"
     ]
   },
   "pnj.gaspard.propose": {
@@ -879,6 +704,11 @@
       "pnjvoix:gaspard_terminee"
     ]
   },
+  "pnj.godefroy.1": {
+    "sounds": [
+      "pnjvoix:godefroy_1"
+    ]
+  },
   "pnj.godefroy.propose": {
     "sounds": [
       "pnjvoix:godefroy_propose"
@@ -899,6 +729,11 @@
       "pnjvoix:godefroy_terminee"
     ]
   },
+  "pnj.gontran.1": {
+    "sounds": [
+      "pnjvoix:gontran_1"
+    ]
+  },
   "pnj.gontran.propose": {
     "sounds": [
       "pnjvoix:gontran_propose"
@@ -917,6 +752,11 @@
   "pnj.gontran.terminee": {
     "sounds": [
       "pnjvoix:gontran_terminee"
+    ]
+  },
+  "pnj.guillemette.1": {
+    "sounds": [
+      "pnjvoix:guillemette_1"
     ]
   },
   "pnj.guillemette.propose": {
@@ -959,6 +799,11 @@
       "pnjvoix:hugues_terminee"
     ]
   },
+  "pnj.isabeau.1": {
+    "sounds": [
+      "pnjvoix:isabeau_1"
+    ]
+  },
   "pnj.isabeau.propose": {
     "sounds": [
       "pnjvoix:isabeau_propose"
@@ -979,6 +824,11 @@
       "pnjvoix:isabeau_terminee"
     ]
   },
+  "pnj.jeanne.1": {
+    "sounds": [
+      "pnjvoix:jeanne_1"
+    ]
+  },
   "pnj.jeanne.propose": {
     "sounds": [
       "pnjvoix:jeanne_propose"
@@ -997,6 +847,11 @@
   "pnj.jeanne.terminee": {
     "sounds": [
       "pnjvoix:jeanne_terminee"
+    ]
+  },
+  "pnj.jehan.1": {
+    "sounds": [
+      "pnjvoix:jehan_1"
     ]
   },
   "pnj.jehan.propose": {
@@ -1059,6 +914,11 @@
       "pnjvoix:luffy_epave_de_luffy_terminee"
     ]
   },
+  "pnj.luffy.propose": {
+    "sounds": [
+      "pnjvoix:luffy_propose"
+    ]
+  },
   "pnj.luffy.rappel": {
     "sounds": [
       "pnjvoix:luffy_rappel"
@@ -1114,6 +974,11 @@
       "pnjvoix:mage_manuscrit_du_mage_terminee"
     ]
   },
+  "pnj.mage.propose": {
+    "sounds": [
+      "pnjvoix:mage_propose"
+    ]
+  },
   "pnj.mage.rappel": {
     "sounds": [
       "pnjvoix:mage_rappel"
@@ -1127,6 +992,11 @@
   "pnj.mage.terminee": {
     "sounds": [
       "pnjvoix:mage_terminee"
+    ]
+  },
+  "pnj.mahaut.1": {
+    "sounds": [
+      "pnjvoix:mahaut_1"
     ]
   },
   "pnj.mahaut.propose": {
@@ -1149,6 +1019,11 @@
       "pnjvoix:mahaut_terminee"
     ]
   },
+  "pnj.marguerite.1": {
+    "sounds": [
+      "pnjvoix:marguerite_1"
+    ]
+  },
   "pnj.marguerite.propose": {
     "sounds": [
       "pnjvoix:marguerite_propose"
@@ -1169,6 +1044,16 @@
       "pnjvoix:marguerite_terminee"
     ]
   },
+  "pnj.matelot.1": {
+    "sounds": [
+      "pnjvoix:matelot_1"
+    ]
+  },
+  "pnj.mathieu.1": {
+    "sounds": [
+      "pnjvoix:mathieu_1"
+    ]
+  },
   "pnj.mathieu.propose": {
     "sounds": [
       "pnjvoix:mathieu_propose"
@@ -1187,6 +1072,11 @@
   "pnj.mathieu.terminee": {
     "sounds": [
       "pnjvoix:mathieu_terminee"
+    ]
+  },
+  "pnj.mathilde.1": {
+    "sounds": [
+      "pnjvoix:mathilde_1"
     ]
   },
   "pnj.mathilde.propose": {
@@ -1229,6 +1119,11 @@
       "pnjvoix:mineur_equipement_mineur_terminee"
     ]
   },
+  "pnj.mineur.propose": {
+    "sounds": [
+      "pnjvoix:mineur_propose"
+    ]
+  },
   "pnj.mineur.rappel": {
     "sounds": [
       "pnjvoix:mineur_rappel"
@@ -1242,6 +1137,26 @@
   "pnj.mineur.terminee": {
     "sounds": [
       "pnjvoix:mineur_terminee"
+    ]
+  },
+  "pnj.mouss.1": {
+    "sounds": [
+      "pnjvoix:mouss_1"
+    ]
+  },
+  "pnj.mouss.2": {
+    "sounds": [
+      "pnjvoix:mouss_2"
+    ]
+  },
+  "pnj.mouss.3": {
+    "sounds": [
+      "pnjvoix:mouss_3"
+    ]
+  },
+  "pnj.odilon.1": {
+    "sounds": [
+      "pnjvoix:odilon_1"
     ]
   },
   "pnj.odilon.propose": {
@@ -1264,6 +1179,21 @@
       "pnjvoix:odilon_terminee"
     ]
   },
+  "pnj.passager.1": {
+    "sounds": [
+      "pnjvoix:passager_1"
+    ]
+  },
+  "pnj.passager.2": {
+    "sounds": [
+      "pnjvoix:passager_2"
+    ]
+  },
+  "pnj.passager.3": {
+    "sounds": [
+      "pnjvoix:passager_3"
+    ]
+  },
   "pnj.pecheur.bateau_pour_pecheur.propose": {
     "sounds": [
       "pnjvoix:pecheur_bateau_pour_pecheur_propose"
@@ -1282,6 +1212,11 @@
   "pnj.pecheur.bateau_pour_pecheur.terminee": {
     "sounds": [
       "pnjvoix:pecheur_bateau_pour_pecheur_terminee"
+    ]
+  },
+  "pnj.pecheur.propose": {
+    "sounds": [
+      "pnjvoix:pecheur_propose"
     ]
   },
   "pnj.pecheur.rappel": {
@@ -1319,6 +1254,11 @@
       "pnjvoix:perrine_terminee"
     ]
   },
+  "pnj.rodrigue.1": {
+    "sounds": [
+      "pnjvoix:rodrigue_1"
+    ]
+  },
   "pnj.rodrigue.propose": {
     "sounds": [
       "pnjvoix:rodrigue_propose"
@@ -1337,6 +1277,11 @@
   "pnj.rodrigue.terminee": {
     "sounds": [
       "pnjvoix:rodrigue_terminee"
+    ]
+  },
+  "pnj.rosalie.1": {
+    "sounds": [
+      "pnjvoix:rosalie_1"
     ]
   },
   "pnj.rosalie.propose": {
@@ -1359,6 +1304,11 @@
       "pnjvoix:rosalie_terminee"
     ]
   },
+  "pnj.sibylle.1": {
+    "sounds": [
+      "pnjvoix:sibylle_1"
+    ]
+  },
   "pnj.sibylle.propose": {
     "sounds": [
       "pnjvoix:sibylle_propose"
@@ -1379,6 +1329,11 @@
       "pnjvoix:sibylle_terminee"
     ]
   },
+  "pnj.tancrede.1": {
+    "sounds": [
+      "pnjvoix:tancrede_1"
+    ]
+  },
   "pnj.tancrede.propose": {
     "sounds": [
       "pnjvoix:tancrede_propose"
@@ -1397,6 +1352,11 @@
   "pnj.tancrede.terminee": {
     "sounds": [
       "pnjvoix:tancrede_terminee"
+    ]
+  },
+  "pnj.thibault.1": {
+    "sounds": [
+      "pnjvoix:thibault_1"
     ]
   },
   "pnj.thibault.propose": {
@@ -1439,6 +1399,11 @@
       "pnjvoix:trapeur_equipement_trapeur_terminee"
     ]
   },
+  "pnj.trapeur.propose": {
+    "sounds": [
+      "pnjvoix:trapeur_propose"
+    ]
+  },
   "pnj.trapeur.rappel": {
     "sounds": [
       "pnjvoix:trapeur_rappel"
@@ -1452,6 +1417,26 @@
   "pnj.trapeur.terminee": {
     "sounds": [
       "pnjvoix:trapeur_terminee"
+    ]
+  },
+  "pnj.vieuxloupdemer.1": {
+    "sounds": [
+      "pnjvoix:vieuxloupdemer_1"
+    ]
+  },
+  "pnj.vieuxloupdemer.2": {
+    "sounds": [
+      "pnjvoix:vieuxloupdemer_2"
+    ]
+  },
+  "pnj.vieuxloupdemer.3": {
+    "sounds": [
+      "pnjvoix:vieuxloupdemer_3"
+    ]
+  },
+  "pnj.vigie.propose": {
+    "sounds": [
+      "pnjvoix:vigie_propose"
     ]
   },
   "pnj.vigie.rappel": {
@@ -1489,6 +1474,11 @@
       "pnjvoix:vigie_terminee"
     ]
   },
+  "pnj.weirdo.propose": {
+    "sounds": [
+      "pnjvoix:weirdo_propose"
+    ]
+  },
   "pnj.weirdo.rappel": {
     "sounds": [
       "pnjvoix:weirdo_rappel"
@@ -1522,6 +1512,11 @@
   "pnj.weirdo.terminee": {
     "sounds": [
       "pnjvoix:weirdo_terminee"
+    ]
+  },
+  "pnj.ysabel.1": {
+    "sounds": [
+      "pnjvoix:ysabel_1"
     ]
   },
   "pnj.ysabel.propose": {
