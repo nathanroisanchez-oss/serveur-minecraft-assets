@@ -1,4 +1,29 @@
 {
+  "arene.compte.5": {
+    "sounds": [
+      "pnjvoix:arene_5"
+    ]
+  },
+  "arene.compte.4": {
+    "sounds": [
+      "pnjvoix:arene_4"
+    ]
+  },
+  "arene.compte.3": {
+    "sounds": [
+      "pnjvoix:arene_3"
+    ]
+  },
+  "arene.compte.2": {
+    "sounds": [
+      "pnjvoix:arene_2"
+    ]
+  },
+  "arene.compte.1": {
+    "sounds": [
+      "pnjvoix:arene_1"
+    ]
+  },
   "pnj.adele.1": {
     "sounds": [
       "pnjvoix:adele_1"
