@@ -331,145 +331,145 @@
                                                                                   "sounds/pnjvoix/blanche_terminee"
                                                                               ]
                                                                },
-                              "pnjvoix:pnj.bucheron.equipement_bucheron.propose":  {
+                              "pnjvoix:pnj.woodylebucheron.equipement_bucheron.propose":  {
                                                                                        "category":  "master",
                                                                                        "sounds":  [
                                                                                                       "sounds/pnjvoix/bucheron_equipement_bucheron_propose"
                                                                                                   ]
                                                                                    },
-                              "pnjvoix:pnj.bucheron.equipement_bucheron.rappel":  {
+                              "pnjvoix:pnj.woodylebucheron.equipement_bucheron.rappel":  {
                                                                                       "category":  "master",
                                                                                       "sounds":  [
                                                                                                      "sounds/pnjvoix/bucheron_equipement_bucheron_rappel"
                                                                                                  ]
                                                                                   },
-                              "pnjvoix:pnj.bucheron.equipement_bucheron.recompense":  {
+                              "pnjvoix:pnj.woodylebucheron.equipement_bucheron.recompense":  {
                                                                                           "category":  "master",
                                                                                           "sounds":  [
                                                                                                          "sounds/pnjvoix/bucheron_equipement_bucheron_recompense"
                                                                                                      ]
                                                                                       },
-                              "pnjvoix:pnj.bucheron.equipement_bucheron.terminee":  {
+                              "pnjvoix:pnj.woodylebucheron.equipement_bucheron.terminee":  {
                                                                                         "category":  "master",
                                                                                         "sounds":  [
                                                                                                        "sounds/pnjvoix/bucheron_equipement_bucheron_terminee"
                                                                                                    ]
                                                                                     },
-                              "pnjvoix:pnj.bucheron.propose":  {
+                              "pnjvoix:pnj.woodylebucheron.propose":  {
                                                                    "category":  "master",
                                                                    "sounds":  [
                                                                                   "sounds/pnjvoix/bucheron_propose"
                                                                               ]
                                                                },
-                              "pnjvoix:pnj.bucheron.rappel":  {
+                              "pnjvoix:pnj.woodylebucheron.rappel":  {
                                                                   "category":  "master",
                                                                   "sounds":  [
                                                                                  "sounds/pnjvoix/bucheron_rappel"
                                                                              ]
                                                               },
-                              "pnjvoix:pnj.bucheron.recompense":  {
+                              "pnjvoix:pnj.woodylebucheron.recompense":  {
                                                                       "category":  "master",
                                                                       "sounds":  [
                                                                                      "sounds/pnjvoix/bucheron_recompense"
                                                                                  ]
                                                                   },
-                              "pnjvoix:pnj.bucheron.terminee":  {
+                              "pnjvoix:pnj.woodylebucheron.terminee":  {
                                                                     "category":  "master",
                                                                     "sounds":  [
                                                                                    "sounds/pnjvoix/bucheron_terminee"
                                                                                ]
                                                                 },
-                              "pnjvoix:pnj.chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.propose":  {
                                                                "category":  "master",
                                                                "sounds":  [
                                                                               "sounds/pnjvoix/chef_propose"
                                                                           ]
                                                            },
-                              "pnjvoix:pnj.chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.rappel":  {
                                                               "category":  "master",
                                                               "sounds":  [
                                                                              "sounds/pnjvoix/chef_rappel"
                                                                          ]
                                                           },
-                              "pnjvoix:pnj.chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.recompense":  {
                                                                   "category":  "master",
                                                                   "sounds":  [
                                                                                  "sounds/pnjvoix/chef_recompense"
                                                                              ]
                                                               },
-                              "pnjvoix:pnj.chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.terminee":  {
                                                                 "category":  "master",
                                                                 "sounds":  [
                                                                                "sounds/pnjvoix/chef_terminee"
                                                                            ]
                                                             },
-                              "pnjvoix:pnj.chercheur.equipement_chercheur.propose":  {
+                              "pnjvoix:pnj.tournesollechercheur.equipement_chercheur.propose":  {
                                                                                          "category":  "master",
                                                                                          "sounds":  [
                                                                                                         "sounds/pnjvoix/chercheur_equipement_chercheur_propose"
                                                                                                     ]
                                                                                      },
-                              "pnjvoix:pnj.chercheur.equipement_chercheur.rappel":  {
+                              "pnjvoix:pnj.tournesollechercheur.equipement_chercheur.rappel":  {
                                                                                         "category":  "master",
                                                                                         "sounds":  [
                                                                                                        "sounds/pnjvoix/chercheur_equipement_chercheur_rappel"
                                                                                                    ]
                                                                                     },
-                              "pnjvoix:pnj.chercheur.equipement_chercheur.recompense":  {
+                              "pnjvoix:pnj.tournesollechercheur.equipement_chercheur.recompense":  {
                                                                                             "category":  "master",
                                                                                             "sounds":  [
                                                                                                            "sounds/pnjvoix/chercheur_equipement_chercheur_recompense"
                                                                                                        ]
                                                                                         },
-                              "pnjvoix:pnj.chercheur.equipement_chercheur.terminee":  {
+                              "pnjvoix:pnj.tournesollechercheur.equipement_chercheur.terminee":  {
                                                                                           "category":  "master",
                                                                                           "sounds":  [
                                                                                                          "sounds/pnjvoix/chercheur_equipement_chercheur_terminee"
                                                                                                      ]
                                                                                       },
-                              "pnjvoix:pnj.chercheur.fouille_epave.propose":  {
+                              "pnjvoix:pnj.tournesollechercheur.fouille_epave.propose":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/chercheur_fouille_epave_propose"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.chercheur.fouille_epave.rappel":  {
+                              "pnjvoix:pnj.tournesollechercheur.fouille_epave.rappel":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/chercheur_fouille_epave_rappel"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.chercheur.fouille_epave.recompense":  {
+                              "pnjvoix:pnj.tournesollechercheur.fouille_epave.recompense":  {
                                                                                      "category":  "master",
                                                                                      "sounds":  [
                                                                                                     "sounds/pnjvoix/chercheur_fouille_epave_recompense"
                                                                                                 ]
                                                                                  },
-                              "pnjvoix:pnj.chercheur.fouille_epave.terminee":  {
+                              "pnjvoix:pnj.tournesollechercheur.fouille_epave.terminee":  {
                                                                                    "category":  "master",
                                                                                    "sounds":  [
                                                                                                   "sounds/pnjvoix/chercheur_fouille_epave_terminee"
                                                                                               ]
                                                                                },
-                              "pnjvoix:pnj.chercheur.propose":  {
+                              "pnjvoix:pnj.tournesollechercheur.propose":  {
                                                                     "category":  "master",
                                                                     "sounds":  [
                                                                                    "sounds/pnjvoix/chercheur_propose"
                                                                                ]
                                                                 },
-                              "pnjvoix:pnj.chercheur.rappel":  {
+                              "pnjvoix:pnj.tournesollechercheur.rappel":  {
                                                                    "category":  "master",
                                                                    "sounds":  [
                                                                                   "sounds/pnjvoix/chercheur_rappel"
                                                                               ]
                                                                },
-                              "pnjvoix:pnj.chercheur.recompense":  {
+                              "pnjvoix:pnj.tournesollechercheur.recompense":  {
                                                                        "category":  "master",
                                                                        "sounds":  [
                                                                                       "sounds/pnjvoix/chercheur_recompense"
                                                                                   ]
                                                                    },
-                              "pnjvoix:pnj.chercheur.terminee":  {
+                              "pnjvoix:pnj.tournesollechercheur.terminee":  {
                                                                      "category":  "master",
                                                                      "sounds":  [
                                                                                     "sounds/pnjvoix/chercheur_terminee"
@@ -625,73 +625,73 @@
                                                                                 "sounds/pnjvoix/eudes_terminee"
                                                                             ]
                                                              },
-                              "pnjvoix:pnj.fermier.plantation_fermier.propose":  {
+                              "pnjvoix:pnj.charleslefermier.plantation_fermier.propose":  {
                                                                                      "category":  "master",
                                                                                      "sounds":  [
                                                                                                     "sounds/pnjvoix/fermier_plantation_fermier_propose"
                                                                                                 ]
                                                                                  },
-                              "pnjvoix:pnj.fermier.plantation_fermier.rappel":  {
+                              "pnjvoix:pnj.charleslefermier.plantation_fermier.rappel":  {
                                                                                     "category":  "master",
                                                                                     "sounds":  [
                                                                                                    "sounds/pnjvoix/fermier_plantation_fermier_rappel"
                                                                                                ]
                                                                                 },
-                              "pnjvoix:pnj.fermier.plantation_fermier.recompense":  {
+                              "pnjvoix:pnj.charleslefermier.plantation_fermier.recompense":  {
                                                                                         "category":  "master",
                                                                                         "sounds":  [
                                                                                                        "sounds/pnjvoix/fermier_plantation_fermier_recompense"
                                                                                                    ]
                                                                                     },
-                              "pnjvoix:pnj.fermier.plantation_fermier.terminee":  {
+                              "pnjvoix:pnj.charleslefermier.plantation_fermier.terminee":  {
                                                                                       "category":  "master",
                                                                                       "sounds":  [
                                                                                                      "sounds/pnjvoix/fermier_plantation_fermier_terminee"
                                                                                                  ]
                                                                                   },
-                              "pnjvoix:pnj.fermier.propose":  {
+                              "pnjvoix:pnj.charleslefermier.propose":  {
                                                                   "category":  "master",
                                                                   "sounds":  [
                                                                                  "sounds/pnjvoix/fermier_propose"
                                                                              ]
                                                               },
-                              "pnjvoix:pnj.fermier.rappel":  {
+                              "pnjvoix:pnj.charleslefermier.rappel":  {
                                                                  "category":  "master",
                                                                  "sounds":  [
                                                                                 "sounds/pnjvoix/fermier_rappel"
                                                                             ]
                                                              },
-                              "pnjvoix:pnj.fermier.recompense":  {
+                              "pnjvoix:pnj.charleslefermier.recompense":  {
                                                                      "category":  "master",
                                                                      "sounds":  [
                                                                                     "sounds/pnjvoix/fermier_recompense"
                                                                                 ]
                                                                  },
-                              "pnjvoix:pnj.fermier.terminee":  {
+                              "pnjvoix:pnj.charleslefermier.terminee":  {
                                                                    "category":  "master",
                                                                    "sounds":  [
                                                                                   "sounds/pnjvoix/fermier_terminee"
                                                                               ]
                                                                },
-                              "pnjvoix:pnj.fermiere.propose":  {
+                              "pnjvoix:pnj.carolinelafermiere.propose":  {
                                                                    "category":  "master",
                                                                    "sounds":  [
                                                                                   "sounds/pnjvoix/fermiere_propose"
                                                                               ]
                                                                },
-                              "pnjvoix:pnj.fermiere.rappel":  {
+                              "pnjvoix:pnj.carolinelafermiere.rappel":  {
                                                                   "category":  "master",
                                                                   "sounds":  [
                                                                                  "sounds/pnjvoix/fermiere_rappel"
                                                                              ]
                                                               },
-                              "pnjvoix:pnj.fermiere.recompense":  {
+                              "pnjvoix:pnj.carolinelafermiere.recompense":  {
                                                                       "category":  "master",
                                                                       "sounds":  [
                                                                                      "sounds/pnjvoix/fermiere_recompense"
                                                                                  ]
                                                                   },
-                              "pnjvoix:pnj.fermiere.terminee":  {
+                              "pnjvoix:pnj.carolinelafermiere.terminee":  {
                                                                     "category":  "master",
                                                                     "sounds":  [
                                                                                    "sounds/pnjvoix/fermiere_terminee"
@@ -781,49 +781,49 @@
                                                                                 "sounds/pnjvoix/garde_terminee"
                                                                             ]
                                                              },
-                              "pnjvoix:pnj.gardien.equipement_gardien.propose":  {
+                              "pnjvoix:pnj.hagridlegardien.equipement_gardien.propose":  {
                                                                                      "category":  "master",
                                                                                      "sounds":  [
                                                                                                     "sounds/pnjvoix/gardien_equipement_gardien_propose"
                                                                                                 ]
                                                                                  },
-                              "pnjvoix:pnj.gardien.equipement_gardien.rappel":  {
+                              "pnjvoix:pnj.hagridlegardien.equipement_gardien.rappel":  {
                                                                                     "category":  "master",
                                                                                     "sounds":  [
                                                                                                    "sounds/pnjvoix/gardien_equipement_gardien_rappel"
                                                                                                ]
                                                                                 },
-                              "pnjvoix:pnj.gardien.equipement_gardien.recompense":  {
+                              "pnjvoix:pnj.hagridlegardien.equipement_gardien.recompense":  {
                                                                                         "category":  "master",
                                                                                         "sounds":  [
                                                                                                        "sounds/pnjvoix/gardien_equipement_gardien_recompense"
                                                                                                    ]
                                                                                     },
-                              "pnjvoix:pnj.gardien.equipement_gardien.terminee":  {
+                              "pnjvoix:pnj.hagridlegardien.equipement_gardien.terminee":  {
                                                                                       "category":  "master",
                                                                                       "sounds":  [
                                                                                                      "sounds/pnjvoix/gardien_equipement_gardien_terminee"
                                                                                                  ]
                                                                                   },
-                              "pnjvoix:pnj.gardien.propose":  {
+                              "pnjvoix:pnj.hagridlegardien.propose":  {
                                                                   "category":  "master",
                                                                   "sounds":  [
                                                                                  "sounds/pnjvoix/gardien_propose"
                                                                              ]
                                                               },
-                              "pnjvoix:pnj.gardien.rappel":  {
+                              "pnjvoix:pnj.hagridlegardien.rappel":  {
                                                                  "category":  "master",
                                                                  "sounds":  [
                                                                                 "sounds/pnjvoix/gardien_rappel"
                                                                             ]
                                                              },
-                              "pnjvoix:pnj.gardien.recompense":  {
+                              "pnjvoix:pnj.hagridlegardien.recompense":  {
                                                                      "category":  "master",
                                                                      "sounds":  [
                                                                                     "sounds/pnjvoix/gardien_recompense"
                                                                                 ]
                                                                  },
-                              "pnjvoix:pnj.gardien.terminee":  {
+                              "pnjvoix:pnj.hagridlegardien.terminee":  {
                                                                    "category":  "master",
                                                                    "sounds":  [
                                                                                   "sounds/pnjvoix/gardien_terminee"
@@ -1087,121 +1087,121 @@
                                                                                  "sounds/pnjvoix/lucien_terminee"
                                                                              ]
                                                               },
-                              "pnjvoix:pnj.luffy.epave_de_luffy.propose":  {
+                              "pnjvoix:pnj.luffylepirate.epave_de_luffy.propose":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/luffy_epave_de_luffy_propose"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.luffy.epave_de_luffy.rappel":  {
+                              "pnjvoix:pnj.luffylepirate.epave_de_luffy.rappel":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/luffy_epave_de_luffy_rappel"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.luffy.epave_de_luffy.recompense":  {
+                              "pnjvoix:pnj.luffylepirate.epave_de_luffy.recompense":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/luffy_epave_de_luffy_recompense"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.luffy.epave_de_luffy.terminee":  {
+                              "pnjvoix:pnj.luffylepirate.epave_de_luffy.terminee":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/luffy_epave_de_luffy_terminee"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.luffy.propose":  {
+                              "pnjvoix:pnj.luffylepirate.propose":  {
                                                                 "category":  "master",
                                                                 "sounds":  [
                                                                                "sounds/pnjvoix/luffy_propose"
                                                                            ]
                                                             },
-                              "pnjvoix:pnj.luffy.rappel":  {
+                              "pnjvoix:pnj.luffylepirate.rappel":  {
                                                                "category":  "master",
                                                                "sounds":  [
                                                                               "sounds/pnjvoix/luffy_rappel"
                                                                           ]
                                                            },
-                              "pnjvoix:pnj.luffy.recompense":  {
+                              "pnjvoix:pnj.luffylepirate.recompense":  {
                                                                    "category":  "master",
                                                                    "sounds":  [
                                                                                   "sounds/pnjvoix/luffy_recompense"
                                                                               ]
                                                                },
-                              "pnjvoix:pnj.luffy.terminee":  {
+                              "pnjvoix:pnj.luffylepirate.terminee":  {
                                                                  "category":  "master",
                                                                  "sounds":  [
                                                                                 "sounds/pnjvoix/luffy_terminee"
                                                                             ]
                                                              },
-                              "pnjvoix:pnj.mage.epreuve_boule_de_feu_mage.propose":  {
+                              "pnjvoix:pnj.ozlemage.epreuve_boule_de_feu_mage.propose":  {
                                                                                          "category":  "master",
                                                                                          "sounds":  [
                                                                                                         "sounds/pnjvoix/mage_epreuve_boule_de_feu_mage_propose"
                                                                                                     ]
                                                                                      },
-                              "pnjvoix:pnj.mage.epreuve_boule_de_feu_mage.rappel":  {
+                              "pnjvoix:pnj.ozlemage.epreuve_boule_de_feu_mage.rappel":  {
                                                                                         "category":  "master",
                                                                                         "sounds":  [
                                                                                                        "sounds/pnjvoix/mage_epreuve_boule_de_feu_mage_rappel"
                                                                                                    ]
                                                                                     },
-                              "pnjvoix:pnj.mage.epreuve_boule_de_feu_mage.recompense":  {
+                              "pnjvoix:pnj.ozlemage.epreuve_boule_de_feu_mage.recompense":  {
                                                                                             "category":  "master",
                                                                                             "sounds":  [
                                                                                                            "sounds/pnjvoix/mage_epreuve_boule_de_feu_mage_recompense"
                                                                                                        ]
                                                                                         },
-                              "pnjvoix:pnj.mage.epreuve_boule_de_feu_mage.terminee":  {
+                              "pnjvoix:pnj.ozlemage.epreuve_boule_de_feu_mage.terminee":  {
                                                                                           "category":  "master",
                                                                                           "sounds":  [
                                                                                                          "sounds/pnjvoix/mage_epreuve_boule_de_feu_mage_terminee"
                                                                                                      ]
                                                                                       },
-                              "pnjvoix:pnj.mage.manuscrit_du_mage.propose":  {
+                              "pnjvoix:pnj.ozlemage.manuscrit_du_mage.propose":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/mage_manuscrit_du_mage_propose"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.mage.manuscrit_du_mage.rappel":  {
+                              "pnjvoix:pnj.ozlemage.manuscrit_du_mage.rappel":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/mage_manuscrit_du_mage_rappel"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.mage.manuscrit_du_mage.recompense":  {
+                              "pnjvoix:pnj.ozlemage.manuscrit_du_mage.recompense":  {
                                                                                     "category":  "master",
                                                                                     "sounds":  [
                                                                                                    "sounds/pnjvoix/mage_manuscrit_du_mage_recompense"
                                                                                                ]
                                                                                 },
-                              "pnjvoix:pnj.mage.manuscrit_du_mage.terminee":  {
+                              "pnjvoix:pnj.ozlemage.manuscrit_du_mage.terminee":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/mage_manuscrit_du_mage_terminee"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.mage.propose":  {
+                              "pnjvoix:pnj.ozlemage.propose":  {
                                                                "category":  "master",
                                                                "sounds":  [
                                                                               "sounds/pnjvoix/mage_propose"
                                                                           ]
                                                            },
-                              "pnjvoix:pnj.mage.rappel":  {
+                              "pnjvoix:pnj.ozlemage.rappel":  {
                                                               "category":  "master",
                                                               "sounds":  [
                                                                              "sounds/pnjvoix/mage_rappel"
                                                                          ]
                                                           },
-                              "pnjvoix:pnj.mage.recompense":  {
+                              "pnjvoix:pnj.ozlemage.recompense":  {
                                                                   "category":  "master",
                                                                   "sounds":  [
                                                                                  "sounds/pnjvoix/mage_recompense"
                                                                              ]
                                                               },
-                              "pnjvoix:pnj.mage.terminee":  {
+                              "pnjvoix:pnj.ozlemage.terminee":  {
                                                                 "category":  "master",
                                                                 "sounds":  [
                                                                                "sounds/pnjvoix/mage_terminee"
@@ -1327,49 +1327,49 @@
                                                                                    "sounds/pnjvoix/mathilde_terminee"
                                                                                ]
                                                                 },
-                              "pnjvoix:pnj.mineur.equipement_mineur.propose":  {
+                              "pnjvoix:pnj.gimlilemineur.equipement_mineur.propose":  {
                                                                                    "category":  "master",
                                                                                    "sounds":  [
                                                                                                   "sounds/pnjvoix/mineur_equipement_mineur_propose"
                                                                                               ]
                                                                                },
-                              "pnjvoix:pnj.mineur.equipement_mineur.rappel":  {
+                              "pnjvoix:pnj.gimlilemineur.equipement_mineur.rappel":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/mineur_equipement_mineur_rappel"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.mineur.equipement_mineur.recompense":  {
+                              "pnjvoix:pnj.gimlilemineur.equipement_mineur.recompense":  {
                                                                                       "category":  "master",
                                                                                       "sounds":  [
                                                                                                      "sounds/pnjvoix/mineur_equipement_mineur_recompense"
                                                                                                  ]
                                                                                   },
-                              "pnjvoix:pnj.mineur.equipement_mineur.terminee":  {
+                              "pnjvoix:pnj.gimlilemineur.equipement_mineur.terminee":  {
                                                                                     "category":  "master",
                                                                                     "sounds":  [
                                                                                                    "sounds/pnjvoix/mineur_equipement_mineur_terminee"
                                                                                                ]
                                                                                 },
-                              "pnjvoix:pnj.mineur.propose":  {
+                              "pnjvoix:pnj.gimlilemineur.propose":  {
                                                                  "category":  "master",
                                                                  "sounds":  [
                                                                                 "sounds/pnjvoix/mineur_propose"
                                                                             ]
                                                              },
-                              "pnjvoix:pnj.mineur.rappel":  {
+                              "pnjvoix:pnj.gimlilemineur.rappel":  {
                                                                 "category":  "master",
                                                                 "sounds":  [
                                                                                "sounds/pnjvoix/mineur_rappel"
                                                                            ]
                                                             },
-                              "pnjvoix:pnj.mineur.recompense":  {
+                              "pnjvoix:pnj.gimlilemineur.recompense":  {
                                                                     "category":  "master",
                                                                     "sounds":  [
                                                                                    "sounds/pnjvoix/mineur_recompense"
                                                                                ]
                                                                 },
-                              "pnjvoix:pnj.mineur.terminee":  {
+                              "pnjvoix:pnj.gimlilemineur.terminee":  {
                                                                   "category":  "master",
                                                                   "sounds":  [
                                                                                  "sounds/pnjvoix/mineur_terminee"
@@ -1405,49 +1405,49 @@
                                                                                  "sounds/pnjvoix/odilon_terminee"
                                                                              ]
                                                               },
-                              "pnjvoix:pnj.pecheur.bateau_pour_pecheur.propose":  {
+                              "pnjvoix:pnj.thon-ylepecheur.bateau_pour_pecheur.propose":  {
                                                                                       "category":  "master",
                                                                                       "sounds":  [
                                                                                                      "sounds/pnjvoix/pecheur_bateau_pour_pecheur_propose"
                                                                                                  ]
                                                                                   },
-                              "pnjvoix:pnj.pecheur.bateau_pour_pecheur.rappel":  {
+                              "pnjvoix:pnj.thon-ylepecheur.bateau_pour_pecheur.rappel":  {
                                                                                      "category":  "master",
                                                                                      "sounds":  [
                                                                                                     "sounds/pnjvoix/pecheur_bateau_pour_pecheur_rappel"
                                                                                                 ]
                                                                                  },
-                              "pnjvoix:pnj.pecheur.bateau_pour_pecheur.recompense":  {
+                              "pnjvoix:pnj.thon-ylepecheur.bateau_pour_pecheur.recompense":  {
                                                                                          "category":  "master",
                                                                                          "sounds":  [
                                                                                                         "sounds/pnjvoix/pecheur_bateau_pour_pecheur_recompense"
                                                                                                     ]
                                                                                      },
-                              "pnjvoix:pnj.pecheur.bateau_pour_pecheur.terminee":  {
+                              "pnjvoix:pnj.thon-ylepecheur.bateau_pour_pecheur.terminee":  {
                                                                                        "category":  "master",
                                                                                        "sounds":  [
                                                                                                       "sounds/pnjvoix/pecheur_bateau_pour_pecheur_terminee"
                                                                                                   ]
                                                                                    },
-                              "pnjvoix:pnj.pecheur.propose":  {
+                              "pnjvoix:pnj.thon-ylepecheur.propose":  {
                                                                   "category":  "master",
                                                                   "sounds":  [
                                                                                  "sounds/pnjvoix/pecheur_propose"
                                                                              ]
                                                               },
-                              "pnjvoix:pnj.pecheur.rappel":  {
+                              "pnjvoix:pnj.thon-ylepecheur.rappel":  {
                                                                  "category":  "master",
                                                                  "sounds":  [
                                                                                 "sounds/pnjvoix/pecheur_rappel"
                                                                             ]
                                                              },
-                              "pnjvoix:pnj.pecheur.recompense":  {
+                              "pnjvoix:pnj.thon-ylepecheur.recompense":  {
                                                                      "category":  "master",
                                                                      "sounds":  [
                                                                                     "sounds/pnjvoix/pecheur_recompense"
                                                                                 ]
                                                                  },
-                              "pnjvoix:pnj.pecheur.terminee":  {
+                              "pnjvoix:pnj.thon-ylepecheur.terminee":  {
                                                                    "category":  "master",
                                                                    "sounds":  [
                                                                                   "sounds/pnjvoix/pecheur_terminee"
@@ -1627,145 +1627,145 @@
                                                                                    "sounds/pnjvoix/thibault_terminee"
                                                                                ]
                                                                 },
-                              "pnjvoix:pnj.trapeur.equipement_trapeur.propose":  {
+                              "pnjvoix:pnj.davyletrappeur.equipement_trapeur.propose":  {
                                                                                      "category":  "master",
                                                                                      "sounds":  [
                                                                                                     "sounds/pnjvoix/trapeur_equipement_trapeur_propose"
                                                                                                 ]
                                                                                  },
-                              "pnjvoix:pnj.trapeur.equipement_trapeur.rappel":  {
+                              "pnjvoix:pnj.davyletrappeur.equipement_trapeur.rappel":  {
                                                                                     "category":  "master",
                                                                                     "sounds":  [
                                                                                                    "sounds/pnjvoix/trapeur_equipement_trapeur_rappel"
                                                                                                ]
                                                                                 },
-                              "pnjvoix:pnj.trapeur.equipement_trapeur.recompense":  {
+                              "pnjvoix:pnj.davyletrappeur.equipement_trapeur.recompense":  {
                                                                                         "category":  "master",
                                                                                         "sounds":  [
                                                                                                        "sounds/pnjvoix/trapeur_equipement_trapeur_recompense"
                                                                                                    ]
                                                                                     },
-                              "pnjvoix:pnj.trapeur.equipement_trapeur.terminee":  {
+                              "pnjvoix:pnj.davyletrappeur.equipement_trapeur.terminee":  {
                                                                                       "category":  "master",
                                                                                       "sounds":  [
                                                                                                      "sounds/pnjvoix/trapeur_equipement_trapeur_terminee"
                                                                                                  ]
                                                                                   },
-                              "pnjvoix:pnj.trapeur.propose":  {
+                              "pnjvoix:pnj.davyletrappeur.propose":  {
                                                                   "category":  "master",
                                                                   "sounds":  [
                                                                                  "sounds/pnjvoix/trapeur_propose"
                                                                              ]
                                                               },
-                              "pnjvoix:pnj.trapeur.rappel":  {
+                              "pnjvoix:pnj.davyletrappeur.rappel":  {
                                                                  "category":  "master",
                                                                  "sounds":  [
                                                                                 "sounds/pnjvoix/trapeur_rappel"
                                                                             ]
                                                              },
-                              "pnjvoix:pnj.trapeur.recompense":  {
+                              "pnjvoix:pnj.davyletrappeur.recompense":  {
                                                                      "category":  "master",
                                                                      "sounds":  [
                                                                                     "sounds/pnjvoix/trapeur_recompense"
                                                                                 ]
                                                                  },
-                              "pnjvoix:pnj.trapeur.terminee":  {
+                              "pnjvoix:pnj.davyletrappeur.terminee":  {
                                                                    "category":  "master",
                                                                    "sounds":  [
                                                                                   "sounds/pnjvoix/trapeur_terminee"
                                                                               ]
                                                                },
-                              "pnjvoix:pnj.vigie.propose":  {
+                              "pnjvoix:pnj.galadriellavigie.propose":  {
                                                                 "category":  "master",
                                                                 "sounds":  [
                                                                                "sounds/pnjvoix/vigie_propose"
                                                                            ]
                                                             },
-                              "pnjvoix:pnj.vigie.rappel":  {
+                              "pnjvoix:pnj.galadriellavigie.rappel":  {
                                                                "category":  "master",
                                                                "sounds":  [
                                                                               "sounds/pnjvoix/vigie_rappel"
                                                                           ]
                                                            },
-                              "pnjvoix:pnj.vigie.recompense":  {
+                              "pnjvoix:pnj.galadriellavigie.recompense":  {
                                                                    "category":  "master",
                                                                    "sounds":  [
                                                                                   "sounds/pnjvoix/vigie_recompense"
                                                                               ]
                                                                },
-                              "pnjvoix:pnj.vigie.ronde_aux_limites.propose":  {
+                              "pnjvoix:pnj.galadriellavigie.ronde_aux_limites.propose":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/vigie_ronde_aux_limites_propose"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.vigie.ronde_aux_limites.rappel":  {
+                              "pnjvoix:pnj.galadriellavigie.ronde_aux_limites.rappel":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/vigie_ronde_aux_limites_rappel"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.vigie.ronde_aux_limites.recompense":  {
+                              "pnjvoix:pnj.galadriellavigie.ronde_aux_limites.recompense":  {
                                                                                      "category":  "master",
                                                                                      "sounds":  [
                                                                                                     "sounds/pnjvoix/vigie_ronde_aux_limites_recompense"
                                                                                                 ]
                                                                                  },
-                              "pnjvoix:pnj.vigie.ronde_aux_limites.terminee":  {
+                              "pnjvoix:pnj.galadriellavigie.ronde_aux_limites.terminee":  {
                                                                                    "category":  "master",
                                                                                    "sounds":  [
                                                                                                   "sounds/pnjvoix/vigie_ronde_aux_limites_terminee"
                                                                                               ]
                                                                                },
-                              "pnjvoix:pnj.vigie.terminee":  {
+                              "pnjvoix:pnj.galadriellavigie.terminee":  {
                                                                  "category":  "master",
                                                                  "sounds":  [
                                                                                 "sounds/pnjvoix/vigie_terminee"
                                                                             ]
                                                              },
-                              "pnjvoix:pnj.weirdo.propose":  {
+                              "pnjvoix:pnj.jojolebizarre.propose":  {
                                                                  "category":  "master",
                                                                  "sounds":  [
                                                                                 "sounds/pnjvoix/weirdo_propose"
                                                                             ]
                                                              },
-                              "pnjvoix:pnj.weirdo.rappel":  {
+                              "pnjvoix:pnj.jojolebizarre.rappel":  {
                                                                 "category":  "master",
                                                                 "sounds":  [
                                                                                "sounds/pnjvoix/weirdo_rappel"
                                                                            ]
                                                             },
-                              "pnjvoix:pnj.weirdo.recompense":  {
+                              "pnjvoix:pnj.jojolebizarre.recompense":  {
                                                                     "category":  "master",
                                                                     "sounds":  [
                                                                                    "sounds/pnjvoix/weirdo_recompense"
                                                                                ]
                                                                 },
-                              "pnjvoix:pnj.weirdo.rituel_weirdo.propose":  {
+                              "pnjvoix:pnj.jojolebizarre.rituel_weirdo.propose":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/weirdo_rituel_weirdo_propose"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.weirdo.rituel_weirdo.rappel":  {
+                              "pnjvoix:pnj.jojolebizarre.rituel_weirdo.rappel":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/weirdo_rituel_weirdo_rappel"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.weirdo.rituel_weirdo.recompense":  {
+                              "pnjvoix:pnj.jojolebizarre.rituel_weirdo.recompense":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/weirdo_rituel_weirdo_recompense"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.weirdo.rituel_weirdo.terminee":  {
+                              "pnjvoix:pnj.jojolebizarre.rituel_weirdo.terminee":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/weirdo_rituel_weirdo_terminee"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.weirdo.terminee":  {
+                              "pnjvoix:pnj.jojolebizarre.terminee":  {
                                                                   "category":  "master",
                                                                   "sounds":  [
                                                                                  "sounds/pnjvoix/weirdo_terminee"
@@ -1813,481 +1813,481 @@
                                                                          "sounds/pnjvoix/test2_1"
                                                                      ]
                                                       },
-                              "pnjvoix:pnj.chef.aider_le_chercheur.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.aider_le_chercheur.propose":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/chef_aider_le_chercheur_propose"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.chef.aider_le_chercheur.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.aider_le_chercheur.rappel":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/chef_aider_le_chercheur_rappel"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.chef.aider_le_chercheur.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.aider_le_chercheur.recompense":  {
                                                                                      "category":  "master",
                                                                                      "sounds":  [
                                                                                                     "sounds/pnjvoix/chef_aider_le_chercheur_recompense"
                                                                                                 ]
                                                                                  },
-                              "pnjvoix:pnj.chef.aider_le_chercheur.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.aider_le_chercheur.terminee":  {
                                                                                    "category":  "master",
                                                                                    "sounds":  [
                                                                                                   "sounds/pnjvoix/chef_aider_le_chercheur_terminee"
                                                                                               ]
                                                                                },
-                              "pnjvoix:pnj.chef.bucheron_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.bucheron_du_chef.propose":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_bucheron_du_chef_propose"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.bucheron_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.bucheron_du_chef.rappel":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/chef_bucheron_du_chef_rappel"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.chef.bucheron_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.bucheron_du_chef.recompense":  {
                                                                                    "category":  "master",
                                                                                    "sounds":  [
                                                                                                   "sounds/pnjvoix/chef_bucheron_du_chef_recompense"
                                                                                               ]
                                                                                },
-                              "pnjvoix:pnj.chef.bucheron_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.bucheron_du_chef.terminee":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/chef_bucheron_du_chef_terminee"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.chef.chercheur_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.chercheur_du_chef.propose":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/chef_chercheur_du_chef_propose"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.chef.chercheur_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.chercheur_du_chef.rappel":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_chercheur_du_chef_rappel"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.chercheur_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.chercheur_du_chef.recompense":  {
                                                                                     "category":  "master",
                                                                                     "sounds":  [
                                                                                                    "sounds/pnjvoix/chef_chercheur_du_chef_recompense"
                                                                                                ]
                                                                                 },
-                              "pnjvoix:pnj.chef.chercheur_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.chercheur_du_chef.terminee":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/chef_chercheur_du_chef_terminee"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.chef.epreuve_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.epreuve_du_chef.propose":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/chef_epreuve_du_chef_propose"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.chef.epreuve_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.epreuve_du_chef.rappel":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_epreuve_du_chef_rappel"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.epreuve_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.epreuve_du_chef.recompense":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/chef_epreuve_du_chef_recompense"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.chef.epreuve_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.epreuve_du_chef.terminee":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_epreuve_du_chef_terminee"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.epreuve_du_chef_2.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.epreuve_du_chef_2.propose":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/chef_epreuve_du_chef_2_propose"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.chef.epreuve_du_chef_2.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.epreuve_du_chef_2.rappel":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_epreuve_du_chef_2_rappel"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.epreuve_du_chef_2.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.epreuve_du_chef_2.recompense":  {
                                                                                     "category":  "master",
                                                                                     "sounds":  [
                                                                                                    "sounds/pnjvoix/chef_epreuve_du_chef_2_recompense"
                                                                                                ]
                                                                                 },
-                              "pnjvoix:pnj.chef.epreuve_du_chef_2.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.epreuve_du_chef_2.terminee":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/chef_epreuve_du_chef_2_terminee"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.chef.garde_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.garde_du_chef.propose":  {
                                                                              "category":  "master",
                                                                              "sounds":  [
                                                                                             "sounds/pnjvoix/chef_garde_du_chef_propose"
                                                                                         ]
                                                                          },
-                              "pnjvoix:pnj.chef.garde_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.garde_du_chef.rappel":  {
                                                                             "category":  "master",
                                                                             "sounds":  [
                                                                                            "sounds/pnjvoix/chef_garde_du_chef_rappel"
                                                                                        ]
                                                                         },
-                              "pnjvoix:pnj.chef.garde_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.garde_du_chef.recompense":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_garde_du_chef_recompense"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.garde_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.garde_du_chef.terminee":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_garde_du_chef_terminee"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.gardien_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.gardien_du_chef.propose":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/chef_gardien_du_chef_propose"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.chef.gardien_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.gardien_du_chef.rappel":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_gardien_du_chef_rappel"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.gardien_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.gardien_du_chef.recompense":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/chef_gardien_du_chef_recompense"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.chef.gardien_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.gardien_du_chef.terminee":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_gardien_du_chef_terminee"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.luffy_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.luffy_du_chef.propose":  {
                                                                              "category":  "master",
                                                                              "sounds":  [
                                                                                             "sounds/pnjvoix/chef_luffy_du_chef_propose"
                                                                                         ]
                                                                          },
-                              "pnjvoix:pnj.chef.luffy_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.luffy_du_chef.rappel":  {
                                                                             "category":  "master",
                                                                             "sounds":  [
                                                                                            "sounds/pnjvoix/chef_luffy_du_chef_rappel"
                                                                                        ]
                                                                         },
-                              "pnjvoix:pnj.chef.luffy_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.luffy_du_chef.recompense":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_luffy_du_chef_recompense"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.luffy_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.luffy_du_chef.terminee":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_luffy_du_chef_terminee"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.magie_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.magie_du_chef.propose":  {
                                                                              "category":  "master",
                                                                              "sounds":  [
                                                                                             "sounds/pnjvoix/chef_magie_du_chef_propose"
                                                                                         ]
                                                                          },
-                              "pnjvoix:pnj.chef.magie_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.magie_du_chef.rappel":  {
                                                                             "category":  "master",
                                                                             "sounds":  [
                                                                                            "sounds/pnjvoix/chef_magie_du_chef_rappel"
                                                                                        ]
                                                                         },
-                              "pnjvoix:pnj.chef.magie_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.magie_du_chef.recompense":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_magie_du_chef_recompense"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.magie_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.magie_du_chef.terminee":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_magie_du_chef_terminee"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.mineur_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.mineur_du_chef.propose":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_mineur_du_chef_propose"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.mineur_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.mineur_du_chef.rappel":  {
                                                                              "category":  "master",
                                                                              "sounds":  [
                                                                                             "sounds/pnjvoix/chef_mineur_du_chef_rappel"
                                                                                         ]
                                                                          },
-                              "pnjvoix:pnj.chef.mineur_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.mineur_du_chef.recompense":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/chef_mineur_du_chef_recompense"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.chef.mineur_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.mineur_du_chef.terminee":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/chef_mineur_du_chef_terminee"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.chef.pecheur_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.pecheur_du_chef.propose":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/chef_pecheur_du_chef_propose"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.chef.pecheur_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.pecheur_du_chef.rappel":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_pecheur_du_chef_rappel"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.pecheur_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.pecheur_du_chef.recompense":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/chef_pecheur_du_chef_recompense"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.chef.pecheur_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.pecheur_du_chef.terminee":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_pecheur_du_chef_terminee"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.portail_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.portail_du_chef.propose":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/chef_portail_du_chef_propose"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.chef.portail_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.portail_du_chef.rappel":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_portail_du_chef_rappel"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.portail_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.portail_du_chef.recompense":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/chef_portail_du_chef_recompense"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.chef.portail_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.portail_du_chef.terminee":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_portail_du_chef_terminee"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.terrain_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.terrain_du_chef.propose":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/chef_terrain_du_chef_propose"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.chef.terrain_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.terrain_du_chef.rappel":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_terrain_du_chef_rappel"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.terrain_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.terrain_du_chef.recompense":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/chef_terrain_du_chef_recompense"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.chef.terrain_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.terrain_du_chef.terminee":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_terrain_du_chef_terminee"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.trapeur_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.trapeur_du_chef.propose":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/chef_trapeur_du_chef_propose"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.chef.trapeur_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.trapeur_du_chef.rappel":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_trapeur_du_chef_rappel"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.trapeur_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.trapeur_du_chef.recompense":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/chef_trapeur_du_chef_recompense"
                                                                                              ]
                                                                               },
-                              "pnjvoix:pnj.chef.trapeur_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.trapeur_du_chef.terminee":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_trapeur_du_chef_terminee"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.vigie_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.vigie_du_chef.propose":  {
                                                                              "category":  "master",
                                                                              "sounds":  [
                                                                                             "sounds/pnjvoix/chef_vigie_du_chef_propose"
                                                                                         ]
                                                                          },
-                              "pnjvoix:pnj.chef.vigie_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.vigie_du_chef.rappel":  {
                                                                             "category":  "master",
                                                                             "sounds":  [
                                                                                            "sounds/pnjvoix/chef_vigie_du_chef_rappel"
                                                                                        ]
                                                                         },
-                              "pnjvoix:pnj.chef.vigie_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.vigie_du_chef.recompense":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/chef_vigie_du_chef_recompense"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.chef.vigie_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.vigie_du_chef.terminee":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_vigie_du_chef_terminee"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.vivres_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.vivres_du_chef.propose":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_vivres_du_chef_propose"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.vivres_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.vivres_du_chef.rappel":  {
                                                                              "category":  "master",
                                                                              "sounds":  [
                                                                                             "sounds/pnjvoix/chef_vivres_du_chef_rappel"
                                                                                         ]
                                                                          },
-                              "pnjvoix:pnj.chef.vivres_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.vivres_du_chef.recompense":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/chef_vivres_du_chef_recompense"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.chef.vivres_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.vivres_du_chef.terminee":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/chef_vivres_du_chef_terminee"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.chef.weirdo_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.weirdo_du_chef.propose":  {
                                                                               "category":  "master",
                                                                               "sounds":  [
                                                                                              "sounds/pnjvoix/chef_weirdo_du_chef_propose"
                                                                                          ]
                                                                           },
-                              "pnjvoix:pnj.chef.weirdo_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.weirdo_du_chef.rappel":  {
                                                                              "category":  "master",
                                                                              "sounds":  [
                                                                                             "sounds/pnjvoix/chef_weirdo_du_chef_rappel"
                                                                                         ]
                                                                          },
-                              "pnjvoix:pnj.chef.weirdo_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.weirdo_du_chef.recompense":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/chef_weirdo_du_chef_recompense"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.chef.weirdo_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.weirdo_du_chef.terminee":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/chef_weirdo_du_chef_terminee"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.mage.poudre_pour_mage.propose":  {
+                              "pnjvoix:pnj.ozlemage.poudre_pour_mage.propose":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/mage_poudre_pour_mage_propose"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.mage.poudre_pour_mage.rappel":  {
+                              "pnjvoix:pnj.ozlemage.poudre_pour_mage.rappel":  {
                                                                                "category":  "master",
                                                                                "sounds":  [
                                                                                               "sounds/pnjvoix/mage_poudre_pour_mage_rappel"
                                                                                           ]
                                                                            },
-                              "pnjvoix:pnj.mage.poudre_pour_mage.recompense":  {
+                              "pnjvoix:pnj.ozlemage.poudre_pour_mage.recompense":  {
                                                                                    "category":  "master",
                                                                                    "sounds":  [
                                                                                                   "sounds/pnjvoix/mage_poudre_pour_mage_recompense"
                                                                                               ]
                                                                                },
-                              "pnjvoix:pnj.mage.poudre_pour_mage.terminee":  {
+                              "pnjvoix:pnj.ozlemage.poudre_pour_mage.terminee":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/mage_poudre_pour_mage_terminee"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.mage.recherche_portail_mage.propose":  {
+                              "pnjvoix:pnj.ozlemage.recherche_portail_mage.propose":  {
                                                                                       "category":  "master",
                                                                                       "sounds":  [
                                                                                                      "sounds/pnjvoix/mage_recherche_portail_mage_propose"
                                                                                                  ]
                                                                                   },
-                              "pnjvoix:pnj.mage.recherche_portail_mage.rappel":  {
+                              "pnjvoix:pnj.ozlemage.recherche_portail_mage.rappel":  {
                                                                                      "category":  "master",
                                                                                      "sounds":  [
                                                                                                     "sounds/pnjvoix/mage_recherche_portail_mage_rappel"
                                                                                                 ]
                                                                                  },
-                              "pnjvoix:pnj.mage.recherche_portail_mage.recompense":  {
+                              "pnjvoix:pnj.ozlemage.recherche_portail_mage.recompense":  {
                                                                                          "category":  "master",
                                                                                          "sounds":  [
                                                                                                         "sounds/pnjvoix/mage_recherche_portail_mage_recompense"
                                                                                                     ]
                                                                                      },
-                              "pnjvoix:pnj.mage.recherche_portail_mage.terminee":  {
+                              "pnjvoix:pnj.ozlemage.recherche_portail_mage.terminee":  {
                                                                                        "category":  "master",
                                                                                        "sounds":  [
                                                                                                       "sounds/pnjvoix/mage_recherche_portail_mage_terminee"
                                                                                                   ]
                                                                                    },
-                              "pnjvoix:pnj.mage.traduction_billet.propose":  {
+                              "pnjvoix:pnj.ozlemage.traduction_billet.propose":  {
                                                                                  "category":  "master",
                                                                                  "sounds":  [
                                                                                                 "sounds/pnjvoix/mage_traduction_billet_propose"
                                                                                             ]
                                                                              },
-                              "pnjvoix:pnj.mage.traduction_billet.rappel":  {
+                              "pnjvoix:pnj.ozlemage.traduction_billet.rappel":  {
                                                                                 "category":  "master",
                                                                                 "sounds":  [
                                                                                                "sounds/pnjvoix/mage_traduction_billet_rappel"
                                                                                            ]
                                                                             },
-                              "pnjvoix:pnj.mage.traduction_billet.recompense":  {
+                              "pnjvoix:pnj.ozlemage.traduction_billet.recompense":  {
                                                                                     "category":  "master",
                                                                                     "sounds":  [
                                                                                                    "sounds/pnjvoix/mage_traduction_billet_recompense"
                                                                                                ]
                                                                                 },
-                              "pnjvoix:pnj.mage.traduction_billet.terminee":  {
+                              "pnjvoix:pnj.ozlemage.traduction_billet.terminee":  {
                                                                                   "category":  "master",
                                                                                   "sounds":  [
                                                                                                  "sounds/pnjvoix/mage_traduction_billet_terminee"
@@ -2371,25 +2371,25 @@
                                                                           "sounds/pnjvoix/ozanne_3"
                                                                       ]
                                                        },
-                              "pnjvoix:pnj.chef.missive_du_chef.propose":  {
+                              "pnjvoix:pnj.abraracourcixlechef.missive_du_chef.propose":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/chef_missive_du_chef_propose"
                                              ]
                                          },
-                              "pnjvoix:pnj.chef.missive_du_chef.rappel":  {
+                              "pnjvoix:pnj.abraracourcixlechef.missive_du_chef.rappel":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/chef_missive_du_chef_rappel"
                                              ]
                                          },
-                              "pnjvoix:pnj.chef.missive_du_chef.recompense":  {
+                              "pnjvoix:pnj.abraracourcixlechef.missive_du_chef.recompense":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/chef_missive_du_chef_recompense"
                                              ]
                                          },
-                              "pnjvoix:pnj.chef.missive_du_chef.terminee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.missive_du_chef.terminee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/chef_missive_du_chef_terminee"
@@ -2545,49 +2545,49 @@
                                                  "sounds/pnjvoix/defaut_verrouillee_denise"
                                              ]
                                          },
-                              "pnjvoix:pnj.bucheron.refus":  {
+                              "pnjvoix:pnj.woodylebucheron.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_henri"
                                              ]
                                          },
-                              "pnjvoix:pnj.bucheron.verrouillee":  {
+                              "pnjvoix:pnj.woodylebucheron.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_henri"
                                              ]
                                          },
-                              "pnjvoix:pnj.chef.epreuve_du_chef.verrouillee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.epreuve_du_chef.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/chef_epreuve_du_chef_verrouillee"
                                              ]
                                          },
-                              "pnjvoix:pnj.chef.refus":  {
+                              "pnjvoix:pnj.abraracourcixlechef.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_antoine"
                                              ]
                                          },
-                              "pnjvoix:pnj.chef.verrouillee":  {
+                              "pnjvoix:pnj.abraracourcixlechef.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_antoine"
                                              ]
                                          },
-                              "pnjvoix:pnj.chercheur.fouille_epave.verrouillee":  {
+                              "pnjvoix:pnj.tournesollechercheur.fouille_epave.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/chercheur_fouille_epave_verrouillee"
                                              ]
                                          },
-                              "pnjvoix:pnj.chercheur.refus":  {
+                              "pnjvoix:pnj.tournesollechercheur.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_jean"
                                              ]
                                          },
-                              "pnjvoix:pnj.chercheur.verrouillee":  {
+                              "pnjvoix:pnj.tournesollechercheur.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_jean"
@@ -2653,31 +2653,31 @@
                                                  "sounds/pnjvoix/defaut_verrouillee_remy"
                                              ]
                                          },
-                              "pnjvoix:pnj.fermier.plantation_fermier.verrouillee":  {
+                              "pnjvoix:pnj.charleslefermier.plantation_fermier.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/fermier_plantation_fermier_verrouillee"
                                              ]
                                          },
-                              "pnjvoix:pnj.fermier.refus":  {
+                              "pnjvoix:pnj.charleslefermier.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_antoine"
                                              ]
                                          },
-                              "pnjvoix:pnj.fermier.verrouillee":  {
+                              "pnjvoix:pnj.charleslefermier.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_antoine"
                                              ]
                                          },
-                              "pnjvoix:pnj.fermiere.refus":  {
+                              "pnjvoix:pnj.carolinelafermiere.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_sylvie"
                                              ]
                                          },
-                              "pnjvoix:pnj.fermiere.verrouillee":  {
+                              "pnjvoix:pnj.carolinelafermiere.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_sylvie"
@@ -2719,13 +2719,13 @@
                                                  "sounds/pnjvoix/defaut_verrouillee_thierry"
                                              ]
                                          },
-                              "pnjvoix:pnj.gardien.refus":  {
+                              "pnjvoix:pnj.hagridlegardien.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_gerard"
                                              ]
                                          },
-                              "pnjvoix:pnj.gardien.verrouillee":  {
+                              "pnjvoix:pnj.hagridlegardien.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_gerard"
@@ -2839,43 +2839,43 @@
                                                  "sounds/pnjvoix/defaut_verrouillee_remy"
                                              ]
                                          },
-                              "pnjvoix:pnj.luffy.indice1":  {
+                              "pnjvoix:pnj.luffylepirate.indice1":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/luffy_indice1"
                                              ]
                                          },
-                              "pnjvoix:pnj.luffy.indice2":  {
+                              "pnjvoix:pnj.luffylepirate.indice2":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/luffy_indice2"
                                              ]
                                          },
-                              "pnjvoix:pnj.luffy.refus":  {
+                              "pnjvoix:pnj.luffylepirate.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_antoine"
                                              ]
                                          },
-                              "pnjvoix:pnj.luffy.verrouillee":  {
+                              "pnjvoix:pnj.luffylepirate.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_antoine"
                                              ]
                                          },
-                              "pnjvoix:pnj.mage.manuscrit_du_mage.verrouillee":  {
+                              "pnjvoix:pnj.ozlemage.manuscrit_du_mage.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/mage_manuscrit_du_mage_verrouillee"
                                              ]
                                          },
-                              "pnjvoix:pnj.mage.refus":  {
+                              "pnjvoix:pnj.ozlemage.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_jean"
                                              ]
                                          },
-                              "pnjvoix:pnj.mage.verrouillee":  {
+                              "pnjvoix:pnj.ozlemage.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_jean"
@@ -2929,13 +2929,13 @@
                                                  "sounds/pnjvoix/defaut_verrouillee_eloise"
                                              ]
                                          },
-                              "pnjvoix:pnj.mineur.refus":  {
+                              "pnjvoix:pnj.gimlilemineur.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_remy"
                                              ]
                                          },
-                              "pnjvoix:pnj.mineur.verrouillee":  {
+                              "pnjvoix:pnj.gimlilemineur.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_remy"
@@ -2953,13 +2953,13 @@
                                                  "sounds/pnjvoix/defaut_verrouillee_jean"
                                              ]
                                          },
-                              "pnjvoix:pnj.pecheur.refus":  {
+                              "pnjvoix:pnj.thon-ylepecheur.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_henri"
                                              ]
                                          },
-                              "pnjvoix:pnj.pecheur.verrouillee":  {
+                              "pnjvoix:pnj.thon-ylepecheur.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_henri"
@@ -3037,37 +3037,37 @@
                                                  "sounds/pnjvoix/defaut_verrouillee_jean"
                                              ]
                                          },
-                              "pnjvoix:pnj.trapeur.refus":  {
+                              "pnjvoix:pnj.davyletrappeur.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_thierry"
                                              ]
                                          },
-                              "pnjvoix:pnj.trapeur.verrouillee":  {
+                              "pnjvoix:pnj.davyletrappeur.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_thierry"
                                              ]
                                          },
-                              "pnjvoix:pnj.vigie.refus":  {
+                              "pnjvoix:pnj.galadriellavigie.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_eloise"
                                              ]
                                          },
-                              "pnjvoix:pnj.vigie.verrouillee":  {
+                              "pnjvoix:pnj.galadriellavigie.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_eloise"
                                              ]
                                          },
-                              "pnjvoix:pnj.weirdo.refus":  {
+                              "pnjvoix:pnj.jojolebizarre.refus":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_refus_remy"
                                              ]
                                          },
-                              "pnjvoix:pnj.weirdo.verrouillee":  {
+                              "pnjvoix:pnj.jojolebizarre.verrouillee":  {
                                   "category":  "master",
                                   "sounds":  [
                                                  "sounds/pnjvoix/defaut_verrouillee_remy"
