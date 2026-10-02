@@ -2424,6 +2424,666 @@
                                   "sounds":  [
                                                  "sounds/pnjvoix/garde_cite_fortifiee_refus"
                                              ]
+                                         },
+                              "pnjvoix:pnj.adele.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_denise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.adele.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_denise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.agnes.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_eloise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.agnes.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_eloise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.alienor.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_vivienne"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.alienor.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_vivienne"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.anselme.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.anselme.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.armand.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.armand.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.aubin.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.aubin.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.baptiste.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.baptiste.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.basile.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_thierry"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.basile.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_thierry"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.berthe.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_sylvie"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.berthe.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_sylvie"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.blanche.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_denise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.blanche.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_denise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.bucheron.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.bucheron.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.chef.epreuve_du_chef.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/chef_epreuve_du_chef_verrouillee"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.chef.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.chef.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.chercheur.fouille_epave.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/chercheur_fouille_epave_verrouillee"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.chercheur.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.chercheur.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.clovis.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_thierry"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.clovis.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_thierry"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.colette.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_fabrice"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.colette.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_fabrice"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.corentin.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.corentin.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.ermengarde.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_vivienne"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.ermengarde.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_vivienne"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.eudes.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.eudes.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.fermier.plantation_fermier.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/fermier_plantation_fermier_verrouillee"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.fermier.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.fermier.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.fermiere.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_sylvie"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.fermiere.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_sylvie"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.ferrand.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.ferrand.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.garde.chemin":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/garde_chemin"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.garde.moquerie":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/garde_moquerie"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.garde.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_thierry"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.garde.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_thierry"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.gardien.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_gerard"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.gardien.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_gerard"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.gaspard.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.gaspard.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.godefroy.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.godefroy.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.gontran.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.gontran.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.guillemette.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_denise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.guillemette.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_denise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.hugues.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_thierry"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.hugues.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_thierry"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.isabeau.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_sylvie"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.isabeau.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_sylvie"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.jeanne.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_vivienne"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.jeanne.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_vivienne"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.jehan.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.jehan.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.lucien.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.lucien.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.luffy.indice1":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/luffy_indice1"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.luffy.indice2":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/luffy_indice2"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.luffy.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.luffy.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.mage.manuscrit_du_mage.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/mage_manuscrit_du_mage_verrouillee"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.mage.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.mage.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.mahaut.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_sylvie"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.mahaut.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_sylvie"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.marguerite.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_denise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.marguerite.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_denise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.mathieu.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.mathieu.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.mathilde.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_eloise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.mathilde.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_eloise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.mineur.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.mineur.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.odilon.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.odilon.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.pecheur.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.pecheur.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_henri"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.perrine.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_vivienne"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.perrine.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_vivienne"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.rodrigue.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.rodrigue.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.rosalie.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_sylvie"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.rosalie.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_sylvie"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.sibylle.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_denise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.sibylle.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_denise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.tancrede.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.tancrede.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_antoine"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.thibault.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.thibault.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_jean"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.trapeur.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_thierry"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.trapeur.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_thierry"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.vigie.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_eloise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.vigie.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_eloise"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.weirdo.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.weirdo.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_remy"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.ysabel.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_refus_vivienne"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.ysabel.verrouillee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/defaut_verrouillee_vivienne"
+                                             ]
                                          }
                           }
 }
