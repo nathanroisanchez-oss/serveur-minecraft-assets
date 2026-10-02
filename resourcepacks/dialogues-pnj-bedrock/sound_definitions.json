@@ -2370,6 +2370,60 @@
                                                            "sounds":  [
                                                                           "sounds/pnjvoix/ozanne_3"
                                                                       ]
-                                                       }
+                                                       },
+                              "pnjvoix:pnj.chef.missive_du_chef.propose":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/chef_missive_du_chef_propose"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.chef.missive_du_chef.rappel":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/chef_missive_du_chef_rappel"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.chef.missive_du_chef.recompense":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/chef_missive_du_chef_recompense"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.chef.missive_du_chef.terminee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/chef_missive_du_chef_terminee"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.garde.cite_fortifiee.propose":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/garde_cite_fortifiee_propose"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.garde.cite_fortifiee.rappel":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/garde_cite_fortifiee_rappel"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.garde.cite_fortifiee.recompense":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/garde_cite_fortifiee_recompense"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.garde.cite_fortifiee.terminee":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/garde_cite_fortifiee_terminee"
+                                             ]
+                                         },
+                              "pnjvoix:pnj.garde.cite_fortifiee.refus":  {
+                                  "category":  "master",
+                                  "sounds":  [
+                                                 "sounds/pnjvoix/garde_cite_fortifiee_refus"
+                                             ]
+                                         }
                           }
 }

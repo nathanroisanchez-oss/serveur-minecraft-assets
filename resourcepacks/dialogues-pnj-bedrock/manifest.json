@@ -4,14 +4,14 @@
         "name": "Voix des PNJ (Bedrock)",
         "description": "Doublage audio des dialogues PNJ -- version Bedrock du pack Java dialogues-pnj",
         "uuid": "a023f6f3-46bc-492d-96d0-317faed57ded",
-        "version": [1, 0, 0],
+        "version": [1, 0, 1],
         "min_engine_version": [1, 16, 0]
     },
     "modules": [
         {
             "type": "resources",
             "uuid": "74b24204-f417-49ff-b96e-fe2ee350aa89",
-            "version": [1, 0, 0]
+            "version": [1, 0, 1]
         }
     ]
 }

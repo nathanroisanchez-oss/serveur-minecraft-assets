@@ -1973,5 +1973,50 @@
     "sounds": [
       "pnjvoix:ozanne_3"
     ]
+  },
+  "pnj.chef.missive_du_chef.propose": {
+    "sounds": [
+      "pnjvoix:chef_missive_du_chef_propose"
+    ]
+  },
+  "pnj.chef.missive_du_chef.rappel": {
+    "sounds": [
+      "pnjvoix:chef_missive_du_chef_rappel"
+    ]
+  },
+  "pnj.chef.missive_du_chef.recompense": {
+    "sounds": [
+      "pnjvoix:chef_missive_du_chef_recompense"
+    ]
+  },
+  "pnj.chef.missive_du_chef.terminee": {
+    "sounds": [
+      "pnjvoix:chef_missive_du_chef_terminee"
+    ]
+  },
+  "pnj.garde.cite_fortifiee.propose": {
+    "sounds": [
+      "pnjvoix:garde_cite_fortifiee_propose"
+    ]
+  },
+  "pnj.garde.cite_fortifiee.rappel": {
+    "sounds": [
+      "pnjvoix:garde_cite_fortifiee_rappel"
+    ]
+  },
+  "pnj.garde.cite_fortifiee.recompense": {
+    "sounds": [
+      "pnjvoix:garde_cite_fortifiee_recompense"
+    ]
+  },
+  "pnj.garde.cite_fortifiee.terminee": {
+    "sounds": [
+      "pnjvoix:garde_cite_fortifiee_terminee"
+    ]
+  },
+  "pnj.garde.cite_fortifiee.refus": {
+    "sounds": [
+      "pnjvoix:garde_cite_fortifiee_refus"
+    ]
   }
 }
