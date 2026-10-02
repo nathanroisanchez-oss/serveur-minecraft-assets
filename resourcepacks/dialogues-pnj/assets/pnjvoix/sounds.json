@@ -2568,5 +2568,10 @@
     "sounds": [
       "pnjvoix:defaut_verrouillee_vivienne"
     ]
+  },
+  "cinematique.intro": {
+    "sounds": [
+      "pnjvoix:cinematique_intro"
+    ]
   }
 }
