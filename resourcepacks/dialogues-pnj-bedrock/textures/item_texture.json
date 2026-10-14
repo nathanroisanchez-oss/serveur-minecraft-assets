@@ -1,0 +1,8 @@
+{
+  "resource_pack_name": "voix-pnj",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "revolver": { "textures": "textures/items/revolver" },
+    "boussole_mage": { "textures": "textures/items/boussole_mage" }
+  }
+}

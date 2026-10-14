@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:stick": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:revolver",
+        "bedrock_identifier": "rpgplugin:revolver",
+        "display_name": "Revolver",
+        "bedrock_options": {
+          "icon": "revolver",
+          "allow_offhand": true
+        }
+      }
+    ],
+    "minecraft:recovery_compass": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:boussole_mage",
+        "bedrock_identifier": "rpgplugin:boussole_mage",
+        "display_name": "Boussole du Mage",
+        "bedrock_options": {
+          "icon": "boussole_mage",
+          "allow_offhand": false
+        }
+      }
+    ]
+  }
+}
