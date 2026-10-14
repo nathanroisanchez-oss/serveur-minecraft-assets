@@ -1,0 +1,6 @@
+{
+  "entity.villager.ambient": {
+    "replace": true,
+    "sounds": ["custom/mouss_test"]
+  }
+}
