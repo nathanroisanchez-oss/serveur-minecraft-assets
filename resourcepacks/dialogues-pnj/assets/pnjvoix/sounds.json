@@ -2573,5 +2573,310 @@
     "sounds": [
       "pnjvoix:cinematique_intro"
     ]
+  },
+  "pnj.dagobertleroi.1": {
+    "sounds": [
+      "pnjvoix:dagobert_1"
+    ]
+  },
+  "pnj.dagobertleroi.ingredients_du_roi.propose": {
+    "sounds": [
+      "pnjvoix:dagobert_ingredients_du_roi_propose"
+    ]
+  },
+  "pnj.dagobertleroi.ingredients_du_roi.rappel": {
+    "sounds": [
+      "pnjvoix:dagobert_ingredients_du_roi_rappel"
+    ]
+  },
+  "pnj.dagobertleroi.ingredients_du_roi.recompense": {
+    "sounds": [
+      "pnjvoix:dagobert_ingredients_du_roi_recompense"
+    ]
+  },
+  "pnj.dagobertleroi.ingredients_du_roi.terminee": {
+    "sounds": [
+      "pnjvoix:dagobert_ingredients_du_roi_terminee"
+    ]
+  },
+  "pnj.dagobertleroi.refus": {
+    "sounds": [
+      "pnjvoix:dagobert_refus"
+    ]
+  },
+  "pnj.dagobertleroi.rejoindre_yolande.propose": {
+    "sounds": [
+      "pnjvoix:dagobert_rejoindre_yolande_propose"
+    ]
+  },
+  "pnj.dagobertleroi.rejoindre_yolande.rappel": {
+    "sounds": [
+      "pnjvoix:dagobert_rejoindre_yolande_rappel"
+    ]
+  },
+  "pnj.dagobertleroi.rejoindre_yolande.recompense": {
+    "sounds": [
+      "pnjvoix:dagobert_rejoindre_yolande_recompense"
+    ]
+  },
+  "pnj.dagobertleroi.rejoindre_yolande.terminee": {
+    "sounds": [
+      "pnjvoix:dagobert_rejoindre_yolande_terminee"
+    ]
+  },
+  "pnj.dagobertleroi.verrouillee": {
+    "sounds": [
+      "pnjvoix:dagobert_verrouillee"
+    ]
+  },
+  "pnj.eitrileforgeron.1": {
+    "sounds": [
+      "pnjvoix:eitri_1"
+    ]
+  },
+  "pnj.eitrileforgeron.metal_du_nether.propose": {
+    "sounds": [
+      "pnjvoix:eitri_metal_du_nether_propose"
+    ]
+  },
+  "pnj.eitrileforgeron.metal_du_nether.rappel": {
+    "sounds": [
+      "pnjvoix:eitri_metal_du_nether_rappel"
+    ]
+  },
+  "pnj.eitrileforgeron.metal_du_nether.recompense": {
+    "sounds": [
+      "pnjvoix:eitri_metal_du_nether_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.metal_du_nether.terminee": {
+    "sounds": [
+      "pnjvoix:eitri_metal_du_nether_terminee"
+    ]
+  },
+  "pnj.eitrileforgeron.refus": {
+    "sounds": [
+      "pnjvoix:eitri_refus"
+    ]
+  },
+  "pnj.eitrileforgeron.verrouillee": {
+    "sounds": [
+      "pnjvoix:eitri_verrouillee"
+    ]
+  },
+  "pnj.prosperlaubergiste.1": {
+    "sounds": [
+      "pnjvoix:prosper_1"
+    ]
+  },
+  "pnj.prosperlaubergiste.hydromel_de_prosper.propose": {
+    "sounds": [
+      "pnjvoix:prosper_hydromel_de_prosper_propose"
+    ]
+  },
+  "pnj.prosperlaubergiste.hydromel_de_prosper.rappel": {
+    "sounds": [
+      "pnjvoix:prosper_hydromel_de_prosper_rappel"
+    ]
+  },
+  "pnj.prosperlaubergiste.hydromel_de_prosper.recompense": {
+    "sounds": [
+      "pnjvoix:prosper_hydromel_de_prosper_recompense"
+    ]
+  },
+  "pnj.prosperlaubergiste.hydromel_de_prosper.terminee": {
+    "sounds": [
+      "pnjvoix:prosper_hydromel_de_prosper_terminee"
+    ]
+  },
+  "pnj.prosperlaubergiste.refus": {
+    "sounds": [
+      "pnjvoix:prosper_refus"
+    ]
+  },
+  "pnj.prosperlaubergiste.verrouillee": {
+    "sounds": [
+      "pnjvoix:prosper_verrouillee"
+    ]
+  },
+  "pnj.sanjilecuisinier.1": {
+    "sounds": [
+      "pnjvoix:sanji_1"
+    ]
+  },
+  "pnj.sanjilecuisinier.festin_dore.propose": {
+    "sounds": [
+      "pnjvoix:sanji_festin_dore_propose"
+    ]
+  },
+  "pnj.sanjilecuisinier.festin_dore.rappel": {
+    "sounds": [
+      "pnjvoix:sanji_festin_dore_rappel"
+    ]
+  },
+  "pnj.sanjilecuisinier.festin_dore.recompense": {
+    "sounds": [
+      "pnjvoix:sanji_festin_dore_recompense"
+    ]
+  },
+  "pnj.sanjilecuisinier.festin_dore.terminee": {
+    "sounds": [
+      "pnjvoix:sanji_festin_dore_terminee"
+    ]
+  },
+  "pnj.sanjilecuisinier.refus": {
+    "sounds": [
+      "pnjvoix:sanji_refus"
+    ]
+  },
+  "pnj.sanjilecuisinier.verrouillee": {
+    "sounds": [
+      "pnjvoix:sanji_verrouillee"
+    ]
+  },
+  "pnj.yolandelasorciere.1": {
+    "sounds": [
+      "pnjvoix:yolande_1"
+    ]
+  },
+  "pnj.yolandelasorciere.2": {
+    "sounds": [
+      "pnjvoix:yolande_2"
+    ]
+  },
+  "pnj.yolandelasorciere.etude_des_materiaux.propose": {
+    "sounds": [
+      "pnjvoix:yolande_etude_des_materiaux_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.etude_des_materiaux.rappel": {
+    "sounds": [
+      "pnjvoix:yolande_etude_des_materiaux_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.etude_des_materiaux.recompense": {
+    "sounds": [
+      "pnjvoix:yolande_etude_des_materiaux_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.etude_des_materiaux.terminee": {
+    "sounds": [
+      "pnjvoix:yolande_etude_des_materiaux_terminee"
+    ]
+  },
+  "pnj.yolandelasorciere.mesurer_le_temps.propose": {
+    "sounds": [
+      "pnjvoix:yolande_mesurer_le_temps_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.mesurer_le_temps.rappel": {
+    "sounds": [
+      "pnjvoix:yolande_mesurer_le_temps_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.mesurer_le_temps.recompense": {
+    "sounds": [
+      "pnjvoix:yolande_mesurer_le_temps_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.mesurer_le_temps.terminee": {
+    "sounds": [
+      "pnjvoix:yolande_mesurer_le_temps_terminee"
+    ]
+  },
+  "pnj.yolandelasorciere.pouvoir_de_la_boussole.propose": {
+    "sounds": [
+      "pnjvoix:yolande_pouvoir_de_la_boussole_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.pouvoir_de_la_boussole.rappel": {
+    "sounds": [
+      "pnjvoix:yolande_pouvoir_de_la_boussole_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.pouvoir_de_la_boussole.recompense": {
+    "sounds": [
+      "pnjvoix:yolande_pouvoir_de_la_boussole_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.pouvoir_de_la_boussole.terminee": {
+    "sounds": [
+      "pnjvoix:yolande_pouvoir_de_la_boussole_terminee"
+    ]
+  },
+  "pnj.yolandelasorciere.refus": {
+    "sounds": [
+      "pnjvoix:yolande_refus"
+    ]
+  },
+  "pnj.yolandelasorciere.retour_a_l_epave.propose": {
+    "sounds": [
+      "pnjvoix:yolande_retour_a_l_epave_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.retour_a_l_epave.rappel": {
+    "sounds": [
+      "pnjvoix:yolande_retour_a_l_epave_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.retour_a_l_epave.recompense": {
+    "sounds": [
+      "pnjvoix:yolande_retour_a_l_epave_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.retour_a_l_epave.terminee": {
+    "sounds": [
+      "pnjvoix:yolande_retour_a_l_epave_terminee"
+    ]
+  },
+  "pnj.yolandelasorciere.stabiliser_la_faille.propose": {
+    "sounds": [
+      "pnjvoix:yolande_stabiliser_la_faille_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.stabiliser_la_faille.rappel": {
+    "sounds": [
+      "pnjvoix:yolande_stabiliser_la_faille_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.stabiliser_la_faille.recompense": {
+    "sounds": [
+      "pnjvoix:yolande_stabiliser_la_faille_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.stabiliser_la_faille.refus": {
+    "sounds": [
+      "pnjvoix:yolande_stabiliser_la_faille_refus"
+    ]
+  },
+  "pnj.yolandelasorciere.stabiliser_la_faille.terminee": {
+    "sounds": [
+      "pnjvoix:yolande_stabiliser_la_faille_terminee"
+    ]
+  },
+  "pnj.yolandelasorciere.verrouillee": {
+    "sounds": [
+      "pnjvoix:yolande_verrouillee"
+    ]
+  },
+  "pnj.yolandelasorciere.voir_au_dela.propose": {
+    "sounds": [
+      "pnjvoix:yolande_voir_au_dela_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.voir_au_dela.rappel": {
+    "sounds": [
+      "pnjvoix:yolande_voir_au_dela_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.voir_au_dela.recompense": {
+    "sounds": [
+      "pnjvoix:yolande_voir_au_dela_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.voir_au_dela.terminee": {
+    "sounds": [
+      "pnjvoix:yolande_voir_au_dela_terminee"
+    ]
   }
 }
