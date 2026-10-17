@@ -9,7 +9,8 @@
         "display_name": "Revolver",
         "bedrock_options": {
           "icon": "revolver",
-          "allow_offhand": true
+          "allow_offhand": true,
+          "display_handheld": true
         }
       }
     ],
