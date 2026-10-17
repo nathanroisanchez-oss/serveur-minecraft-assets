@@ -2878,5 +2878,40 @@
     "sounds": [
       "pnjvoix:yolande_voir_au_dela_terminee"
     ]
+  },
+  "pnj.abraracourcixlechef.trouver_le_chef.recompense": {
+    "sounds": [
+      "pnjvoix:chef_trouver_le_chef_recompense"
+    ]
+  },
+  "pnj.dagobertleroi.le_soir_du_festin.recompense": {
+    "sounds": [
+      "pnjvoix:dagobert_le_soir_du_festin_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.les_ragots_de_la_forge.recompense": {
+    "sounds": [
+      "pnjvoix:eitri_les_ragots_de_la_forge_recompense"
+    ]
+  },
+  "pnj.prosperlaubergiste.un_lit_pour_la_nuit.recompense": {
+    "sounds": [
+      "pnjvoix:prosper_un_lit_pour_la_nuit_recompense"
+    ]
+  },
+  "pnj.sanjilecuisinier.les_cuisines_du_chateau.recompense": {
+    "sounds": [
+      "pnjvoix:sanji_les_cuisines_du_chateau_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.rejoindre_yolande.recompense": {
+    "sounds": [
+      "pnjvoix:yolande_rejoindre_yolande_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.yolande_au_chateau.recompense": {
+    "sounds": [
+      "pnjvoix:yolande_yolande_au_chateau_recompense"
+    ]
   }
 }

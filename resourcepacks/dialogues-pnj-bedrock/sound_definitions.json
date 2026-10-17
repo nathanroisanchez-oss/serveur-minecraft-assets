@@ -3450,6 +3450,48 @@
       "sounds": [
         "sounds/pnjvoix/yolande_voir_au_dela_terminee"
       ]
+    },
+    "pnjvoix:pnj.abraracourcixlechef.trouver_le_chef.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/chef_trouver_le_chef_recompense"
+      ]
+    },
+    "pnjvoix:pnj.dagobertleroi.le_soir_du_festin.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/dagobert_le_soir_du_festin_recompense"
+      ]
+    },
+    "pnjvoix:pnj.eitrileforgeron.les_ragots_de_la_forge.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/eitri_les_ragots_de_la_forge_recompense"
+      ]
+    },
+    "pnjvoix:pnj.prosperlaubergiste.un_lit_pour_la_nuit.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/prosper_un_lit_pour_la_nuit_recompense"
+      ]
+    },
+    "pnjvoix:pnj.sanjilecuisinier.les_cuisines_du_chateau.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sanji_les_cuisines_du_chateau_recompense"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.rejoindre_yolande.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolande_rejoindre_yolande_recompense"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.yolande_au_chateau.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolande_yolande_au_chateau_recompense"
+      ]
     }
   }
 }
