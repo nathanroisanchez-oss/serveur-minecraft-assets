@@ -1801,18 +1801,6 @@
         "sounds/pnjvoix/ysabel_terminee"
       ]
     },
-    "pnjvoix:pnj.test1.1": {
-      "category": "master",
-      "sounds": [
-        "sounds/pnjvoix/test1_1"
-      ]
-    },
-    "pnjvoix:pnj.test2.1": {
-      "category": "master",
-      "sounds": [
-        "sounds/pnjvoix/test2_1"
-      ]
-    },
     "pnjvoix:pnj.abraracourcixlechef.aider_le_chercheur.propose": {
       "category": "master",
       "sounds": [
@@ -3491,6 +3479,30 @@
       "category": "master",
       "sounds": [
         "sounds/pnjvoix/yolande_yolande_au_chateau_recompense"
+      ]
+    },
+    "pnjvoix:pnj.roidagobert.1": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/roidagobert_1"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.fin_des_festivites.rappel": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolande_fin_des_festivites_rappel"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.fin_des_festivites.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolande_fin_des_festivites_recompense"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.fin_des_festivites.terminee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolande_fin_des_festivites_terminee"
       ]
     }
   }

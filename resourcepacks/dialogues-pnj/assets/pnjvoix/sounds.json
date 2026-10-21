@@ -1499,16 +1499,6 @@
       "pnjvoix:ysabel_terminee"
     ]
   },
-  "pnj.test1.1": {
-    "sounds": [
-      "pnjvoix:test1_1"
-    ]
-  },
-  "pnj.test2.1": {
-    "sounds": [
-      "pnjvoix:test2_1"
-    ]
-  },
   "pnj.abraracourcixlechef.aider_le_chercheur.propose": {
     "sounds": [
       "pnjvoix:chef_aider_le_chercheur_propose"
@@ -2912,6 +2902,26 @@
   "pnj.yolandelasorciere.yolande_au_chateau.recompense": {
     "sounds": [
       "pnjvoix:yolande_yolande_au_chateau_recompense"
+    ]
+  },
+  "pnj.roidagobert.1": {
+    "sounds": [
+      "pnjvoix:roidagobert_1"
+    ]
+  },
+  "pnj.yolandelasorciere.fin_des_festivites.rappel": {
+    "sounds": [
+      "pnjvoix:yolande_fin_des_festivites_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.fin_des_festivites.recompense": {
+    "sounds": [
+      "pnjvoix:yolande_fin_des_festivites_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.fin_des_festivites.terminee": {
+    "sounds": [
+      "pnjvoix:yolande_fin_des_festivites_terminee"
     ]
   }
 }
