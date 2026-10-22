@@ -2923,5 +2923,10 @@
     "sounds": [
       "pnjvoix:yolande_fin_des_festivites_terminee"
     ]
+  },
+  "pnj.yolandelasorciere.fin_des_festivites.propose": {
+    "sounds": [
+      "pnjvoix:yolande_fin_des_festivites_propose"
+    ]
   }
 }
