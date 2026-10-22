@@ -3,6 +3,7 @@
   "texture_name": "atlas.items",
   "texture_data": {
     "revolver": { "textures": "textures/items/revolver" },
-    "boussole_mage": { "textures": "textures/items/boussole_mage" }
+    "boussole_mage": { "textures": "textures/items/boussole_mage" },
+    "lance_flammes": { "textures": "textures/items/lance_flammes" }
   }
 }

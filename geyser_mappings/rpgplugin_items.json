@@ -25,6 +25,29 @@
           "allow_offhand": false
         }
       }
+    ],
+    "minecraft:blaze_rod": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:lance_flammes",
+        "bedrock_identifier": "rpgplugin:lance_flammes",
+        "display_name": "Lance-flammes",
+        "bedrock_options": {
+          "icon": "lance_flammes",
+          "allow_offhand": false,
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:consumable": {
+            "consume_seconds": 60.0,
+            "animation": "none"
+          },
+          "minecraft:use_effects": {
+            "can_sprint": false,
+            "speed_multiplier": 0.7
+          }
+        }
+      }
     ]
   }
 }
