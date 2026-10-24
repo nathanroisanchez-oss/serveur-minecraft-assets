@@ -40,6 +40,15 @@
     },
     "slot_artefact_3": {
       "textures": "textures/items/slot_artefact_3"
+    },
+    "grenade_explosive": {
+      "textures": "textures/items/grenade_explosive"
+    },
+    "grenade_assourdissante": {
+      "textures": "textures/items/grenade_assourdissante"
+    },
+    "grenade_flash": {
+      "textures": "textures/items/grenade_flash"
     }
   }
 }

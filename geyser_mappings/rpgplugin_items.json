@@ -153,6 +153,45 @@
           "allow_offhand": false
         }
       }
+    ],
+    "minecraft:firework_star": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:grenade_explosive",
+        "bedrock_identifier": "rpgplugin:grenade_explosive",
+        "display_name": "Grenade explosive",
+        "bedrock_options": {
+          "icon": "grenade_explosive",
+          "allow_offhand": false,
+          "display_handheld": true
+        }
+      }
+    ],
+    "minecraft:prismarine_shard": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:grenade_assourdissante",
+        "bedrock_identifier": "rpgplugin:grenade_assourdissante",
+        "display_name": "Grenade assourdissante",
+        "bedrock_options": {
+          "icon": "grenade_assourdissante",
+          "allow_offhand": false,
+          "display_handheld": true
+        }
+      }
+    ],
+    "minecraft:glowstone_dust": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:grenade_flash",
+        "bedrock_identifier": "rpgplugin:grenade_flash",
+        "display_name": "Grenade flash",
+        "bedrock_options": {
+          "icon": "grenade_flash",
+          "allow_offhand": false,
+          "display_handheld": true
+        }
+      }
     ]
   }
 }

@@ -3510,6 +3510,12 @@
       "sounds": [
         "sounds/pnjvoix/yolande_fin_des_festivites_propose"
       ]
+    },
+    "rpgplugin:grenade.sifflement": {
+      "category": "master",
+      "sounds": [
+        "sounds/rpgplugin/sifflement"
+      ]
     }
   }
 }
