@@ -59,6 +59,100 @@
           }
         }
       }
+    ],
+    "minecraft:gray_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:slot_casque",
+        "bedrock_identifier": "rpgplugin:slot_casque",
+        "display_name": "Casque : libre",
+        "bedrock_options": {
+          "icon": "slot_casque",
+          "allow_offhand": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:slot_plastron",
+        "bedrock_identifier": "rpgplugin:slot_plastron",
+        "display_name": "Plastron : libre",
+        "bedrock_options": {
+          "icon": "slot_plastron",
+          "allow_offhand": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:slot_jambieres",
+        "bedrock_identifier": "rpgplugin:slot_jambieres",
+        "display_name": "Jambieres : libres",
+        "bedrock_options": {
+          "icon": "slot_jambieres",
+          "allow_offhand": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:slot_bottes",
+        "bedrock_identifier": "rpgplugin:slot_bottes",
+        "display_name": "Bottes : libres",
+        "bedrock_options": {
+          "icon": "slot_bottes",
+          "allow_offhand": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:slot_main",
+        "bedrock_identifier": "rpgplugin:slot_main",
+        "display_name": "Main : libre",
+        "bedrock_options": {
+          "icon": "slot_main",
+          "allow_offhand": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:slot_main_gauche",
+        "bedrock_identifier": "rpgplugin:slot_main_gauche",
+        "display_name": "Main gauche : libre",
+        "bedrock_options": {
+          "icon": "slot_main_gauche",
+          "allow_offhand": false
+        }
+      }
+    ],
+    "minecraft:purple_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:slot_artefact_1",
+        "bedrock_identifier": "rpgplugin:slot_artefact_1",
+        "display_name": "Artefact 1 : libre",
+        "bedrock_options": {
+          "icon": "slot_artefact_1",
+          "allow_offhand": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:slot_artefact_2",
+        "bedrock_identifier": "rpgplugin:slot_artefact_2",
+        "display_name": "Artefact 2 : libre",
+        "bedrock_options": {
+          "icon": "slot_artefact_2",
+          "allow_offhand": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:slot_artefact_3",
+        "bedrock_identifier": "rpgplugin:slot_artefact_3",
+        "display_name": "Artefact 3 : libre",
+        "bedrock_options": {
+          "icon": "slot_artefact_3",
+          "allow_offhand": false
+        }
+      }
     ]
   }
 }

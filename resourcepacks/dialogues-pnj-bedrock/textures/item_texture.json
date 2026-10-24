@@ -13,6 +13,33 @@
     },
     "sniper": {
       "textures": "textures/items/sniper"
+    },
+    "slot_casque": {
+      "textures": "textures/items/slot_casque"
+    },
+    "slot_plastron": {
+      "textures": "textures/items/slot_plastron"
+    },
+    "slot_jambieres": {
+      "textures": "textures/items/slot_jambieres"
+    },
+    "slot_bottes": {
+      "textures": "textures/items/slot_bottes"
+    },
+    "slot_main": {
+      "textures": "textures/items/slot_main"
+    },
+    "slot_main_gauche": {
+      "textures": "textures/items/slot_main_gauche"
+    },
+    "slot_artefact_1": {
+      "textures": "textures/items/slot_artefact_1"
+    },
+    "slot_artefact_2": {
+      "textures": "textures/items/slot_artefact_2"
+    },
+    "slot_artefact_3": {
+      "textures": "textures/items/slot_artefact_3"
     }
   }
 }
