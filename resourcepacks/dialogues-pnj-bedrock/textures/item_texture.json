@@ -11,6 +11,9 @@
     "lance_flammes": {
       "textures": "textures/items/lance_flammes"
     },
+    "spyglass": {
+      "textures": "textures/items/sniper"
+    },
     "sniper": {
       "textures": "textures/items/sniper"
     },
