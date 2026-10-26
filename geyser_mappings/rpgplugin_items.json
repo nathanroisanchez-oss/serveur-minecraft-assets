@@ -15,6 +15,83 @@
       },
       {
         "type": "definition",
+        "model": "rpgplugin:revolver_t1",
+        "bedrock_identifier": "rpgplugin:revolver_t1",
+        "display_name": "Revolver test 1",
+        "bedrock_options": {
+          "icon": "revolver_t1",
+          "allow_offhand": true,
+          "display_handheld": true
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:revolver_t2",
+        "bedrock_identifier": "rpgplugin:revolver_t2",
+        "display_name": "Revolver test 2",
+        "bedrock_options": {
+          "icon": "revolver_t2",
+          "allow_offhand": true,
+          "display_handheld": true
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:revolver_t3",
+        "bedrock_identifier": "rpgplugin:revolver_t3",
+        "display_name": "Revolver test 3",
+        "bedrock_options": {
+          "icon": "revolver_t3",
+          "allow_offhand": true,
+          "display_handheld": true
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:revolver_t4",
+        "bedrock_identifier": "rpgplugin:revolver_t4",
+        "display_name": "Revolver test 4",
+        "bedrock_options": {
+          "icon": "revolver_t4",
+          "allow_offhand": true,
+          "display_handheld": true
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:revolver_t5",
+        "bedrock_identifier": "rpgplugin:revolver_t5",
+        "display_name": "Revolver test 5",
+        "bedrock_options": {
+          "icon": "revolver_t5",
+          "allow_offhand": true,
+          "display_handheld": true
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:revolver_t6",
+        "bedrock_identifier": "rpgplugin:revolver_t6",
+        "display_name": "Revolver test 6",
+        "bedrock_options": {
+          "icon": "revolver_t6",
+          "allow_offhand": true,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:revolver_t7",
+        "bedrock_identifier": "rpgplugin:revolver_t7",
+        "display_name": "Revolver test 7",
+        "bedrock_options": {
+          "icon": "revolver_t7",
+          "allow_offhand": true,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
         "model": "rpgplugin:sniper",
         "bedrock_identifier": "rpgplugin:sniper",
         "display_name": "Sniper",

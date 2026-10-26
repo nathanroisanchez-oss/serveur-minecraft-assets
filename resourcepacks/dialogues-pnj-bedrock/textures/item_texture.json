@@ -5,6 +5,27 @@
     "revolver": {
       "textures": "textures/items/revolver"
     },
+    "revolver_t1": {
+      "textures": "textures/items/revolver_t1"
+    },
+    "revolver_t2": {
+      "textures": "textures/items/revolver_t2"
+    },
+    "revolver_t3": {
+      "textures": "textures/items/revolver_t3"
+    },
+    "revolver_t4": {
+      "textures": "textures/items/revolver_t4"
+    },
+    "revolver_t5": {
+      "textures": "textures/items/revolver_t5"
+    },
+    "revolver_t6": {
+      "textures": "textures/items/revolver_t6"
+    },
+    "revolver_t7": {
+      "textures": "textures/items/revolver_t7"
+    },
     "boussole_mage": {
       "textures": "textures/items/boussole_mage"
     },
