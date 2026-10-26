@@ -1,0 +1,35 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:aventurier_araignee",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/aventurier_araignee"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.aventurier_araignee"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.aventurier_araignee.idle",
+    "walk": "animation.rpgplugin.aventurier_araignee.walk",
+    "spawn": "animation.rpgplugin.aventurier_araignee.spawn",
+    "death": "animation.rpgplugin.aventurier_araignee.death",
+    "attack": "animation.rpgplugin.aventurier_araignee.attack"
+   },
+   "scripts": {
+    "animate": [
+     "idle",
+     {
+      "walk": "query.modified_move_speed > 0.02"
+     }
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}
