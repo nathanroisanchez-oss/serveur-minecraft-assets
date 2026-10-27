@@ -1,0 +1,33 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:renardeau",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/renardeau"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.renardeau"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.renardeau.idle",
+    "walk": "animation.rpgplugin.renardeau.walk",
+    "happy": "animation.rpgplugin.renardeau.happy"
+   },
+   "scripts": {
+    "animate": [
+     "idle",
+     {
+      "walk": "query.modified_move_speed > 0.02"
+     }
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}

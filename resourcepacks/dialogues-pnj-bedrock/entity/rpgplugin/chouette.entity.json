@@ -1,0 +1,33 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:chouette",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/chouette"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.chouette"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.chouette.idle",
+    "walk": "animation.rpgplugin.chouette.walk",
+    "happy": "animation.rpgplugin.chouette.happy"
+   },
+   "scripts": {
+    "animate": [
+     "idle",
+     {
+      "walk": "query.modified_move_speed > 0.02"
+     }
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:dragonnet",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/dragonnet"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.dragonnet"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.dragonnet.idle",
+    "walk": "animation.rpgplugin.dragonnet.walk",
+    "run": "animation.rpgplugin.dragonnet.run",
+    "jump": "animation.rpgplugin.dragonnet.jump",
+    "glide": "animation.rpgplugin.dragonnet.glide"
+   },
+   "scripts": {
+    "animate": [
+     "idle",
+     {
+      "walk": "query.modified_move_speed > 0.02"
+     }
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}

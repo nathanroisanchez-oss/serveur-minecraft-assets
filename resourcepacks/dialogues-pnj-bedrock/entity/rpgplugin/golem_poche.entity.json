@@ -1,0 +1,33 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:golem_poche",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/golem_poche"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.golem_poche"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.golem_poche.idle",
+    "walk": "animation.rpgplugin.golem_poche.walk",
+    "happy": "animation.rpgplugin.golem_poche.happy"
+   },
+   "scripts": {
+    "animate": [
+     "idle",
+     {
+      "walk": "query.modified_move_speed > 0.02"
+     }
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}

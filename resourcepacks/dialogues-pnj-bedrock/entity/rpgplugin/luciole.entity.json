@@ -1,0 +1,33 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:luciole",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/luciole"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.luciole"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.luciole.idle",
+    "walk": "animation.rpgplugin.luciole.walk",
+    "happy": "animation.rpgplugin.luciole.happy"
+   },
+   "scripts": {
+    "animate": [
+     "idle",
+     {
+      "walk": "query.modified_move_speed > 0.02"
+     }
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}
