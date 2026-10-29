@@ -58,8 +58,8 @@
       "type": "space",
       "advances": {
         "\ue0f0": -1,
-        "\ue0ff": -63,
-        "\ue0f1": 70
+        "\ue0ff": -101,
+        "\ue0f1": 101
       }
     }
   ]
