@@ -73,6 +73,24 @@
     },
     "grenade_flash": {
       "textures": "textures/items/grenade_flash"
+    },
+    "sac_a_dos_cuir": {
+      "textures": "textures/items/sac_a_dos_cuir"
+    },
+    "sac_a_dos_cuivre": {
+      "textures": "textures/items/sac_a_dos_cuivre"
+    },
+    "sac_a_dos_fer": {
+      "textures": "textures/items/sac_a_dos_fer"
+    },
+    "sac_a_dos_or": {
+      "textures": "textures/items/sac_a_dos_or"
+    },
+    "sac_a_dos_diamant": {
+      "textures": "textures/items/sac_a_dos_diamant"
+    },
+    "sac_a_dos_netherite": {
+      "textures": "textures/items/sac_a_dos_netherite"
     }
   }
 }

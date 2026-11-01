@@ -269,6 +269,74 @@
           "display_handheld": true
         }
       }
+    ],
+    "minecraft:knowledge_book": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:sac_a_dos_cuir",
+        "bedrock_identifier": "rpgplugin:sac_a_dos_cuir",
+        "display_name": "Sac à dos en cuir",
+        "bedrock_options": {
+          "icon": "sac_a_dos_cuir",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:sac_a_dos_cuivre",
+        "bedrock_identifier": "rpgplugin:sac_a_dos_cuivre",
+        "display_name": "Sac à dos renforcé de cuivre",
+        "bedrock_options": {
+          "icon": "sac_a_dos_cuivre",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:sac_a_dos_fer",
+        "bedrock_identifier": "rpgplugin:sac_a_dos_fer",
+        "display_name": "Sac à dos renforcé de fer",
+        "bedrock_options": {
+          "icon": "sac_a_dos_fer",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:sac_a_dos_or",
+        "bedrock_identifier": "rpgplugin:sac_a_dos_or",
+        "display_name": "Sac à dos renforcé d'or",
+        "bedrock_options": {
+          "icon": "sac_a_dos_or",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:sac_a_dos_diamant",
+        "bedrock_identifier": "rpgplugin:sac_a_dos_diamant",
+        "display_name": "Sac à dos renforcé de diamant",
+        "bedrock_options": {
+          "icon": "sac_a_dos_diamant",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:sac_a_dos_netherite",
+        "bedrock_identifier": "rpgplugin:sac_a_dos_netherite",
+        "display_name": "Sac à dos renforcé de netherite",
+        "bedrock_options": {
+          "icon": "sac_a_dos_netherite",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      }
     ]
   }
 }
