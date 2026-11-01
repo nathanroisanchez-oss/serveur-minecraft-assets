@@ -1,0 +1,18 @@
+# Modeles qui ont une version Bedrock (un identifiant par ligne). Ecrit par outils_modeles/vers_bedrock.py ; lu par l'extension Geyser RpgModeles et par le plugin.
+araignee_monture
+aventurier_araignee
+borne_ascenseur
+chimere
+chimere_corpse
+chouette
+corbeau
+disjoncteur
+disjoncteur_enclenche
+dragonnet
+gelee
+golem_poche
+loup_monture
+luciole
+mimique
+ordinateur_tucker
+renardeau
