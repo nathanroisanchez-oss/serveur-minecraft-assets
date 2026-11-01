@@ -1,0 +1,39 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:scorpion_geant",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/scorpion_geant"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.scorpion_geant"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.scorpion_geant.idle",
+    "walk": "animation.rpgplugin.scorpion_geant.walk",
+    "spawn": "animation.rpgplugin.scorpion_geant.spawn",
+    "death": "animation.rpgplugin.scorpion_geant.death",
+    "attack_queue": "animation.rpgplugin.scorpion_geant.attack_queue",
+    "attack_pince": "animation.rpgplugin.scorpion_geant.attack_pince",
+    "corpse": "animation.rpgplugin.scorpion_geant.corpse"
+   },
+   "scripts": {
+    "animate": [
+     {
+      "idle": "query.modified_move_speed <= 0.02"
+     },
+     {
+      "walk": "query.modified_move_speed > 0.02"
+     }
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}

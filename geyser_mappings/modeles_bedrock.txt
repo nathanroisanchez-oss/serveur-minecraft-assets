@@ -9,6 +9,7 @@ corbeau
 disjoncteur
 disjoncteur_enclenche
 dragonnet
+ecouteur
 gelee
 golem_poche
 loup_monture
@@ -16,3 +17,5 @@ luciole
 mimique
 ordinateur_tucker
 renardeau
+scorpion_geant
+scorpion_geant_corpse
