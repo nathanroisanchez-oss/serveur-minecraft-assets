@@ -1,0 +1,16 @@
+{
+ "format_version": "1.8.0",
+ "render_controllers": {
+  "controller.render.rpgplugin.sac": {
+   "geometry": "Geometry.sac",
+   "materials": [
+    {
+     "*": "Material.default"
+    }
+   ],
+   "textures": [
+    "Texture.sac"
+   ]
+  }
+ }
+}

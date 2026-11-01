@@ -336,6 +336,17 @@
           "allow_offhand": false,
           "display_handheld": false
         }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:armure_fer_sac_cuir",
+        "bedrock_identifier": "rpgplugin:armure_fer_sac_cuir",
+        "display_name": "Plastron de fer + sac (essai Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_cuir",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
       }
     ]
   }
