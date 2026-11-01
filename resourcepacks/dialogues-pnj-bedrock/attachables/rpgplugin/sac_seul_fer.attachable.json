@@ -1,0 +1,23 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:attachable": {
+  "description": {
+   "identifier": "rpgplugin:sac_seul_fer",
+   "item": {
+    "rpgplugin:sac_seul_fer": "query.owner_identifier == 'minecraft:player'"
+   },
+   "materials": {
+    "default": "armor"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/sac_fer"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.sac_dos_fer_nu"
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}

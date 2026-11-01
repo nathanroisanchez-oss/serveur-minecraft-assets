@@ -339,11 +339,132 @@
       },
       {
         "type": "definition",
-        "model": "rpgplugin:armure_fer_sac_cuir",
-        "bedrock_identifier": "rpgplugin:armure_fer_sac_cuir",
-        "display_name": "Plastron de fer + sac (essai Bedrock)",
+        "model": "rpgplugin:sac_seul_cuir",
+        "bedrock_identifier": "rpgplugin:sac_seul_cuir",
+        "display_name": "Sac seul (cuir, vue Bedrock)",
         "bedrock_options": {
           "icon": "sac_a_dos_cuir",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:armure_fer_sac_cuir",
+        "bedrock_identifier": "rpgplugin:armure_fer_sac_cuir",
+        "display_name": "Plastron de fer + sac (cuir, vue Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_cuir",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:sac_seul_cuivre",
+        "bedrock_identifier": "rpgplugin:sac_seul_cuivre",
+        "display_name": "Sac seul (cuivre, vue Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_cuivre",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:armure_fer_sac_cuivre",
+        "bedrock_identifier": "rpgplugin:armure_fer_sac_cuivre",
+        "display_name": "Plastron de fer + sac (cuivre, vue Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_cuivre",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:sac_seul_fer",
+        "bedrock_identifier": "rpgplugin:sac_seul_fer",
+        "display_name": "Sac seul (fer, vue Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_fer",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:armure_fer_sac_fer",
+        "bedrock_identifier": "rpgplugin:armure_fer_sac_fer",
+        "display_name": "Plastron de fer + sac (fer, vue Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_fer",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:sac_seul_or",
+        "bedrock_identifier": "rpgplugin:sac_seul_or",
+        "display_name": "Sac seul (or, vue Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_or",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:armure_fer_sac_or",
+        "bedrock_identifier": "rpgplugin:armure_fer_sac_or",
+        "display_name": "Plastron de fer + sac (or, vue Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_or",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:sac_seul_diamant",
+        "bedrock_identifier": "rpgplugin:sac_seul_diamant",
+        "display_name": "Sac seul (diamant, vue Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_diamant",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:armure_fer_sac_diamant",
+        "bedrock_identifier": "rpgplugin:armure_fer_sac_diamant",
+        "display_name": "Plastron de fer + sac (diamant, vue Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_diamant",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:sac_seul_netherite",
+        "bedrock_identifier": "rpgplugin:sac_seul_netherite",
+        "display_name": "Sac seul (netherite, vue Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_netherite",
+          "allow_offhand": false,
+          "display_handheld": false
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:armure_fer_sac_netherite",
+        "bedrock_identifier": "rpgplugin:armure_fer_sac_netherite",
+        "display_name": "Plastron de fer + sac (netherite, vue Bedrock)",
+        "bedrock_options": {
+          "icon": "sac_a_dos_netherite",
           "allow_offhand": false,
           "display_handheld": false
         }

@@ -1,0 +1,31 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:attachable": {
+  "description": {
+   "identifier": "rpgplugin:armure_fer_sac_fer",
+   "item": {
+    "rpgplugin:armure_fer_sac_fer": "query.owner_identifier == 'minecraft:player'"
+   },
+   "materials": {
+    "default": "armor",
+    "enchanted": "armor_enchanted"
+   },
+   "textures": {
+    "default": "textures/models/armor/iron_1",
+    "enchanted": "textures/misc/enchanted_actor_glint",
+    "sac": "textures/entity/rpgplugin/sac_fer"
+   },
+   "geometry": {
+    "default": "geometry.humanoid.armor.chestplate",
+    "sac": "geometry.rpgplugin.sac_dos_fer"
+   },
+   "scripts": {
+    "parent_setup": "variable.chest_layer_visible = 0.0;"
+   },
+   "render_controllers": [
+    "controller.render.armor",
+    "controller.render.rpgplugin.sac"
+   ]
+  }
+ }
+}
