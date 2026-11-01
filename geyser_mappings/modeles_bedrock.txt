@@ -4,6 +4,7 @@ aventurier_araignee
 borne_ascenseur
 chimere
 chimere_corpse
+chimere_morte
 chouette
 corbeau
 disjoncteur
