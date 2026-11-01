@@ -1,0 +1,29 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:disjoncteur_enclenche",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/disjoncteur"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.disjoncteur"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.disjoncteur.idle",
+    "enclenche": "animation.rpgplugin.disjoncteur.enclenche"
+   },
+   "scripts": {
+    "animate": [
+     "enclenche"
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "format_version": "1.8.0",
+ "animations": {
+  "animation.rpgplugin.ordinateur_tucker.idle": {
+   "loop": true,
+   "animation_length": 1.2,
+   "bones": {
+    "curseur": {
+     "scale": {
+      "0.0": [
+       1,
+       1,
+       1
+      ],
+      "0.55": [
+       1,
+       1,
+       1
+      ],
+      "0.6": [
+       0,
+       0,
+       0
+      ],
+      "1.15": [
+       0,
+       0,
+       0
+      ],
+      "1.2": [
+       1,
+       1,
+       1
+      ]
+     }
+    }
+   }
+  }
+ }
+}
