@@ -3238,5 +3238,155 @@
     "sounds": [
       "pnjvoix:freretucklemoine_2"
     ]
+  },
+  "pnj.yolandelasorciere.la_ville_silencieuse.propose": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_la_ville_silencieuse_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.la_ville_silencieuse.rappel": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_la_ville_silencieuse_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.la_ville_silencieuse.recompense": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_la_ville_silencieuse_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.la_ville_silencieuse.terminee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_la_ville_silencieuse_terminee"
+    ]
+  },
+  "pnj.yolandelasorciere.la_ville_silencieuse.verrouillee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_la_ville_silencieuse_verrouillee"
+    ]
+  },
+  "pnj.yolandelasorciere.les_ecrits_de_la_ville.propose": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_les_ecrits_de_la_ville_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.les_ecrits_de_la_ville.rappel": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_les_ecrits_de_la_ville_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.les_ecrits_de_la_ville.recompense": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_les_ecrits_de_la_ville_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.les_ecrits_de_la_ville.terminee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_les_ecrits_de_la_ville_terminee"
+    ]
+  },
+  "pnj.yolandelasorciere.les_ecrits_de_la_ville.verrouillee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_les_ecrits_de_la_ville_verrouillee"
+    ]
+  },
+  "pnj.yolandelasorciere.le_remede.propose": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_le_remede_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.le_remede.rappel": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_le_remede_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.le_remede.recompense": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_le_remede_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.le_remede.terminee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_le_remede_terminee"
+    ]
+  },
+  "pnj.yolandelasorciere.le_remede.verrouillee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_le_remede_verrouillee"
+    ]
+  },
+  "pnj.yolandelasorciere.ceux_qui_portaient_l_insigne.propose": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_ceux_qui_portaient_l_insigne_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.ceux_qui_portaient_l_insigne.rappel": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_ceux_qui_portaient_l_insigne_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.ceux_qui_portaient_l_insigne.recompense": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_ceux_qui_portaient_l_insigne_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.ceux_qui_portaient_l_insigne.terminee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_ceux_qui_portaient_l_insigne_terminee"
+    ]
+  },
+  "pnj.yolandelasorciere.ceux_qui_portaient_l_insigne.verrouillee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_ceux_qui_portaient_l_insigne_verrouillee"
+    ]
+  },
+  "pnj.yolandelasorciere.les_laboratoires_tucker.propose": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_les_laboratoires_tucker_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.les_laboratoires_tucker.rappel": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_les_laboratoires_tucker_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.les_laboratoires_tucker.recompense": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_les_laboratoires_tucker_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.les_laboratoires_tucker.terminee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_les_laboratoires_tucker_terminee"
+    ]
+  },
+  "pnj.yolandelasorciere.les_laboratoires_tucker.verrouillee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_les_laboratoires_tucker_verrouillee"
+    ]
+  },
+  "pnj.yolandelasorciere.l_arme_de_ce_monde.propose": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_l_arme_de_ce_monde_propose"
+    ]
+  },
+  "pnj.yolandelasorciere.l_arme_de_ce_monde.rappel": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_l_arme_de_ce_monde_rappel"
+    ]
+  },
+  "pnj.yolandelasorciere.l_arme_de_ce_monde.recompense": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_l_arme_de_ce_monde_recompense"
+    ]
+  },
+  "pnj.yolandelasorciere.l_arme_de_ce_monde.terminee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_l_arme_de_ce_monde_terminee"
+    ]
+  },
+  "pnj.yolandelasorciere.l_arme_de_ce_monde.verrouillee": {
+    "sounds": [
+      "pnjvoix:yolandelasorciere_l_arme_de_ce_monde_verrouillee"
+    ]
   }
 }

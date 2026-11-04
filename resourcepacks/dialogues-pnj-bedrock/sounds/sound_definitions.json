@@ -3888,6 +3888,186 @@
       "sounds": [
         "sounds/pnjvoix/freretucklemoine_2"
       ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.la_ville_silencieuse.propose": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_la_ville_silencieuse_propose"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.la_ville_silencieuse.rappel": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_la_ville_silencieuse_rappel"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.la_ville_silencieuse.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_la_ville_silencieuse_recompense"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.la_ville_silencieuse.terminee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_la_ville_silencieuse_terminee"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.la_ville_silencieuse.verrouillee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_la_ville_silencieuse_verrouillee"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.les_ecrits_de_la_ville.propose": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_les_ecrits_de_la_ville_propose"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.les_ecrits_de_la_ville.rappel": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_les_ecrits_de_la_ville_rappel"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.les_ecrits_de_la_ville.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_les_ecrits_de_la_ville_recompense"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.les_ecrits_de_la_ville.terminee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_les_ecrits_de_la_ville_terminee"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.les_ecrits_de_la_ville.verrouillee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_les_ecrits_de_la_ville_verrouillee"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.le_remede.propose": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_le_remede_propose"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.le_remede.rappel": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_le_remede_rappel"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.le_remede.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_le_remede_recompense"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.le_remede.terminee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_le_remede_terminee"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.le_remede.verrouillee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_le_remede_verrouillee"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.ceux_qui_portaient_l_insigne.propose": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_ceux_qui_portaient_l_insigne_propose"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.ceux_qui_portaient_l_insigne.rappel": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_ceux_qui_portaient_l_insigne_rappel"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.ceux_qui_portaient_l_insigne.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_ceux_qui_portaient_l_insigne_recompense"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.ceux_qui_portaient_l_insigne.terminee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_ceux_qui_portaient_l_insigne_terminee"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.ceux_qui_portaient_l_insigne.verrouillee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_ceux_qui_portaient_l_insigne_verrouillee"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.les_laboratoires_tucker.propose": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_les_laboratoires_tucker_propose"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.les_laboratoires_tucker.rappel": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_les_laboratoires_tucker_rappel"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.les_laboratoires_tucker.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_les_laboratoires_tucker_recompense"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.les_laboratoires_tucker.terminee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_les_laboratoires_tucker_terminee"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.les_laboratoires_tucker.verrouillee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_les_laboratoires_tucker_verrouillee"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.l_arme_de_ce_monde.propose": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_l_arme_de_ce_monde_propose"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.l_arme_de_ce_monde.rappel": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_l_arme_de_ce_monde_rappel"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.l_arme_de_ce_monde.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_l_arme_de_ce_monde_recompense"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.l_arme_de_ce_monde.terminee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_l_arme_de_ce_monde_terminee"
+      ]
+    },
+    "pnjvoix:pnj.yolandelasorciere.l_arme_de_ce_monde.verrouillee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/yolandelasorciere_l_arme_de_ce_monde_verrouillee"
+      ]
     }
   }
 }
