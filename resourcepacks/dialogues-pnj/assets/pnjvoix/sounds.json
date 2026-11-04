@@ -2928,5 +2928,315 @@
     "sounds": [
       "pnjvoix:yolande_fin_des_festivites_propose"
     ]
+  },
+  "pnj.basile.2": {
+    "sounds": [
+      "pnjvoix:basile_2"
+    ]
+  },
+  "pnj.colette.2": {
+    "sounds": [
+      "pnjvoix:colette_2"
+    ]
+  },
+  "pnj.damealienor.1": {
+    "sounds": [
+      "pnjvoix:damealienor_1"
+    ]
+  },
+  "pnj.damealienor.2": {
+    "sounds": [
+      "pnjvoix:damealienor_2"
+    ]
+  },
+  "pnj.guillotinlebourreau.1": {
+    "sounds": [
+      "pnjvoix:guillotinlebourreau_1"
+    ]
+  },
+  "pnj.guillotinlebourreau.2": {
+    "sounds": [
+      "pnjvoix:guillotinlebourreau_2"
+    ]
+  },
+  "pnj.quintlepecheur.1": {
+    "sounds": [
+      "pnjvoix:quintlepecheur_1"
+    ]
+  },
+  "pnj.quintlepecheur.2": {
+    "sounds": [
+      "pnjvoix:quintlepecheur_2"
+    ]
+  },
+  "pnj.bourriquetletriste.1": {
+    "sounds": [
+      "pnjvoix:bourriquetletriste_1"
+    ]
+  },
+  "pnj.bourriquetletriste.2": {
+    "sounds": [
+      "pnjvoix:bourriquetletriste_2"
+    ]
+  },
+  "pnj.dameysoline.1": {
+    "sounds": [
+      "pnjvoix:dameysoline_1"
+    ]
+  },
+  "pnj.dameysoline.2": {
+    "sounds": [
+      "pnjvoix:dameysoline_2"
+    ]
+  },
+  "pnj.seigneurenguerrand.1": {
+    "sounds": [
+      "pnjvoix:seigneurenguerrand_1"
+    ]
+  },
+  "pnj.seigneurenguerrand.2": {
+    "sounds": [
+      "pnjvoix:seigneurenguerrand_2"
+    ]
+  },
+  "pnj.mielgibsonlapiculteur.1": {
+    "sounds": [
+      "pnjvoix:mielgibsonlapiculteur_1"
+    ]
+  },
+  "pnj.mielgibsonlapiculteur.2": {
+    "sounds": [
+      "pnjvoix:mielgibsonlapiculteur_2"
+    ]
+  },
+  "pnj.dameblandine.1": {
+    "sounds": [
+      "pnjvoix:dameblandine_1"
+    ]
+  },
+  "pnj.dameblandine.2": {
+    "sounds": [
+      "pnjvoix:dameblandine_2"
+    ]
+  },
+  "pnj.tomnooklemarchand.1": {
+    "sounds": [
+      "pnjvoix:tomnooklemarchand_1"
+    ]
+  },
+  "pnj.tomnooklemarchand.2": {
+    "sounds": [
+      "pnjvoix:tomnooklemarchand_2"
+    ]
+  },
+  "pnj.bernardtapislemarchand.1": {
+    "sounds": [
+      "pnjvoix:bernardtapislemarchand_1"
+    ]
+  },
+  "pnj.bernardtapislemarchand.2": {
+    "sounds": [
+      "pnjvoix:bernardtapislemarchand_2"
+    ]
+  },
+  "pnj.willturnerlapprentiduforgeron.1": {
+    "sounds": [
+      "pnjvoix:willturnerlapprentiduforgeron_1"
+    ]
+  },
+  "pnj.willturnerlapprentiduforgeron.2": {
+    "sounds": [
+      "pnjvoix:willturnerlapprentiduforgeron_2"
+    ]
+  },
+  "pnj.macdonaldlagriculteur.1": {
+    "sounds": [
+      "pnjvoix:macdonaldlagriculteur_1"
+    ]
+  },
+  "pnj.macdonaldlagriculteur.2": {
+    "sounds": [
+      "pnjvoix:macdonaldlagriculteur_2"
+    ]
+  },
+  "pnj.peremerrinlepretre.1": {
+    "sounds": [
+      "pnjvoix:peremerrinlepretre_1"
+    ]
+  },
+  "pnj.peremerrinlepretre.2": {
+    "sounds": [
+      "pnjvoix:peremerrinlepretre_2"
+    ]
+  },
+  "pnj.iznogoudleconseiller.1": {
+    "sounds": [
+      "pnjvoix:iznogoudleconseiller_1"
+    ]
+  },
+  "pnj.iznogoudleconseiller.2": {
+    "sounds": [
+      "pnjvoix:iznogoudleconseiller_2"
+    ]
+  },
+  "pnj.leonardodicarpaccioleboucher.1": {
+    "sounds": [
+      "pnjvoix:leonardodicarpaccioleboucher_1"
+    ]
+  },
+  "pnj.leonardodicarpaccioleboucher.2": {
+    "sounds": [
+      "pnjvoix:leonardodicarpaccioleboucher_2"
+    ]
+  },
+  "pnj.odilon.2": {
+    "sounds": [
+      "pnjvoix:odilon_2"
+    ]
+  },
+  "pnj.zorolemaitredarmes.1": {
+    "sounds": [
+      "pnjvoix:zorolemaitredarmes_1"
+    ]
+  },
+  "pnj.zorolemaitredarmes.2": {
+    "sounds": [
+      "pnjvoix:zorolemaitredarmes_2"
+    ]
+  },
+  "pnj.eudes.2": {
+    "sounds": [
+      "pnjvoix:eudes_2"
+    ]
+  },
+  "pnj.popeyelemarin.1": {
+    "sounds": [
+      "pnjvoix:popeyelemarin_1"
+    ]
+  },
+  "pnj.popeyelemarin.2": {
+    "sounds": [
+      "pnjvoix:popeyelemarin_2"
+    ]
+  },
+  "pnj.thibault.2": {
+    "sounds": [
+      "pnjvoix:thibault_2"
+    ]
+  },
+  "pnj.haddocklemarin.1": {
+    "sounds": [
+      "pnjvoix:haddocklemarin_1"
+    ]
+  },
+  "pnj.haddocklemarin.2": {
+    "sounds": [
+      "pnjvoix:haddocklemarin_2"
+    ]
+  },
+  "pnj.jackskellingtonlecroque-mort.1": {
+    "sounds": [
+      "pnjvoix:jackskellingtonlecroque-mort_1"
+    ]
+  },
+  "pnj.jackskellingtonlecroque-mort.2": {
+    "sounds": [
+      "pnjvoix:jackskellingtonlecroque-mort_2"
+    ]
+  },
+  "pnj.mahaut.2": {
+    "sounds": [
+      "pnjvoix:mahaut_2"
+    ]
+  },
+  "pnj.peetaleboulanger.1": {
+    "sounds": [
+      "pnjvoix:peetaleboulanger_1"
+    ]
+  },
+  "pnj.peetaleboulanger.2": {
+    "sounds": [
+      "pnjvoix:peetaleboulanger_2"
+    ]
+  },
+  "pnj.mathieu.2": {
+    "sounds": [
+      "pnjvoix:mathieu_2"
+    ]
+  },
+  "pnj.isabeau.2": {
+    "sounds": [
+      "pnjvoix:isabeau_2"
+    ]
+  },
+  "pnj.clarklefilsdelagriculteur.1": {
+    "sounds": [
+      "pnjvoix:clarklefilsdelagriculteur_1"
+    ]
+  },
+  "pnj.clarklefilsdelagriculteur.2": {
+    "sounds": [
+      "pnjvoix:clarklefilsdelagriculteur_2"
+    ]
+  },
+  "pnj.marie-antoinettelapatissiere.1": {
+    "sounds": [
+      "pnjvoix:marie-antoinettelapatissiere_1"
+    ]
+  },
+  "pnj.marie-antoinettelapatissiere.2": {
+    "sounds": [
+      "pnjvoix:marie-antoinettelapatissiere_2"
+    ]
+  },
+  "pnj.hodorlegarcondetable.1": {
+    "sounds": [
+      "pnjvoix:hodorlegarcondetable_1"
+    ]
+  },
+  "pnj.hodorlegarcondetable.2": {
+    "sounds": [
+      "pnjvoix:hodorlegarcondetable_2"
+    ]
+  },
+  "pnj.gaspard.2": {
+    "sounds": [
+      "pnjvoix:gaspard_2"
+    ]
+  },
+  "pnj.josephlecharpentier.1": {
+    "sounds": [
+      "pnjvoix:josephlecharpentier_1"
+    ]
+  },
+  "pnj.josephlecharpentier.2": {
+    "sounds": [
+      "pnjvoix:josephlecharpentier_2"
+    ]
+  },
+  "pnj.sancholecuyer.1": {
+    "sounds": [
+      "pnjvoix:sancholecuyer_1"
+    ]
+  },
+  "pnj.sancholecuyer.2": {
+    "sounds": [
+      "pnjvoix:sancholecuyer_2"
+    ]
+  },
+  "pnj.armand.2": {
+    "sounds": [
+      "pnjvoix:armand_2"
+    ]
+  },
+  "pnj.freretucklemoine.1": {
+    "sounds": [
+      "pnjvoix:freretucklemoine_1"
+    ]
+  },
+  "pnj.freretucklemoine.2": {
+    "sounds": [
+      "pnjvoix:freretucklemoine_2"
+    ]
   }
 }
