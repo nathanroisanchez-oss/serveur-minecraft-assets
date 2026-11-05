@@ -4068,6 +4068,120 @@
       "sounds": [
         "sounds/pnjvoix/yolandelasorciere_l_arme_de_ce_monde_verrouillee"
       ]
+    },
+    "pnjvoix:sante.cri.1": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_cri_1"
+      ]
+    },
+    "pnjvoix:sante.drole.1": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_drole_1"
+      ]
+    },
+    "pnjvoix:sante.drole.2": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_drole_2"
+      ]
+    },
+    "pnjvoix:sante.drole.3": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_drole_3"
+      ]
+    },
+    "pnjvoix:sante.drole.4": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_drole_4"
+      ]
+    },
+    "pnjvoix:sante.voix.1": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_1"
+      ]
+    },
+    "pnjvoix:sante.voix.10": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_10"
+      ]
+    },
+    "pnjvoix:sante.voix.11": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_11"
+      ]
+    },
+    "pnjvoix:sante.voix.12": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_12"
+      ]
+    },
+    "pnjvoix:sante.voix.13": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_13"
+      ]
+    },
+    "pnjvoix:sante.voix.14": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_14"
+      ]
+    },
+    "pnjvoix:sante.voix.2": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_2"
+      ]
+    },
+    "pnjvoix:sante.voix.3": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_3"
+      ]
+    },
+    "pnjvoix:sante.voix.4": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_4"
+      ]
+    },
+    "pnjvoix:sante.voix.5": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_5"
+      ]
+    },
+    "pnjvoix:sante.voix.6": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_6"
+      ]
+    },
+    "pnjvoix:sante.voix.7": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_7"
+      ]
+    },
+    "pnjvoix:sante.voix.8": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_8"
+      ]
+    },
+    "pnjvoix:sante.voix.9": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/sante_voix_9"
+      ]
     }
   }
 }

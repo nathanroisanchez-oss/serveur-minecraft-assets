@@ -3388,5 +3388,100 @@
     "sounds": [
       "pnjvoix:yolandelasorciere_l_arme_de_ce_monde_verrouillee"
     ]
+  },
+  "sante.cri.1": {
+    "sounds": [
+      "pnjvoix:sante_cri_1"
+    ]
+  },
+  "sante.drole.1": {
+    "sounds": [
+      "pnjvoix:sante_drole_1"
+    ]
+  },
+  "sante.drole.2": {
+    "sounds": [
+      "pnjvoix:sante_drole_2"
+    ]
+  },
+  "sante.drole.3": {
+    "sounds": [
+      "pnjvoix:sante_drole_3"
+    ]
+  },
+  "sante.drole.4": {
+    "sounds": [
+      "pnjvoix:sante_drole_4"
+    ]
+  },
+  "sante.voix.1": {
+    "sounds": [
+      "pnjvoix:sante_voix_1"
+    ]
+  },
+  "sante.voix.10": {
+    "sounds": [
+      "pnjvoix:sante_voix_10"
+    ]
+  },
+  "sante.voix.11": {
+    "sounds": [
+      "pnjvoix:sante_voix_11"
+    ]
+  },
+  "sante.voix.12": {
+    "sounds": [
+      "pnjvoix:sante_voix_12"
+    ]
+  },
+  "sante.voix.13": {
+    "sounds": [
+      "pnjvoix:sante_voix_13"
+    ]
+  },
+  "sante.voix.14": {
+    "sounds": [
+      "pnjvoix:sante_voix_14"
+    ]
+  },
+  "sante.voix.2": {
+    "sounds": [
+      "pnjvoix:sante_voix_2"
+    ]
+  },
+  "sante.voix.3": {
+    "sounds": [
+      "pnjvoix:sante_voix_3"
+    ]
+  },
+  "sante.voix.4": {
+    "sounds": [
+      "pnjvoix:sante_voix_4"
+    ]
+  },
+  "sante.voix.5": {
+    "sounds": [
+      "pnjvoix:sante_voix_5"
+    ]
+  },
+  "sante.voix.6": {
+    "sounds": [
+      "pnjvoix:sante_voix_6"
+    ]
+  },
+  "sante.voix.7": {
+    "sounds": [
+      "pnjvoix:sante_voix_7"
+    ]
+  },
+  "sante.voix.8": {
+    "sounds": [
+      "pnjvoix:sante_voix_8"
+    ]
+  },
+  "sante.voix.9": {
+    "sounds": [
+      "pnjvoix:sante_voix_9"
+    ]
   }
 }
