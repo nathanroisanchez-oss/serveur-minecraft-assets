@@ -4182,6 +4182,33 @@
       "sounds": [
         "sounds/pnjvoix/sante_voix_9"
       ]
+    },
+    "pnjvoix:troll.gros": {
+      "category": "hostile",
+      "max_distance": 32.0,
+      "sounds": [
+        "sounds/pnjvoix/troll_gros_1",
+        "sounds/pnjvoix/troll_gros_2",
+        "sounds/pnjvoix/troll_gros_3"
+      ]
+    },
+    "pnjvoix:troll.soldat": {
+      "category": "hostile",
+      "max_distance": 32.0,
+      "sounds": [
+        "sounds/pnjvoix/troll_soldat_1",
+        "sounds/pnjvoix/troll_soldat_2",
+        "sounds/pnjvoix/troll_soldat_3"
+      ]
+    },
+    "pnjvoix:troll.sorcier": {
+      "category": "hostile",
+      "max_distance": 32.0,
+      "sounds": [
+        "sounds/pnjvoix/troll_sorcier_1",
+        "sounds/pnjvoix/troll_sorcier_2",
+        "sounds/pnjvoix/troll_sorcier_3"
+      ]
     }
   }
 }

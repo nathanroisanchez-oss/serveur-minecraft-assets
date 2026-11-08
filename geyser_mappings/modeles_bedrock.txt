@@ -20,3 +20,6 @@ ordinateur_tucker
 renardeau
 scorpion_geant
 scorpion_geant_corpse
+troll_gros
+troll_soldat
+troll_sorcier

@@ -3483,5 +3483,26 @@
     "sounds": [
       "pnjvoix:sante_voix_9"
     ]
+  },
+  "troll.gros": {
+    "sounds": [
+      "pnjvoix:troll_gros_1",
+      "pnjvoix:troll_gros_2",
+      "pnjvoix:troll_gros_3"
+    ]
+  },
+  "troll.soldat": {
+    "sounds": [
+      "pnjvoix:troll_soldat_1",
+      "pnjvoix:troll_soldat_2",
+      "pnjvoix:troll_soldat_3"
+    ]
+  },
+  "troll.sorcier": {
+    "sounds": [
+      "pnjvoix:troll_sorcier_1",
+      "pnjvoix:troll_sorcier_2",
+      "pnjvoix:troll_sorcier_3"
+    ]
   }
 }

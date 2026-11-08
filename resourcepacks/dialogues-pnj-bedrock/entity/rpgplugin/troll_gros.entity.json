@@ -1,0 +1,36 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:troll_gros",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/troll_gros"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.troll_gros"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.troll_gros.idle",
+    "walk": "animation.rpgplugin.troll_gros.walk",
+    "attack": "animation.rpgplugin.troll_gros.attack",
+    "death": "animation.rpgplugin.troll_gros.death"
+   },
+   "scripts": {
+    "animate": [
+     {
+      "idle": "query.modified_move_speed <= 0.02"
+     },
+     {
+      "walk": "query.modified_move_speed > 0.02"
+     }
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}
