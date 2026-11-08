@@ -11,6 +11,10 @@
           "icon": "revolver",
           "allow_offhand": true,
           "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_damage": 300,
+          "minecraft:max_stack_size": 1
         }
       },
       {
@@ -22,6 +26,10 @@
           "icon": "revolver_t1",
           "allow_offhand": true,
           "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_damage": 300,
+          "minecraft:max_stack_size": 1
         }
       },
       {
@@ -33,6 +41,10 @@
           "icon": "revolver_t2",
           "allow_offhand": true,
           "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_damage": 300,
+          "minecraft:max_stack_size": 1
         }
       },
       {
@@ -44,6 +56,10 @@
           "icon": "revolver_t3",
           "allow_offhand": true,
           "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_damage": 300,
+          "minecraft:max_stack_size": 1
         }
       },
       {
@@ -55,6 +71,10 @@
           "icon": "revolver_t4",
           "allow_offhand": true,
           "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_damage": 300,
+          "minecraft:max_stack_size": 1
         }
       },
       {
@@ -66,6 +86,10 @@
           "icon": "revolver_t5",
           "allow_offhand": true,
           "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_damage": 300,
+          "minecraft:max_stack_size": 1
         }
       },
       {
@@ -77,6 +101,10 @@
           "icon": "revolver_t6",
           "allow_offhand": true,
           "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_damage": 300,
+          "minecraft:max_stack_size": 1
         }
       },
       {
@@ -88,6 +116,10 @@
           "icon": "revolver_t7",
           "allow_offhand": true,
           "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_damage": 300,
+          "minecraft:max_stack_size": 1
         }
       },
       {
@@ -99,6 +131,10 @@
           "icon": "sniper",
           "allow_offhand": false,
           "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_damage": 120,
+          "minecraft:max_stack_size": 1
         }
       }
     ],
@@ -133,7 +169,9 @@
           "minecraft:use_effects": {
             "can_sprint": false,
             "speed_multiplier": 0.7
-          }
+          },
+          "minecraft:max_damage": 500,
+          "minecraft:max_stack_size": 1
         }
       },
       {
@@ -154,7 +192,9 @@
           "minecraft:use_effects": {
             "can_sprint": false,
             "speed_multiplier": 0.6
-          }
+          },
+          "minecraft:max_damage": 300,
+          "minecraft:max_stack_size": 1
         }
       }
     ],
