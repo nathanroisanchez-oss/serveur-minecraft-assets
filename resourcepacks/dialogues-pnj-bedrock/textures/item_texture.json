@@ -32,6 +32,9 @@
     "lance_flammes": {
       "textures": "textures/items/lance_flammes"
     },
+    "baton_troll": {
+      "textures": "textures/items/baton_troll"
+    },
     "spyglass": {
       "textures": "textures/items/sniper"
     },
