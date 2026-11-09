@@ -530,6 +530,19 @@
           "display_handheld": false
         }
       }
+    ],
+    "minecraft:fishing_rod": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:grappin",
+        "bedrock_identifier": "rpgplugin:grappin",
+        "display_name": "Grappin",
+        "bedrock_options": {
+          "icon": "grappin",
+          "allow_offhand": false,
+          "display_handheld": true
+        }
+      }
     ]
   }
 }
