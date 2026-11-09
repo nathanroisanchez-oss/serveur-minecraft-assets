@@ -97,6 +97,15 @@
     },
     "sac_a_dos_netherite": {
       "textures": "textures/items/sac_a_dos_netherite"
+    },
+    "munition9mm": {
+      "textures": "textures/items/munition9mm"
+    },
+    "ailes_ange": {
+      "textures": "textures/items/ailes_ange"
+    },
+    "ailes_demon": {
+      "textures": "textures/items/ailes_demon"
     }
   }
 }

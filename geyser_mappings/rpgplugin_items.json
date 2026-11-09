@@ -543,6 +543,45 @@
           "display_handheld": true
         }
       }
+    ],
+    "minecraft:iron_nugget": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:munition9mm",
+        "bedrock_identifier": "rpgplugin:munition9mm",
+        "display_name": "Munition 9mm",
+        "bedrock_options": {
+          "icon": "munition9mm",
+          "allow_offhand": true,
+          "display_handheld": false
+        }
+      }
+    ],
+    "minecraft:feather": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:ailes_ange",
+        "bedrock_identifier": "rpgplugin:ailes_ange",
+        "display_name": "Ailes d'ange",
+        "bedrock_options": {
+          "icon": "ailes_ange",
+          "allow_offhand": true,
+          "display_handheld": false
+        }
+      }
+    ],
+    "minecraft:phantom_membrane": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:ailes_demon",
+        "bedrock_identifier": "rpgplugin:ailes_demon",
+        "display_name": "Ailes de démon",
+        "bedrock_options": {
+          "icon": "ailes_demon",
+          "allow_offhand": true,
+          "display_handheld": false
+        }
+      }
     ]
   }
 }
