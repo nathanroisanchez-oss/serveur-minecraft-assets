@@ -106,6 +106,12 @@
     },
     "ailes_demon": {
       "textures": "textures/items/ailes_demon"
+    },
+    "masse_troll": {
+      "textures": "textures/items/masse_troll"
+    },
+    "hache_troll": {
+      "textures": "textures/items/hache_troll"
     }
   }
 }

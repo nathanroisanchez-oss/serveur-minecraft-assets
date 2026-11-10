@@ -582,6 +582,40 @@
           "display_handheld": false
         }
       }
+    ],
+    "minecraft:iron_sword": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:masse_troll",
+        "bedrock_identifier": "rpgplugin:masse_troll",
+        "display_name": "Masse de troll",
+        "bedrock_options": {
+          "icon": "masse_troll",
+          "allow_offhand": false,
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_damage": 900,
+          "minecraft:max_stack_size": 1
+        }
+      }
+    ],
+    "minecraft:iron_axe": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:hache_troll",
+        "bedrock_identifier": "rpgplugin:hache_troll",
+        "display_name": "Double hache de troll",
+        "bedrock_options": {
+          "icon": "hache_troll",
+          "allow_offhand": false,
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_damage": 900,
+          "minecraft:max_stack_size": 1
+        }
+      }
     ]
   }
 }
