@@ -616,6 +616,22 @@
           "minecraft:max_stack_size": 1
         }
       }
+    ],
+    "minecraft:paper": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:hache_troll",
+        "bedrock_identifier": "rpgplugin:hache_troll_gauche",
+        "display_name": "Double hache de troll (main gauche)",
+        "bedrock_options": {
+          "icon": "hache_troll",
+          "allow_offhand": true,
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      }
     ]
   }
 }
