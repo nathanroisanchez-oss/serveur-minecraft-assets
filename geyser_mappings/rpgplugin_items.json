@@ -595,7 +595,7 @@
           "display_handheld": true
         },
         "components": {
-          "minecraft:max_damage": 900,
+          "minecraft:max_damage": 1561,
           "minecraft:max_stack_size": 1
         }
       }
@@ -612,7 +612,7 @@
           "display_handheld": true
         },
         "components": {
-          "minecraft:max_damage": 900,
+          "minecraft:max_damage": 1561,
           "minecraft:max_stack_size": 1
         }
       }
