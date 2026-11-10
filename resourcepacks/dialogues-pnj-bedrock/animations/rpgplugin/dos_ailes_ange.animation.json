@@ -1,0 +1,45 @@
+{
+ "format_version": "1.8.0",
+ "animations": {
+  "animation.rpgplugin.dos_ailes_ange.pose": {
+   "loop": true,
+   "bones": {
+    "racine": {
+     "position": [
+      "0",
+      "16 * query.property('rpgplugin:dy')",
+      "16 * query.property('rpgplugin:dz')"
+     ]
+    },
+    "droite_v": {
+     "rotation": [
+      0,
+      25,
+      0
+     ]
+    },
+    "droite": {
+     "rotation": [
+      "0",
+      "0",
+      "-1 * (query.property('rpgplugin:vol') > 0.5 ? 17.19 + 25.78 * math.sin(query.life_time * 400) : 5.73 + 7.45 * math.sin(query.life_time * 90))"
+     ]
+    },
+    "gauche_v": {
+     "rotation": [
+      0,
+      -25,
+      0
+     ]
+    },
+    "gauche": {
+     "rotation": [
+      "0",
+      "0",
+      "1 * (query.property('rpgplugin:vol') > 0.5 ? 17.19 + 25.78 * math.sin(query.life_time * 400) : 5.73 + 7.45 * math.sin(query.life_time * 90))"
+     ]
+    }
+   }
+  }
+ }
+}

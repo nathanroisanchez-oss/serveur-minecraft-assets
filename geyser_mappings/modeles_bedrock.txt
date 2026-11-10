@@ -23,3 +23,11 @@ scorpion_geant_corpse
 troll_gros
 troll_soldat
 troll_sorcier
+dos_ailes_ange
+dos_ailes_demon
+dos_sac_cuir
+dos_sac_cuivre
+dos_sac_fer
+dos_sac_or
+dos_sac_diamant
+dos_sac_netherite

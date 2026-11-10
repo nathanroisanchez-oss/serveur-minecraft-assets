@@ -1,0 +1,28 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:dos_ailes_demon",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/dos_ailes_demon"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.dos_ailes_demon"
+   },
+   "animations": {
+    "pose": "animation.rpgplugin.dos_ailes_demon.pose"
+   },
+   "scripts": {
+    "animate": [
+     "pose"
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}

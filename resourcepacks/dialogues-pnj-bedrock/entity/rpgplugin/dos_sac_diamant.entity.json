@@ -1,0 +1,28 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:dos_sac_diamant",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/dos_sac_diamant"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.dos_sac_diamant"
+   },
+   "animations": {
+    "pose": "animation.rpgplugin.dos_sac_diamant.pose"
+   },
+   "scripts": {
+    "animate": [
+     "pose"
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}
