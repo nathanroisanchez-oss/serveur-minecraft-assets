@@ -1,12 +1,7 @@
 #version 330
-#extension GL_ARB_separate_shader_objects : require
 
-#ifdef GLINT
-#include <minecraft:globals.glsl>
-#endif
-#include <minecraft:fog.glsl>
-#include <minecraft:dynamictransforms.glsl>
-#include <minecraft:oit.glsl>
+#moj_import <minecraft:fog.glsl>
+#moj_import <minecraft:dynamictransforms.glsl>
 
 uniform sampler2D Sampler0;
 
@@ -14,60 +9,26 @@ uniform sampler2D Sampler0;
 uniform sampler2D DissolveMaskSampler;
 #endif
 
-#ifdef GLINT
-uniform sampler2D GlintSampler;
-#endif
-
-layout(location = 0) in float sphericalVertexDistance;
-layout(location = 1) in float cylindricalVertexDistance;
+in float sphericalVertexDistance;
+in float cylindricalVertexDistance;
 #ifdef PER_FACE_LIGHTING
-layout(location = 2) in vec4 vertexPerFaceColorBack;
-layout(location = 3) in vec4 vertexPerFaceColorFront;
+in vec4 vertexPerFaceColorBack;
+in vec4 vertexPerFaceColorFront;
 #else
-layout(location = 2) in vec4 vertexColor;
+in vec4 vertexColor;
 #endif
 
 #ifndef EMISSIVE
-layout(location = 4) in vec4 lightMapColor;
+in vec4 lightMapColor;
 #endif
 
 #ifndef NO_OVERLAY
-layout(location = 5) in vec4 overlayColor;
+in vec4 overlayColor;
 #endif
 
-layout(location = 6) in vec2 texCoord0;
-#ifdef GLINT
-layout(location = 7) in vec2 texCoordGlint;
-#endif
+in vec2 texCoord0;
 
-#ifndef OIT_ALPHA_ONLY
-layout(location = 0) out vec4 fragColor;
-#endif
-
-vec4 calculateFinalColor(vec4 color) {
-    #ifndef NO_OVERLAY
-    color.rgb = mix(overlayColor.rgb, color.rgb, overlayColor.a);
-    #endif
-
-    #ifndef EMISSIVE
-    color *= lightMapColor;
-    #endif
-
-    #ifdef GLINT
-    vec4 glintColor = GlintAlpha * texture(GlintSampler, texCoordGlint);
-    // Matches BlendFuntion.GLINT
-    color.rgb += glintColor.rgb * glintColor.rgb;
-    #endif
-
-    #ifdef OIT_ACCUMULATE
-    color = sampleColorForAccumulation(color);
-    vec4 fogColor = vec4(FogColor.rgb * color.a, FogColor.a);
-    #else
-    vec4 fogColor = FogColor;
-    #endif
-
-    return apply_fog(color, sphericalVertexDistance, cylindricalVertexDistance, FogEnvironmentalStart, FogEnvironmentalEnd, FogRenderDistanceStart, FogRenderDistanceEnd, fogColor);
-}
+out vec4 fragColor;
 
 // ANTHROPIA (11/11/2026) : le sac a dos du joueur (ItemDisplay) est masque DANS SA VUE a la premiere personne.
 // Marqueur : teinte 255/252/249 (modele « _porte »), dont les rapports vert/rouge et bleu/rouge survivent a l'eclairage ; a moins de 1.15 bloc de la camera = on est le porteur.
@@ -77,44 +38,37 @@ bool anthropiaSacDeMaVue(vec4 c, float dist) {
 
 void main() {
     vec4 color = texture(Sampler0, texCoord0);
-
-    #ifdef OIT_ADDITIVE
-    color.a = min(0.99, color.a);
-    #endif
-
-    #ifdef ALPHA_CUTOUT
+#ifdef ALPHA_CUTOUT
     if (color.a < ALPHA_CUTOUT) {
         discard;
     }
-    #endif
+#endif
 
-    #ifdef PER_FACE_LIGHTING
+#ifdef PER_FACE_LIGHTING
     vec4 faceVertexColor = gl_FrontFacing ? vertexPerFaceColorFront : vertexPerFaceColorBack;
-    #else
+#else
     vec4 faceVertexColor = vertexColor;
-    #endif
+#endif
 
     if (anthropiaSacDeMaVue(faceVertexColor, sphericalVertexDistance)) {
         discard;
     }
 
-    #ifdef DISSOLVE
+#ifdef DISSOLVE
     if (faceVertexColor.a < texture(DissolveMaskSampler, texCoord0).a) {
         discard;
     }
     // The dissolve effect entirely replaces translucency
     faceVertexColor.a = 1.0;
-    #endif
+#endif
 
     color *= faceVertexColor * ColorModulator;
+#ifndef NO_OVERLAY
+    color.rgb = mix(overlayColor.rgb, color.rgb, overlayColor.a);
+#endif
+#ifndef EMISSIVE
+    color *= lightMapColor;
+#endif
 
-    #ifdef GLINT
-    color.a = max(color.a, GlintAlpha);
-    #endif
-
-    #ifdef OIT_ALPHA_ONLY
-    executeAlphaOnlyPhase(gl_FragCoord.z, color.a);
-    #else
-    fragColor = calculateFinalColor(color);
-    #endif
+    fragColor = apply_fog(color, sphericalVertexDistance, cylindricalVertexDistance, FogEnvironmentalStart, FogEnvironmentalEnd, FogRenderDistanceStart, FogRenderDistanceEnd, FogColor);
 }
