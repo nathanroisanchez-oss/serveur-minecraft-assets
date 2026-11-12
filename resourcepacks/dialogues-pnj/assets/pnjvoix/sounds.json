@@ -3504,5 +3504,80 @@
       "pnjvoix:troll_sorcier_2",
       "pnjvoix:troll_sorcier_3"
     ]
+  },
+  "pnj.roidagobert.un_rapport_pour_le_roi.recompense": {
+    "sounds": [
+      "pnjvoix:roidagobert_un_rapport_pour_le_roi_recompense"
+    ]
+  },
+  "pnj.roidagobert.l_atelier_attend.recompense": {
+    "sounds": [
+      "pnjvoix:roidagobert_l_atelier_attend_recompense"
+    ]
+  },
+  "pnj.roidagobert.un_terrain_pour_toi.recompense": {
+    "sounds": [
+      "pnjvoix:roidagobert_un_terrain_pour_toi_recompense"
+    ]
+  },
+  "pnj.peetaleboulanger.la_commande_de_peeta.propose": {
+    "sounds": [
+      "pnjvoix:peetaleboulanger_la_commande_de_peeta_propose"
+    ]
+  },
+  "pnj.peetaleboulanger.la_commande_de_peeta.rappel": {
+    "sounds": [
+      "pnjvoix:peetaleboulanger_la_commande_de_peeta_rappel"
+    ]
+  },
+  "pnj.peetaleboulanger.la_commande_de_peeta.recompense": {
+    "sounds": [
+      "pnjvoix:peetaleboulanger_la_commande_de_peeta_recompense"
+    ]
+  },
+  "pnj.peetaleboulanger.la_commande_de_peeta.terminee": {
+    "sounds": [
+      "pnjvoix:peetaleboulanger_la_commande_de_peeta_terminee"
+    ]
+  },
+  "pnj.peetaleboulanger.la_commande_de_peeta.verrouillee": {
+    "sounds": [
+      "pnjvoix:peetaleboulanger_la_commande_de_peeta_verrouillee"
+    ]
+  },
+  "pnj.peetaleboulanger.un_coup_de_main_a_peeta.recompense": {
+    "sounds": [
+      "pnjvoix:peetaleboulanger_un_coup_de_main_a_peeta_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.la_liste_d_eitri.propose": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_la_liste_d_eitri_propose"
+    ]
+  },
+  "pnj.eitrileforgeron.la_liste_d_eitri.rappel": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_la_liste_d_eitri_rappel"
+    ]
+  },
+  "pnj.eitrileforgeron.la_liste_d_eitri.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_la_liste_d_eitri_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.la_liste_d_eitri.terminee": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_la_liste_d_eitri_terminee"
+    ]
+  },
+  "pnj.eitrileforgeron.la_liste_d_eitri.verrouillee": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_la_liste_d_eitri_verrouillee"
+    ]
+  },
+  "pnj.eitrileforgeron.chez_le_forgeron.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_chez_le_forgeron_recompense"
+    ]
   }
 }

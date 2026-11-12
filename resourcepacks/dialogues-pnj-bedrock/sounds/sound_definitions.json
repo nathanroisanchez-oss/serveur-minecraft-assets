@@ -4209,6 +4209,96 @@
         "sounds/pnjvoix/troll_sorcier_2",
         "sounds/pnjvoix/troll_sorcier_3"
       ]
+    },
+    "pnjvoix:pnj.roidagobert.un_rapport_pour_le_roi.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/roidagobert_un_rapport_pour_le_roi_recompense"
+      ]
+    },
+    "pnjvoix:pnj.roidagobert.l_atelier_attend.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/roidagobert_l_atelier_attend_recompense"
+      ]
+    },
+    "pnjvoix:pnj.roidagobert.un_terrain_pour_toi.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/roidagobert_un_terrain_pour_toi_recompense"
+      ]
+    },
+    "pnjvoix:pnj.peetaleboulanger.la_commande_de_peeta.propose": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/peetaleboulanger_la_commande_de_peeta_propose"
+      ]
+    },
+    "pnjvoix:pnj.peetaleboulanger.la_commande_de_peeta.rappel": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/peetaleboulanger_la_commande_de_peeta_rappel"
+      ]
+    },
+    "pnjvoix:pnj.peetaleboulanger.la_commande_de_peeta.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/peetaleboulanger_la_commande_de_peeta_recompense"
+      ]
+    },
+    "pnjvoix:pnj.peetaleboulanger.la_commande_de_peeta.terminee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/peetaleboulanger_la_commande_de_peeta_terminee"
+      ]
+    },
+    "pnjvoix:pnj.peetaleboulanger.la_commande_de_peeta.verrouillee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/peetaleboulanger_la_commande_de_peeta_verrouillee"
+      ]
+    },
+    "pnjvoix:pnj.peetaleboulanger.un_coup_de_main_a_peeta.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/peetaleboulanger_un_coup_de_main_a_peeta_recompense"
+      ]
+    },
+    "pnjvoix:pnj.eitrileforgeron.la_liste_d_eitri.propose": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/eitrileforgeron_la_liste_d_eitri_propose"
+      ]
+    },
+    "pnjvoix:pnj.eitrileforgeron.la_liste_d_eitri.rappel": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/eitrileforgeron_la_liste_d_eitri_rappel"
+      ]
+    },
+    "pnjvoix:pnj.eitrileforgeron.la_liste_d_eitri.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/eitrileforgeron_la_liste_d_eitri_recompense"
+      ]
+    },
+    "pnjvoix:pnj.eitrileforgeron.la_liste_d_eitri.terminee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/eitrileforgeron_la_liste_d_eitri_terminee"
+      ]
+    },
+    "pnjvoix:pnj.eitrileforgeron.la_liste_d_eitri.verrouillee": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/eitrileforgeron_la_liste_d_eitri_verrouillee"
+      ]
+    },
+    "pnjvoix:pnj.eitrileforgeron.chez_le_forgeron.recompense": {
+      "category": "master",
+      "sounds": [
+        "sounds/pnjvoix/eitrileforgeron_chez_le_forgeron_recompense"
+      ]
     }
   }
 }
