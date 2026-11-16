@@ -1,0 +1,36 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:titan_cochon",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/titan_cochon"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.titan_cochon"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.titan_cochon.idle",
+    "walk": "animation.rpgplugin.titan_cochon.walk",
+    "attack": "animation.rpgplugin.titan_cochon.attack",
+    "death": "animation.rpgplugin.titan_cochon.death"
+   },
+   "scripts": {
+    "animate": [
+     {
+      "idle": "query.modified_move_speed <= 0.02"
+     },
+     {
+      "walk": "query.modified_move_speed > 0.02"
+     }
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}
