@@ -16,7 +16,9 @@
     "idle": "animation.rpgplugin.titan_cochon.idle",
     "walk": "animation.rpgplugin.titan_cochon.walk",
     "attack": "animation.rpgplugin.titan_cochon.attack",
-    "death": "animation.rpgplugin.titan_cochon.death"
+    "death": "animation.rpgplugin.titan_cochon.death",
+    "inspire": "animation.rpgplugin.titan_cochon.inspire",
+    "cri": "animation.rpgplugin.titan_cochon.cri"
    },
    "scripts": {
     "animate": [
