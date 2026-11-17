@@ -1,0 +1,36 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:dragon_bebe_fly",
+   "materials": {
+    "default": "entity_emissive_alpha"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/dragon_bebe"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.dragon_bebe"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.dragon_bebe.idle",
+    "walk": "animation.rpgplugin.dragon_bebe.walk",
+    "climb": "animation.rpgplugin.dragon_bebe.climb",
+    "fly": "animation.rpgplugin.dragon_bebe.fly",
+    "deploy": "animation.rpgplugin.dragon_bebe.deploy",
+    "fold": "animation.rpgplugin.dragon_bebe.fold",
+    "bite": "animation.rpgplugin.dragon_bebe.bite",
+    "death": "animation.rpgplugin.dragon_bebe.death",
+    "combat": "animation.rpgplugin.dragon_bebe.combat"
+   },
+   "scripts": {
+    "animate": [
+     "fly"
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}

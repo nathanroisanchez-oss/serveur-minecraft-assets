@@ -1,0 +1,36 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:dragon_mere_climb",
+   "materials": {
+    "default": "entity_emissive_alpha"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/dragon_mere"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.dragon_mere"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.dragon_mere.idle",
+    "walk": "animation.rpgplugin.dragon_mere.walk",
+    "climb": "animation.rpgplugin.dragon_mere.climb",
+    "fly": "animation.rpgplugin.dragon_mere.fly",
+    "deploy": "animation.rpgplugin.dragon_mere.deploy",
+    "fold": "animation.rpgplugin.dragon_mere.fold",
+    "bite": "animation.rpgplugin.dragon_mere.bite",
+    "death": "animation.rpgplugin.dragon_mere.death",
+    "combat": "animation.rpgplugin.dragon_mere.combat"
+   },
+   "scripts": {
+    "animate": [
+     "climb"
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}

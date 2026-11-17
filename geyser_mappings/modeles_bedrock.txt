@@ -17,6 +17,12 @@ dos_sac_diamant
 dos_sac_fer
 dos_sac_netherite
 dos_sac_or
+dragon_bebe
+dragon_bebe_climb
+dragon_bebe_fly
+dragon_mere
+dragon_mere_climb
+dragon_mere_fly
 dragonnet
 ecouteur
 gelee
