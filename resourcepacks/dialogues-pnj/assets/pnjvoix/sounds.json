@@ -3579,5 +3579,690 @@
     "sounds": [
       "pnjvoix:eitrileforgeron_chez_le_forgeron_recompense"
     ]
+  },
+  "pnj.danzoleconseiller.1": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_1"
+    ]
+  },
+  "pnj.danzoleconseiller.2": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_2"
+    ]
+  },
+  "pnj.abraracourcixlechef.parcelle_du_chef.propose": {
+    "sounds": [
+      "pnjvoix:abraracourcixlechef_parcelle_du_chef_propose"
+    ]
+  },
+  "pnj.abraracourcixlechef.parcelle_du_chef.rappel": {
+    "sounds": [
+      "pnjvoix:abraracourcixlechef_parcelle_du_chef_rappel"
+    ]
+  },
+  "pnj.abraracourcixlechef.parcelle_du_chef.terminee": {
+    "sounds": [
+      "pnjvoix:abraracourcixlechef_parcelle_du_chef_terminee"
+    ]
+  },
+  "pnj.abraracourcixlechef.parcelle_du_chef.recompense": {
+    "sounds": [
+      "pnjvoix:abraracourcixlechef_parcelle_du_chef_recompense"
+    ]
+  },
+  "pnj.abraracourcixlechef.parcelle_du_chef.verrouillee": {
+    "sounds": [
+      "pnjvoix:abraracourcixlechef_parcelle_du_chef_verrouillee"
+    ]
+  },
+  "pnj.peetaleboulanger.refus": {
+    "sounds": [
+      "pnjvoix:peetaleboulanger_refus"
+    ]
+  },
+  "pnj.danzoleconseiller.le_conseiller_du_roi.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_conseiller_du_roi_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.l_inventaire_des_greniers.propose": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_l_inventaire_des_greniers_propose"
+    ]
+  },
+  "pnj.danzoleconseiller.l_inventaire_des_greniers.rappel": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_l_inventaire_des_greniers_rappel"
+    ]
+  },
+  "pnj.danzoleconseiller.l_inventaire_des_greniers.terminee": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_l_inventaire_des_greniers_terminee"
+    ]
+  },
+  "pnj.danzoleconseiller.l_inventaire_des_greniers.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_l_inventaire_des_greniers_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.l_inventaire_des_greniers.refus": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_l_inventaire_des_greniers_refus"
+    ]
+  },
+  "pnj.eitrileforgeron.le_forgeron_s_inquiete.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_forgeron_s_inquiete_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.les_premieres_balles.propose": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_les_premieres_balles_propose"
+    ]
+  },
+  "pnj.eitrileforgeron.les_premieres_balles.rappel": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_les_premieres_balles_rappel"
+    ]
+  },
+  "pnj.eitrileforgeron.les_premieres_balles.terminee": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_les_premieres_balles_terminee"
+    ]
+  },
+  "pnj.eitrileforgeron.les_premieres_balles.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_les_premieres_balles_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.les_premieres_balles.refus": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_les_premieres_balles_refus"
+    ]
+  },
+  "pnj.danzoleconseiller.eitri_a_besoin_de_temps.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_eitri_a_besoin_de_temps_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.la_route_du_village.propose": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_route_du_village_propose"
+    ]
+  },
+  "pnj.danzoleconseiller.la_route_du_village.rappel": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_route_du_village_rappel"
+    ]
+  },
+  "pnj.danzoleconseiller.la_route_du_village.terminee": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_route_du_village_terminee"
+    ]
+  },
+  "pnj.danzoleconseiller.la_route_du_village.refus": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_route_du_village_refus"
+    ]
+  },
+  "pnj.clovis.la_route_du_village.recompense": {
+    "sounds": [
+      "pnjvoix:clovis_la_route_du_village_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.le_retour_du_marchand.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_retour_du_marchand_recompense"
+    ]
+  },
+  "pnj.haddocklemarin.un_acheteur_au_quai.recompense": {
+    "sounds": [
+      "pnjvoix:haddocklemarin_un_acheteur_au_quai_recompense"
+    ]
+  },
+  "pnj.haddocklemarin.le_convoi_du_conseiller.propose": {
+    "sounds": [
+      "pnjvoix:haddocklemarin_le_convoi_du_conseiller_propose"
+    ]
+  },
+  "pnj.haddocklemarin.le_convoi_du_conseiller.rappel": {
+    "sounds": [
+      "pnjvoix:haddocklemarin_le_convoi_du_conseiller_rappel"
+    ]
+  },
+  "pnj.haddocklemarin.le_convoi_du_conseiller.terminee": {
+    "sounds": [
+      "pnjvoix:haddocklemarin_le_convoi_du_conseiller_terminee"
+    ]
+  },
+  "pnj.haddocklemarin.le_convoi_du_conseiller.recompense": {
+    "sounds": [
+      "pnjvoix:haddocklemarin_le_convoi_du_conseiller_recompense"
+    ]
+  },
+  "pnj.haddocklemarin.le_convoi_du_conseiller.refus": {
+    "sounds": [
+      "pnjvoix:haddocklemarin_le_convoi_du_conseiller_refus"
+    ]
+  },
+  "pnj.danzoleconseiller.le_retour_du_quai.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_retour_du_quai_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.le_forgeron_a_trouve.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_forgeron_a_trouve_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.la_poudre_d_eitri.propose": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_la_poudre_d_eitri_propose"
+    ]
+  },
+  "pnj.eitrileforgeron.la_poudre_d_eitri.rappel": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_la_poudre_d_eitri_rappel"
+    ]
+  },
+  "pnj.eitrileforgeron.la_poudre_d_eitri.terminee": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_la_poudre_d_eitri_terminee"
+    ]
+  },
+  "pnj.eitrileforgeron.la_poudre_d_eitri.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_la_poudre_d_eitri_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.la_poudre_d_eitri.refus": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_la_poudre_d_eitri_refus"
+    ]
+  },
+  "pnj.danzoleconseiller.eitri_cherche_encore.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_eitri_cherche_encore_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.le_message_scelle.propose": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_message_scelle_propose"
+    ]
+  },
+  "pnj.danzoleconseiller.le_message_scelle.rappel": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_message_scelle_rappel"
+    ]
+  },
+  "pnj.danzoleconseiller.le_message_scelle.terminee": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_message_scelle_terminee"
+    ]
+  },
+  "pnj.danzoleconseiller.le_message_scelle.refus": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_message_scelle_refus"
+    ]
+  },
+  "pnj.sancholecuyer.le_message_scelle.recompense": {
+    "sounds": [
+      "pnjvoix:sancholecuyer_le_message_scelle_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.le_retour_de_sancho.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_retour_de_sancho_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.le_forgeron_a_du_nouveau.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_forgeron_a_du_nouveau_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.faire_connaissance_avec_vegapunk.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_faire_connaissance_avec_vegapunk_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.le_grappin_de_vegapunk.propose": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_le_grappin_de_vegapunk_propose"
+    ]
+  },
+  "pnj.vegapunklinventeur.le_grappin_de_vegapunk.rappel": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_le_grappin_de_vegapunk_rappel"
+    ]
+  },
+  "pnj.vegapunklinventeur.le_grappin_de_vegapunk.terminee": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_le_grappin_de_vegapunk_terminee"
+    ]
+  },
+  "pnj.vegapunklinventeur.le_grappin_de_vegapunk.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_le_grappin_de_vegapunk_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.le_grappin_de_vegapunk.refus": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_le_grappin_de_vegapunk_refus"
+    ]
+  },
+  "pnj.vegapunklinventeur.le_grappin_a_l_epreuve.rappel": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_le_grappin_a_l_epreuve_rappel"
+    ]
+  },
+  "pnj.vegapunklinventeur.le_grappin_a_l_epreuve.terminee": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_le_grappin_a_l_epreuve_terminee"
+    ]
+  },
+  "pnj.vegapunklinventeur.le_grappin_a_l_epreuve.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_le_grappin_a_l_epreuve_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.vegapunk_a_besoin_de_temps.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_vegapunk_a_besoin_de_temps_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.la_commande_du_conseiller.propose": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_commande_du_conseiller_propose"
+    ]
+  },
+  "pnj.danzoleconseiller.la_commande_du_conseiller.rappel": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_commande_du_conseiller_rappel"
+    ]
+  },
+  "pnj.danzoleconseiller.la_commande_du_conseiller.terminee": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_commande_du_conseiller_terminee"
+    ]
+  },
+  "pnj.danzoleconseiller.la_commande_du_conseiller.refus": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_commande_du_conseiller_refus"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_commande_du_conseiller.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_commande_du_conseiller_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_voix_de_la_poudre.propose": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_voix_de_la_poudre_propose"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_voix_de_la_poudre.rappel": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_voix_de_la_poudre_rappel"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_voix_de_la_poudre.terminee": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_voix_de_la_poudre_terminee"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_voix_de_la_poudre.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_voix_de_la_poudre_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_voix_de_la_poudre.refus": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_voix_de_la_poudre_refus"
+    ]
+  },
+  "pnj.eitrileforgeron.la_lunette_pour_eitri.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_la_lunette_pour_eitri_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.le_canon_prend_du_temps.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_canon_prend_du_temps_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.le_registre_des_armes.propose": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_registre_des_armes_propose"
+    ]
+  },
+  "pnj.danzoleconseiller.le_registre_des_armes.rappel": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_registre_des_armes_rappel"
+    ]
+  },
+  "pnj.danzoleconseiller.le_registre_des_armes.terminee": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_registre_des_armes_terminee"
+    ]
+  },
+  "pnj.danzoleconseiller.le_registre_des_armes.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_registre_des_armes_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.le_registre_des_armes.refus": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_le_registre_des_armes_refus"
+    ]
+  },
+  "pnj.roidagobert.le_registre_pour_le_roi.recompense": {
+    "sounds": [
+      "pnjvoix:roidagobert_le_registre_pour_le_roi_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.le_forgeron_te_demande.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_forgeron_te_demande_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.le_canon_d_eitri.propose": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_canon_d_eitri_propose"
+    ]
+  },
+  "pnj.eitrileforgeron.le_canon_d_eitri.rappel": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_canon_d_eitri_rappel"
+    ]
+  },
+  "pnj.eitrileforgeron.le_canon_d_eitri.terminee": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_canon_d_eitri_terminee"
+    ]
+  },
+  "pnj.eitrileforgeron.le_canon_d_eitri.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_canon_d_eitri_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.le_canon_d_eitri.refus": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_canon_d_eitri_refus"
+    ]
+  },
+  "pnj.eitrileforgeron.le_tir_d_essai.rappel": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_tir_d_essai_rappel"
+    ]
+  },
+  "pnj.eitrileforgeron.le_tir_d_essai.terminee": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_tir_d_essai_terminee"
+    ]
+  },
+  "pnj.eitrileforgeron.le_tir_d_essai.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_tir_d_essai_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.vegapunk_est_rentre.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_vegapunk_est_rentre_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_nuit_en_plein_jour.propose": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_nuit_en_plein_jour_propose"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_nuit_en_plein_jour.rappel": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_nuit_en_plein_jour_rappel"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_nuit_en_plein_jour.terminee": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_nuit_en_plein_jour_terminee"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_nuit_en_plein_jour.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_nuit_en_plein_jour_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_nuit_en_plein_jour.refus": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_nuit_en_plein_jour_refus"
+    ]
+  },
+  "pnj.eitrileforgeron.le_detonateur_pour_eitri.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_detonateur_pour_eitri_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.eitri_travaille.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_eitri_travaille_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.les_hommes_surs.propose": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_les_hommes_surs_propose"
+    ]
+  },
+  "pnj.danzoleconseiller.les_hommes_surs.rappel": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_les_hommes_surs_rappel"
+    ]
+  },
+  "pnj.danzoleconseiller.les_hommes_surs.terminee": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_les_hommes_surs_terminee"
+    ]
+  },
+  "pnj.danzoleconseiller.les_hommes_surs.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_les_hommes_surs_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.les_hommes_surs.refus": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_les_hommes_surs_refus"
+    ]
+  },
+  "pnj.danzoleconseiller.la_nuit_de_la_caserne.propose": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_nuit_de_la_caserne_propose"
+    ]
+  },
+  "pnj.danzoleconseiller.la_nuit_de_la_caserne.rappel": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_nuit_de_la_caserne_rappel"
+    ]
+  },
+  "pnj.danzoleconseiller.la_nuit_de_la_caserne.terminee": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_nuit_de_la_caserne_terminee"
+    ]
+  },
+  "pnj.danzoleconseiller.la_nuit_de_la_caserne.recompense": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_nuit_de_la_caserne_recompense"
+    ]
+  },
+  "pnj.danzoleconseiller.la_nuit_de_la_caserne.refus": {
+    "sounds": [
+      "pnjvoix:danzoleconseiller_la_nuit_de_la_caserne_refus"
+    ]
+  },
+  "pnj.roidagobert.le_second_rapport.recompense": {
+    "sounds": [
+      "pnjvoix:roidagobert_le_second_rapport_recompense"
+    ]
+  },
+  "pnj.roidagobert.la_veille_du_quai.propose": {
+    "sounds": [
+      "pnjvoix:roidagobert_la_veille_du_quai_propose"
+    ]
+  },
+  "pnj.roidagobert.la_veille_du_quai.rappel": {
+    "sounds": [
+      "pnjvoix:roidagobert_la_veille_du_quai_rappel"
+    ]
+  },
+  "pnj.roidagobert.la_veille_du_quai.terminee": {
+    "sounds": [
+      "pnjvoix:roidagobert_la_veille_du_quai_terminee"
+    ]
+  },
+  "pnj.roidagobert.la_veille_du_quai.recompense": {
+    "sounds": [
+      "pnjvoix:roidagobert_la_veille_du_quai_recompense"
+    ]
+  },
+  "pnj.roidagobert.la_veille_du_quai.refus": {
+    "sounds": [
+      "pnjvoix:roidagobert_la_veille_du_quai_refus"
+    ]
+  },
+  "pnj.eitrileforgeron.le_roi_arme_la_garde.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_roi_arme_la_garde_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.vers_la_mine.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_vers_la_mine_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_cloche_de_verre.propose": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_cloche_de_verre_propose"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_cloche_de_verre.rappel": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_cloche_de_verre_rappel"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_cloche_de_verre.terminee": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_cloche_de_verre_terminee"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_cloche_de_verre.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_cloche_de_verre_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.la_cloche_de_verre.refus": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_la_cloche_de_verre_refus"
+    ]
+  },
+  "pnj.vegapunklinventeur.les_derniers_elements.propose": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_les_derniers_elements_propose"
+    ]
+  },
+  "pnj.vegapunklinventeur.les_derniers_elements.rappel": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_les_derniers_elements_rappel"
+    ]
+  },
+  "pnj.vegapunklinventeur.les_derniers_elements.terminee": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_les_derniers_elements_terminee"
+    ]
+  },
+  "pnj.vegapunklinventeur.les_derniers_elements.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_les_derniers_elements_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.les_derniers_elements.refus": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_les_derniers_elements_refus"
+    ]
+  },
+  "pnj.eitrileforgeron.le_dome_pour_eitri.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_le_dome_pour_eitri_recompense"
+    ]
+  },
+  "pnj.roidagobert.le_roi_attend_des_nouvelles.recompense": {
+    "sounds": [
+      "pnjvoix:roidagobert_le_roi_attend_des_nouvelles_recompense"
+    ]
+  },
+  "pnj.eitrileforgeron.un_cadeau_pour_eitri.recompense": {
+    "sounds": [
+      "pnjvoix:eitrileforgeron_un_cadeau_pour_eitri_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.trouver_vegapunk.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_trouver_vegapunk_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.les_braises_de_vegapunk.propose": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_les_braises_de_vegapunk_propose"
+    ]
+  },
+  "pnj.vegapunklinventeur.les_braises_de_vegapunk.rappel": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_les_braises_de_vegapunk_rappel"
+    ]
+  },
+  "pnj.vegapunklinventeur.les_braises_de_vegapunk.terminee": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_les_braises_de_vegapunk_terminee"
+    ]
+  },
+  "pnj.vegapunklinventeur.les_braises_de_vegapunk.recompense": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_les_braises_de_vegapunk_recompense"
+    ]
+  },
+  "pnj.vegapunklinventeur.les_braises_de_vegapunk.refus": {
+    "sounds": [
+      "pnjvoix:vegapunklinventeur_les_braises_de_vegapunk_refus"
+    ]
+  },
+  "pnj.roidagobert.le_roi_a_besoin_de_toi.recompense": {
+    "sounds": [
+      "pnjvoix:roidagobert_le_roi_a_besoin_de_toi_recompense"
+    ]
+  },
+  "pnj.roidagobert.les_temoins.propose": {
+    "sounds": [
+      "pnjvoix:roidagobert_les_temoins_propose"
+    ]
+  },
+  "pnj.roidagobert.les_temoins.rappel": {
+    "sounds": [
+      "pnjvoix:roidagobert_les_temoins_rappel"
+    ]
+  },
+  "pnj.roidagobert.les_temoins.terminee": {
+    "sounds": [
+      "pnjvoix:roidagobert_les_temoins_terminee"
+    ]
+  },
+  "pnj.roidagobert.les_temoins.recompense": {
+    "sounds": [
+      "pnjvoix:roidagobert_les_temoins_recompense"
+    ]
+  },
+  "pnj.roidagobert.les_temoins.refus": {
+    "sounds": [
+      "pnjvoix:roidagobert_les_temoins_refus"
+    ]
+  },
+  "pnj.zorolemaitredarmes.zoro_est_libre.recompense": {
+    "sounds": [
+      "pnjvoix:zorolemaitredarmes_zoro_est_libre_recompense"
+    ]
   }
 }
