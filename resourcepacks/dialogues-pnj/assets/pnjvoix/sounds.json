@@ -4264,5 +4264,30 @@
     "sounds": [
       "pnjvoix:zorolemaitredarmes_zoro_est_libre_recompense"
     ]
+  },
+  "pnj.melisselherboriste.tisane_de_serenite.propose": {
+    "sounds": [
+      "pnjvoix:melisselherboriste_tisane_de_serenite_propose"
+    ]
+  },
+  "pnj.melisselherboriste.tisane_de_serenite.rappel": {
+    "sounds": [
+      "pnjvoix:melisselherboriste_tisane_de_serenite_rappel"
+    ]
+  },
+  "pnj.melisselherboriste.tisane_de_serenite.recompense": {
+    "sounds": [
+      "pnjvoix:melisselherboriste_tisane_de_serenite_recompense"
+    ]
+  },
+  "pnj.melisselherboriste.tisane_de_serenite.terminee": {
+    "sounds": [
+      "pnjvoix:melisselherboriste_tisane_de_serenite_terminee"
+    ]
+  },
+  "pnj.melisselherboriste.refus": {
+    "sounds": [
+      "pnjvoix:melisselherboriste_refus"
+    ]
   }
 }
