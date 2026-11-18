@@ -38,3 +38,4 @@ titan_cochon
 troll_gros
 troll_soldat
 troll_sorcier
+dos_bonnet_noel
