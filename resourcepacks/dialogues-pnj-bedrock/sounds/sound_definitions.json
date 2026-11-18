@@ -5122,31 +5122,31 @@
         "sounds/pnjvoix/zorolemaitredarmes_zoro_est_libre_recompense"
       ]
     },
-    "pnjvoix:pnj.melisselherboriste.tisane_de_serenite.propose": {
+    "pnjvoix:pnj.maomaolapothicaire.tisane_de_serenite.propose": {
       "category": "master",
       "sounds": [
         "sounds/pnjvoix/melisselherboriste_tisane_de_serenite_propose"
       ]
     },
-    "pnjvoix:pnj.melisselherboriste.tisane_de_serenite.rappel": {
+    "pnjvoix:pnj.maomaolapothicaire.tisane_de_serenite.rappel": {
       "category": "master",
       "sounds": [
         "sounds/pnjvoix/melisselherboriste_tisane_de_serenite_rappel"
       ]
     },
-    "pnjvoix:pnj.melisselherboriste.tisane_de_serenite.recompense": {
+    "pnjvoix:pnj.maomaolapothicaire.tisane_de_serenite.recompense": {
       "category": "master",
       "sounds": [
         "sounds/pnjvoix/melisselherboriste_tisane_de_serenite_recompense"
       ]
     },
-    "pnjvoix:pnj.melisselherboriste.tisane_de_serenite.terminee": {
+    "pnjvoix:pnj.maomaolapothicaire.tisane_de_serenite.terminee": {
       "category": "master",
       "sounds": [
         "sounds/pnjvoix/melisselherboriste_tisane_de_serenite_terminee"
       ]
     },
-    "pnjvoix:pnj.melisselherboriste.refus": {
+    "pnjvoix:pnj.maomaolapothicaire.refus": {
       "category": "master",
       "sounds": [
         "sounds/pnjvoix/melisselherboriste_refus"
