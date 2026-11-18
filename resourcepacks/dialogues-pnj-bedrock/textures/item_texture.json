@@ -101,6 +101,9 @@
     "munition9mm": {
       "textures": "textures/items/munition9mm"
     },
+    "bourse": {
+      "textures": "textures/items/bourse"
+    },
     "ailes_ange": {
       "textures": "textures/items/ailes_ange"
     },

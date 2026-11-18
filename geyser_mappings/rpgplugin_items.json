@@ -544,6 +544,19 @@
         }
       }
     ],
+    "minecraft:leather": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:bourse",
+        "bedrock_identifier": "rpgplugin:bourse",
+        "display_name": "Bourse",
+        "bedrock_options": {
+          "icon": "bourse",
+          "allow_offhand": true,
+          "display_handheld": false
+        }
+      }
+    ],
     "minecraft:iron_nugget": [
       {
         "type": "definition",
