@@ -6,11 +6,11 @@
     "identifier": "geometry.rpgplugin.dragon_mere",
     "texture_width": 128,
     "texture_height": 128,
-    "visible_bounds_width": 6,
-    "visible_bounds_height": 5,
+    "visible_bounds_width": 16,
+    "visible_bounds_height": 7,
     "visible_bounds_offset": [
      0,
-     0,
+     2.1210763943663427,
      0
     ]
    },

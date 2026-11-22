@@ -6,11 +6,11 @@
     "identifier": "geometry.rpgplugin.titan_cochon",
     "texture_width": 128,
     "texture_height": 4096,
-    "visible_bounds_width": 6,
-    "visible_bounds_height": 5,
+    "visible_bounds_width": 20,
+    "visible_bounds_height": 34,
     "visible_bounds_offset": [
      0,
-     0,
+     14.874999999999998,
      0
     ]
    },

@@ -7,10 +7,14 @@ chimere_corpse
 chimere_morte
 chouette
 corbeau
+dirigeable
+dirigeable_pose
+dirigeable_vol
 disjoncteur
 disjoncteur_enclenche
 dos_ailes_ange
 dos_ailes_demon
+dos_bonnet_noel
 dos_sac_cuir
 dos_sac_cuivre
 dos_sac_diamant
@@ -31,6 +35,8 @@ loup_monture
 luciole
 mimique
 ordinateur_tucker
+parachute
+parachute_chute
 renardeau
 scorpion_geant
 scorpion_geant_corpse
@@ -38,4 +44,3 @@ titan_cochon
 troll_gros
 troll_soldat
 troll_sorcier
-dos_bonnet_noel
