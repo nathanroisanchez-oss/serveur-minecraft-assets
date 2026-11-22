@@ -1,0 +1,28 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:parachute_chute",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/parachute"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.parachute"
+   },
+   "animations": {
+    "chute": "animation.rpgplugin.parachute.chute"
+   },
+   "scripts": {
+    "animate": [
+     "chute"
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}
