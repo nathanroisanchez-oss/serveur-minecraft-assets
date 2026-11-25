@@ -115,6 +115,60 @@
     },
     "hache_troll": {
       "textures": "textures/items/hache_troll"
+    },
+    "trophee_aventure_bronze": {
+      "textures": "textures/items/trophee_aventure_bronze"
+    },
+    "trophee_aventure_argent": {
+      "textures": "textures/items/trophee_aventure_argent"
+    },
+    "trophee_aventure_or": {
+      "textures": "textures/items/trophee_aventure_or"
+    },
+    "trophee_combat_bronze": {
+      "textures": "textures/items/trophee_combat_bronze"
+    },
+    "trophee_combat_argent": {
+      "textures": "textures/items/trophee_combat_argent"
+    },
+    "trophee_combat_or": {
+      "textures": "textures/items/trophee_combat_or"
+    },
+    "trophee_minijeux_bronze": {
+      "textures": "textures/items/trophee_minijeux_bronze"
+    },
+    "trophee_minijeux_argent": {
+      "textures": "textures/items/trophee_minijeux_argent"
+    },
+    "trophee_minijeux_or": {
+      "textures": "textures/items/trophee_minijeux_or"
+    },
+    "trophee_exploration_bronze": {
+      "textures": "textures/items/trophee_exploration_bronze"
+    },
+    "trophee_exploration_argent": {
+      "textures": "textures/items/trophee_exploration_argent"
+    },
+    "trophee_exploration_or": {
+      "textures": "textures/items/trophee_exploration_or"
+    },
+    "trophee_jeubase_bronze": {
+      "textures": "textures/items/trophee_jeubase_bronze"
+    },
+    "trophee_jeubase_argent": {
+      "textures": "textures/items/trophee_jeubase_argent"
+    },
+    "trophee_jeubase_or": {
+      "textures": "textures/items/trophee_jeubase_or"
+    },
+    "trophee_metiers_bronze": {
+      "textures": "textures/items/trophee_metiers_bronze"
+    },
+    "trophee_metiers_argent": {
+      "textures": "textures/items/trophee_metiers_argent"
+    },
+    "trophee_metiers_or": {
+      "textures": "textures/items/trophee_metiers_or"
     }
   }
 }

@@ -644,6 +644,258 @@
         "components": {
           "minecraft:max_stack_size": 1
         }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_aventure_bronze",
+        "bedrock_identifier": "rpgplugin:trophee_aventure_bronze",
+        "display_name": "Trophée de bronze : Aventure",
+        "bedrock_options": {
+          "icon": "trophee_aventure_bronze",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_aventure_argent",
+        "bedrock_identifier": "rpgplugin:trophee_aventure_argent",
+        "display_name": "Trophée d'argent : Aventure",
+        "bedrock_options": {
+          "icon": "trophee_aventure_argent",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_aventure_or",
+        "bedrock_identifier": "rpgplugin:trophee_aventure_or",
+        "display_name": "Trophée d'or : Aventure",
+        "bedrock_options": {
+          "icon": "trophee_aventure_or",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_combat_bronze",
+        "bedrock_identifier": "rpgplugin:trophee_combat_bronze",
+        "display_name": "Trophée de bronze : Combat",
+        "bedrock_options": {
+          "icon": "trophee_combat_bronze",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_combat_argent",
+        "bedrock_identifier": "rpgplugin:trophee_combat_argent",
+        "display_name": "Trophée d'argent : Combat",
+        "bedrock_options": {
+          "icon": "trophee_combat_argent",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_combat_or",
+        "bedrock_identifier": "rpgplugin:trophee_combat_or",
+        "display_name": "Trophée d'or : Combat",
+        "bedrock_options": {
+          "icon": "trophee_combat_or",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_minijeux_bronze",
+        "bedrock_identifier": "rpgplugin:trophee_minijeux_bronze",
+        "display_name": "Trophée de bronze : Mini-jeux",
+        "bedrock_options": {
+          "icon": "trophee_minijeux_bronze",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_minijeux_argent",
+        "bedrock_identifier": "rpgplugin:trophee_minijeux_argent",
+        "display_name": "Trophée d'argent : Mini-jeux",
+        "bedrock_options": {
+          "icon": "trophee_minijeux_argent",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_minijeux_or",
+        "bedrock_identifier": "rpgplugin:trophee_minijeux_or",
+        "display_name": "Trophée d'or : Mini-jeux",
+        "bedrock_options": {
+          "icon": "trophee_minijeux_or",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_exploration_bronze",
+        "bedrock_identifier": "rpgplugin:trophee_exploration_bronze",
+        "display_name": "Trophée de bronze : Exploration",
+        "bedrock_options": {
+          "icon": "trophee_exploration_bronze",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_exploration_argent",
+        "bedrock_identifier": "rpgplugin:trophee_exploration_argent",
+        "display_name": "Trophée d'argent : Exploration",
+        "bedrock_options": {
+          "icon": "trophee_exploration_argent",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_exploration_or",
+        "bedrock_identifier": "rpgplugin:trophee_exploration_or",
+        "display_name": "Trophée d'or : Exploration",
+        "bedrock_options": {
+          "icon": "trophee_exploration_or",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_jeubase_bronze",
+        "bedrock_identifier": "rpgplugin:trophee_jeubase_bronze",
+        "display_name": "Trophée de bronze : Jeu de base",
+        "bedrock_options": {
+          "icon": "trophee_jeubase_bronze",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_jeubase_argent",
+        "bedrock_identifier": "rpgplugin:trophee_jeubase_argent",
+        "display_name": "Trophée d'argent : Jeu de base",
+        "bedrock_options": {
+          "icon": "trophee_jeubase_argent",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_jeubase_or",
+        "bedrock_identifier": "rpgplugin:trophee_jeubase_or",
+        "display_name": "Trophée d'or : Jeu de base",
+        "bedrock_options": {
+          "icon": "trophee_jeubase_or",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_metiers_bronze",
+        "bedrock_identifier": "rpgplugin:trophee_metiers_bronze",
+        "display_name": "Trophée de bronze : Métiers",
+        "bedrock_options": {
+          "icon": "trophee_metiers_bronze",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_metiers_argent",
+        "bedrock_identifier": "rpgplugin:trophee_metiers_argent",
+        "display_name": "Trophée d'argent : Métiers",
+        "bedrock_options": {
+          "icon": "trophee_metiers_argent",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:trophee_metiers_or",
+        "bedrock_identifier": "rpgplugin:trophee_metiers_or",
+        "display_name": "Trophée d'or : Métiers",
+        "bedrock_options": {
+          "icon": "trophee_metiers_or",
+          "allow_offhand": true,
+          "display_handheld": false
+        },
+        "components": {
+          "minecraft:max_stack_size": 1
+        }
       }
     ]
   }
