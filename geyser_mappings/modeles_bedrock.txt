@@ -37,6 +37,7 @@ mimique
 ordinateur_tucker
 parachute
 parachute_chute
+pierre_passage
 renardeau
 scorpion_geant
 scorpion_geant_corpse
