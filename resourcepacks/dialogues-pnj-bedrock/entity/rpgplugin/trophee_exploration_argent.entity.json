@@ -1,0 +1,24 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:trophee_exploration_argent",
+   "materials": {
+    "default": "entity_alphatest"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/trophee_exploration_argent"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.trophee_exploration_argent"
+   },
+   "animations": {},
+   "scripts": {
+    "animate": []
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}
