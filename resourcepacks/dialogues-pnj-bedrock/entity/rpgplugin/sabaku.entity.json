@@ -18,7 +18,8 @@
     "spot": "animation.rpgplugin.sabaku.spot",
     "attack": "animation.rpgplugin.sabaku.attack",
     "death": "animation.rpgplugin.sabaku.death",
-    "spawn": "animation.rpgplugin.sabaku.spawn"
+    "spawn": "animation.rpgplugin.sabaku.spawn",
+    "rest": "animation.rpgplugin.sabaku.rest"
    },
    "scripts": {
     "animate": [
