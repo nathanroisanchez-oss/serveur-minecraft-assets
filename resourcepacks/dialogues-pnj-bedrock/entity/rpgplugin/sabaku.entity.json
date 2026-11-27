@@ -1,0 +1,38 @@
+{
+ "format_version": "1.10.0",
+ "minecraft:client_entity": {
+  "description": {
+   "identifier": "rpgplugin:sabaku",
+   "materials": {
+    "default": "entity_emissive_alpha"
+   },
+   "textures": {
+    "default": "textures/entity/rpgplugin/sabaku"
+   },
+   "geometry": {
+    "default": "geometry.rpgplugin.sabaku"
+   },
+   "animations": {
+    "idle": "animation.rpgplugin.sabaku.idle",
+    "walk": "animation.rpgplugin.sabaku.walk",
+    "spot": "animation.rpgplugin.sabaku.spot",
+    "attack": "animation.rpgplugin.sabaku.attack",
+    "death": "animation.rpgplugin.sabaku.death",
+    "spawn": "animation.rpgplugin.sabaku.spawn"
+   },
+   "scripts": {
+    "animate": [
+     {
+      "idle": "query.modified_move_speed <= 0.02"
+     },
+     {
+      "walk": "query.modified_move_speed > 0.02"
+     }
+    ]
+   },
+   "render_controllers": [
+    "controller.render.default"
+   ]
+  }
+ }
+}

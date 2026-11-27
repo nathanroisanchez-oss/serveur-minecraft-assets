@@ -39,6 +39,7 @@ parachute
 parachute_chute
 pierre_passage
 renardeau
+sabaku
 scorpion_geant
 scorpion_geant_corpse
 titan_cochon
