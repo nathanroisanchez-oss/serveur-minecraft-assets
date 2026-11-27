@@ -169,6 +169,12 @@
     },
     "trophee_metiers_or": {
       "textures": "textures/items/trophee_metiers_or"
+    },
+    "pupille_sabaku": {
+      "textures": "textures/items/pupille_sabaku"
+    },
+    "boucle_energie": {
+      "textures": "textures/items/boucle_energie"
     }
   }
 }

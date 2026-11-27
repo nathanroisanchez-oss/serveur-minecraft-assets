@@ -896,6 +896,30 @@
         "components": {
           "minecraft:max_stack_size": 1
         }
+      },
+      {
+        "type": "definition",
+        "model": "rpgplugin:pupille_sabaku",
+        "bedrock_identifier": "rpgplugin:pupille_sabaku",
+        "display_name": "Pupille de Sabaku",
+        "bedrock_options": {
+          "icon": "pupille_sabaku",
+          "allow_offhand": true,
+          "display_handheld": false
+        }
+      }
+    ],
+    "minecraft:snowball": [
+      {
+        "type": "definition",
+        "model": "rpgplugin:boucle_energie",
+        "bedrock_identifier": "rpgplugin:boucle_energie",
+        "display_name": "Boucle d'énergie",
+        "bedrock_options": {
+          "icon": "boucle_energie",
+          "allow_offhand": true,
+          "display_handheld": false
+        }
       }
     ]
   }
