@@ -175,6 +175,9 @@
     },
     "boucle_energie": {
       "textures": "textures/items/boucle_energie"
+    },
+    "poubelle": {
+      "textures": "textures/items/poubelle"
     }
   }
 }

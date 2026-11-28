@@ -38,6 +38,8 @@ ordinateur_tucker
 parachute
 parachute_chute
 pierre_passage
+poubelle
+poubelle_ouverte
 renardeau
 sabaku
 scorpion_geant
